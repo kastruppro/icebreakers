@@ -5,42 +5,44 @@ campaign: neverwinter-icebreakers
 holder: Milo Swiftclock
 acquired: Unknown
 rarity: artifact
-attunement: Required
+attunement: false
+homebrew: true
 tags:
   - loot
   - campaign/icebreakers
   - artifact
-  - evil
+  - spellbook
+  - homebrew
 ---
-# Book of Vile Darkness
+# Book of Vile Darkness (Homebrew)
 
-*Wondrous item, artifact (requires attunement)*
+*Spellbook (homebrew version)*
 
 ## Quick Reference
 **Holder:** [[Milo Swiftclock]]
 **Acquired:** TBD
 **Rarity:** Artifact
-**Attunement:** Required
+**Version:** Homebrew (not standard D&D stats)
 
 ## Description
 
-The Book of Vile Darkness is one of the most infamous artifacts in existence. It is a repository of all evil knowledge, penned by the archlich Vecna. The tome contains dark secrets, vile rituals, and forbidden spells that can corrupt even the purest soul.
+A homebrew version of the infamous Book of Vile Darkness. Unlike the official artifact, this version functions as a spellbook containing dark spells rather than granting the full corrupting powers of the original.
 
-## Properties
+## Contents
 
-**WARNING:** This is an evil artifact. Attuning to it requires an evil alignment and has severe consequences.
+| Level | Spells |
+|-------|--------|
+| 1st | Comprehend Languages, Disguise Self, Feather Fall, Fog Cloud, Detect Magic, Shield, Hellish Rebuke |
+| 2nd | Detect Thoughts, Gust of Wind, Hold Person, Misty Step |
+| 3rd | Dispel Magic, Fireball, Thunder Step, Vampiric Touch, Wall of Water |
 
-The book contains:
-- Dark rituals and forbidden magic
-- Secrets of lichdom and undeath
-- Vile spells not found elsewhere
-- Knowledge that corrupts the reader
+## Notes
 
-## Campaign Notes
-
-*How the party encountered this artifact and its current status - TBD*
+- This is a **homebrew item** - does not use official D&D Book of Vile Darkness stats
+- Functions as a spellbook with dark/forbidden spells
+- No attunement or alignment requirements in this version
 
 ## Connections
 
-- [[Tharizdun]] - The cult may seek this artifact
-- Potential connection to the dark rituals at [[House Castellers]]
+- [[Tharizdun]] - The cult may have connection to this book
+- [[House Castellers]] - Possibly found during the infiltration

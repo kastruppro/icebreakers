@@ -125,11 +125,23 @@ Milo specializes in battlefield control and burst damage through chronurgy magic
 
 ## **Acquired Spellbooks**
 
-### Castellers Spellbook
-*Obtained from House Castellers*
-- **Level 1:** Comprehend Languages, **Disguise Self**, **Feather Fall**, Fog Cloud, Detect Magic, Shield, Hellish Rebuke
-- **Level 2:** **Detect Thoughts**, Gust of Wind, Hold Person, Misty Step
-- **Level 3:** Dispel Magic, **Fireball**, Thunder Step, Vampiric Touch, Wall of Water
+> [!info]+ [[Castellers_Spellbook|Castellers Spellbook]]
+> *Obtained from House Castellers - contains Dunamancy spells*
+>
+> | Level | Spells |
+> |-------|--------|
+> | 1st | Magnify Gravity, Gift of Alacrity |
+> | 2nd | Immovable Object |
+> | 3rd | Pulse Wave |
+
+> [!info]+ [[Book_of_Vile_Darkness|Book of Vile Darkness]] (Homebrew)
+> *Dark spellbook with standard arcane spells*
+>
+> | Level | Spells |
+> |-------|--------|
+> | 1st | Comprehend Languages, Disguise Self, Feather Fall, Fog Cloud, Detect Magic, Shield, Hellish Rebuke |
+> | 2nd | Detect Thoughts, Gust of Wind, Hold Person, Misty Step |
+> | 3rd | Dispel Magic, Fireball, Thunder Step, Vampiric Touch, Wall of Water |
 
 ## **Personal Side Quests**
 1. **Find Liora:** Discover what happened to his sister and why she left the warning
