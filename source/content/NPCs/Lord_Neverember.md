@@ -19,7 +19,6 @@ tags:
   - rescue-target
   - imprisoned
 ---
-
 # Lord Neverember
 
 ## Quick Reference

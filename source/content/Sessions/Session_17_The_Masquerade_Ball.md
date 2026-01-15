@@ -15,6 +15,8 @@ tags:
 
 # Session 17: The Masquerade Ball
 
+![[Pasted image 20260115022730.png]]
+
 **Date:** [[2025-11-26]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
 

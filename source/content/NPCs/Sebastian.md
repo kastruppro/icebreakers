@@ -20,6 +20,8 @@ tags:
 
 # Sebastian
 
+![[Pasted image 20260115022752.png]]
+
 ## Quick Reference
 **Race/Gender:** Human Male
 **Role:** Powerful Mage, Leader of Cloak Tower

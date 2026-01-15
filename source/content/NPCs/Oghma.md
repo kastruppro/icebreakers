@@ -17,7 +17,6 @@ tags:
   - campaign/icebreakers
   - deity
 ---
-
 # Oghma
 
 ## Quick Reference

@@ -18,9 +18,9 @@ tags:
   - mentor
   - wizard
 ---
-
 # Elira Moonshadow
 
+![[ChatGPT Image May 30, 2025 at 10_12_39 AM.png]]
 ## Quick Reference
 **Race/Gender:** High Elf Female
 **Role:** Divination Wizard, Archivist/Ink-Scribe of Oghma

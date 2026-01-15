@@ -18,7 +18,6 @@ tags:
   - void
   - lore-source
 ---
-
 # Sabrina Nightgale
 
 ## Quick Reference

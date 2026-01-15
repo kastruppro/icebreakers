@@ -18,7 +18,6 @@ tags:
   - family
   - divine
 ---
-
 # Morgane
 
 ## Quick Reference

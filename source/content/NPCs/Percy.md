@@ -17,7 +17,6 @@ tags:
   - noble
   - thief
 ---
-
 # Percy
 
 ## Quick Reference

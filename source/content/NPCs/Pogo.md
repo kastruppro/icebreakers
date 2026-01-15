@@ -16,7 +16,6 @@ tags:
   - animal
   - pet
 ---
-
 # Pogo
 
 ## Quick Reference

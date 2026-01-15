@@ -16,9 +16,9 @@ tags:
   - suspicious
   - wizard
 ---
-
 # Professor Thaddeus Blackthorn
 
+![[image 2.png]]
 ## Quick Reference
 **Race/Gender:** Human Male
 **Role:** Dunamancy Wizard

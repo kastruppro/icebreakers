@@ -16,9 +16,9 @@ tags:
   - campaign/icebreakers
   - daggers-of-the-north
 ---
-
 # Morguna
 
+![[Pasted image 20260115022947.png]]
 ## Quick Reference
 **Race/Gender:** Elf Female
 **Role:** Paladin, Leader of Daggers of the North

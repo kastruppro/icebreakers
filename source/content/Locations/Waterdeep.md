@@ -63,3 +63,8 @@ The Crown of the North, Waterdeep is a massive metropolis approximately ten time
 - [[Daggerford]] - Small town 1 hour away
 - [[House Castellers]] - Noble mansion within the city
 - [[House of Justice]] - Temple of Tyr within the city
+
+![[Pasted image 20260115022448.png]]
+![[Pasted image 20260115022457.png]]
+![[Pasted image 20260115022506.png]]
+![[Pasted image 20260115022611.png]]
