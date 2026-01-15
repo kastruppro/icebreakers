@@ -1,6 +1,8 @@
 ---
 type: location
 name: House of Knowledge
+aliases:
+  - Chapel of Oghma
 campaign: neverwinter-icebreakers
 region: Neverwinter
 location_type: building
@@ -37,9 +39,11 @@ The House of Knowledge is the temple of Oghma in Neverwinter, serving as both a 
 - Used for sensitive magical examinations
 - Site of Arthur's curse removal attempt (Session 9)
 
-### Chapel
-- Contains statue of Oghma
+### Chapel of Oghma
+- Sacred chapel within the House of Knowledge
+- Contains large statue of Oghma
 - Arthur and the shadow entity fled here during combat (Session 10)
+- Site where Milo met Oghma directly and received divine favor
 
 ## NPCs Found Here
 - [[Master Tiberius Gearwhistle]] - Artificer/Wizard, Milo's former mentor
