@@ -32,12 +32,18 @@ Wife of Victor Castellers and mother to their two children. Appears to have been
 ## Personality
 Protective of her children. Showed genuine grief when Victor was taken. Helpful to the party after they saved her children, providing information and access to the hidden room. May have been complicit in some of Victor's activities but unclear to what extent.
 
-## Key Quotes
+## Important Quotes
 > "Victor is coming. Victor is coming." - Session 21, her voice warning the party through the dream realm
 
 > "Thank you for saving my kids. But I don't know what happened to Victor now." - Session 21, after Victor was claimed
 
 > "He mentioned something about the four princes. Tharizdun's princes." - Session 21, revealing the nature of Victor's deal
+
+> "Victor told me he was visited by a demon who told him that in exchange for gaining more power, we would have to make a deal. But the deal would come at a later point." - Session 20
+
+> "I don't know how to get them back. I just want my spellbook back. If I could help you, I would." - Session 20
+
+> "Have you ever met someone where your entire life just revolves around them? I haven't really been by myself like this, so I don't know what to do." - Session 22
 
 ## History with Party
 - **Session 17**: Present at masquerade ball at House Castellers (no direct interaction)

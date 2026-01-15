@@ -33,7 +33,9 @@ Left Godwin (Modred's father) years ago. Now serves as a priestess at the Temple
 ## Personality
 Caring and practical. Maintains complicated feelings about her former husband Godwin - she warns Modred about him but also reports when Godwin reaches out. Takes her role as priestess seriously and provides sanctuary to those in need.
 
-## Key Quotes
+## Important Quotes
+> "Arthur possessed, your father mad... both my sons leaving broke him completely." - Session 9
+
 > "Your dad was here some days ago. He asked for you specifically... I'm not saying you should go. I know how he can be when he starts drinking a lot. It might be a trick. But he was sober when he came. Didn't look good, but he was sober. He really wanted to talk with you." - Session 22, to Modred
 
 ## History with Party

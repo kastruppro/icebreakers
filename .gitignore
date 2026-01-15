@@ -3,6 +3,8 @@ source/content/Songs/
 source/content/Context/
 source/content/Transcripts/
 source/content/Data/
+source/content/Voiceovers/
+source/content/Milo/
 
 # OS files
 .DS_Store

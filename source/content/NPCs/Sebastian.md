@@ -37,7 +37,9 @@ Secretive, paranoid. Reacted urgently when Clover exposed his blackened hand at 
 - **Travel Anomaly**: Arrived in Waterdeep impossibly fast from Neverwinter (7+ day journey)
 - **Conspiracy**: Working with Victor Castellers on something secret
 
-## Key Quotes
+## Important Quotes
+> "Lord Neverember wouldn't let me, but now I can." - Session 5
+
 > "We have been compromised." - Session 17, to Victor Castellers (lip-read by Clover)
 
 ## History with Party

@@ -33,7 +33,7 @@ An elven adventurer who was banished to the Void approximately 200 years ago (fr
 ## Personality
 Even after 200 years of imprisonment in the Void, Sabrina retained her clarity and helpfulness. She shared critical information with the party despite her own hopeless situation.
 
-## Key Quotes
+## Important Quotes
 > "The shadow must never be freed in the void - it would break the chains and release everything from the underworld." - Session 11
 
 > "The only way to free someone possessed by the Shadow is by taking them into the Void and performing a binding ritual." - Session 11

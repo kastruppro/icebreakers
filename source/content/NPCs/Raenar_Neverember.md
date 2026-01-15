@@ -32,6 +32,9 @@ Found hanging in a trap in the forest. Led party to Waterdeep. Owns a golden ret
 ## Personality
 Helpful, trustworthy. Dreams of reuniting with his father (per Desna).
 
+## Important Quotes
+> "My father is missing? Where have you been living? Under a rock?" - Session 11
+
 ## Key Information
 - Father (Lord Neverember) is missing - fell through triangular portal
 - Dreams of being with his father again (confirms trustworthy via Desna)

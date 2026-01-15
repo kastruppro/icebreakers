@@ -31,8 +31,12 @@ An elven paladin who leads the Daggers of the North, a group investigating cult 
 ## Personality
 Trusting and open, perhaps to a fault according to her companion Leena. Morguna believes in building alliances and sharing information freely with those who seem to oppose the same evils. She takes a collaborative approach to fighting the cult threat, willing to share hard-won intelligence with the party.
 
-## Key Quotes
-> Suggested the party visit the Temple of Desna for guidance - Session 17
+## Important Quotes
+> "The Castellers are not to be trusted." - Session 18
+
+> "If magic is not working, maybe this temple can help you in some way." - Session 19
+
+> "Rafael our friend had a lot of nightmares about chains and some weird demon." - Session 19
 
 ## History with Party
 - Session 17: First encountered the The Icebreakers; suggested they visit the [[Temple of Desna]]

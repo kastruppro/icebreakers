@@ -33,8 +33,8 @@ A broken shell of a noble patriarch. Once a powerful figure in House De Moray, G
 ## Personality
 Consumed by guilt, hatred, and shame. His mental state has rendered him unstable and dangerous. When the party visited, he attacked them with Wall of Fire rather than engage in conversation.
 
-## Key Quotes
-> "I have no son. My son is gone. Leave." - To Modred, Session 12
+## Important Quotes
+> "I have no son. My son is gone. Leave." - Session 12, to Modred
 
 ## History with Party
 - **Session 12**: Party visited House De Moray in Waterdeep. Found Godwin in his deteriorated state. He attacked them with Wall of Fire when Milo tried to introduce the party.

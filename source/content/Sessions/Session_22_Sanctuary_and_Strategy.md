@@ -180,4 +180,3 @@ tags:
   - Clover gained Giant Constrictor Snake wild shape
   - Modred considering Intelligence increase for spell save DC
   - Jaspar multiclassing into Artificer
-  - Milo gained access to 3rd level spells

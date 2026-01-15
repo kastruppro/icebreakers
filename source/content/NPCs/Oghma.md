@@ -32,8 +32,11 @@ The Faerunian god of knowledge, inspiration, and bards. Patron deity of the Hous
 ## Personality
 Bound by celestial rules forbidding direct intervention, but willing to bend those rules for mortals with courage. Respects those bold enough to demand answers. Despite claiming inability to help directly, found a way to grant Milo power.
 
-## Key Quotes
+## Important Quotes
+> "Find me when you come to Neverwinter. I have something for you because of everything you set in motion." - Session 8
+
 > "Come to me, Milo." - Session 10, summoning Milo to his divine realm
+
 > "I would like to help but am not allowed by the ancient rules for Celestials." - Session 10, explaining divine limitations before bending them
 
 ## History with Party

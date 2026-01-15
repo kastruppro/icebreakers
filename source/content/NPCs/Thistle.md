@@ -34,7 +34,7 @@ Young Harengon druid, approximately 16 years old. Sister to Clover. Was held cap
 ## Personality
 Still confused and recovering from her magical imprisonment. Shows willingness to help and fight alongside her sister but defers to Clover's authority. Unfamiliar with non-druidic religious practices (confused by Tyr's statue). Resilient despite everything she's been through.
 
-## Key Quotes
+## Important Quotes
 > "I don't know about the artifact. Everything went so fast. Suddenly, there were cultists everywhere. But I did hear, as they captured me, that they were looking for Thassa and they were looking for strong spellcasters that could bind someone." - Session 22, revealing crucial cult intelligence
 
 > "This is not the Oak Father." - Session 22, confused by praying to Tyr

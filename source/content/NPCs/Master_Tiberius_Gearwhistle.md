@@ -40,6 +40,11 @@ Patient and methodical as befits a teacher and researcher. Takes problems seriou
 - **Ward Crafting**: Placed protective wards on [[Arthur De Moray]]
 - **Luxon Knowledge**: Knows about the mysterious Luxon
 
+## Important Quotes
+> "Your parents are probably bad people." - Session 4
+
+> "It's used for time travel magic." - Session 4, about the Luxon
+
 ## Key Contributions
 - Examined the corrupted substance on the party's weapons
 - Created magical containment wards for Arthur's shadow possession

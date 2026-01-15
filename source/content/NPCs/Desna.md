@@ -30,14 +30,18 @@ tags:
 ## Description
 Appeared as a face formed from constellations with starry cloud hair. The opposite feeling of the Void - complete peace and calm.
 
-## Key Quotes
-> "Welcome, I've been expecting you."
+## Important Quotes
+> "Welcome, I've been expecting you." - Session 19
 
-> "This problem of yours is grave. And your sister has been put under the spell of Tharizdun himself. No mortal can wake her."
+> "This problem of yours is grave. And your sister has been put under the spell of Tharizdun himself. No mortal can wake her." - Session 19
 
-> "Going into other people's dreams, especially dreams of the betrayer gods. If you fail in the dream, it is impossible to get out."
+> "This staff you can use to enter the dreams, the nightmares of your sister and hopefully free her that way. However, there is a price... If you fail in the dream, it is impossible to get out." - Session 19
 
-> "Thank you, I forgot how sweet mortals can be." - After Jaspar gave her a pepper nut
+> "The whole fate of the world lies in all of your hands. No pressure." - Session 19
+
+> "Cora's dreams are full of destruction. Hate." - Session 19
+
+> "Thank you, I forgot how sweet mortals can be." - Session 19, after Jaspar gave her a pepper nut
 
 ## Revelations Provided (Session 19)
 1. Thistle is under Tharizdun's direct spell - no mortal can wake her

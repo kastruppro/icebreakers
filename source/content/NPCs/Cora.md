@@ -32,7 +32,11 @@ Dark-cloaked cultist who serves Tharizdun. Known for her acrobatic escapes.
 ## Personality
 Mocking, confident, taunting. Takes pleasure in the party's struggles. Dreams full of destruction and hate according to Desna - "not a good person."
 
-## Key Quotes
+## Important Quotes
+> "The chained one has been released." - Session 8
+
+> "Why did you break me free?" - Session 8
+
 > "Ah, so it has begun already. I see that you have taken the gift of Faisten. I see that you have embraced it." - Session 17, upon seeing Modred's blackened fingers
 
 > "I think I know where your brother is anyway." - Session 17, before escaping through portal

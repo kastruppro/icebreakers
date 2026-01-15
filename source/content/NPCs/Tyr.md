@@ -55,6 +55,16 @@ Tyr tasked the party with:
 Granted to entire party:
 > "As an action, you can sacrifice some or all of your hit points to give to another creature, but you take on all recent injuries and conditions from that creature, including diseases, dismemberment, and death."
 
+## Important Quotes
+
+> "Tyr cannot interfere directly. Divine rules. But you can retrieve my gauntlets - they will be crucial against the Betrayer God." - Session 13
+
+> "Use the gauntlets to set Tharizdun further back into the world and the party will succeed." - Session 16
+
+> "Things are moving fast for the Betrayer God. Things are happening. Things are being put in process. You need to act swiftly soon. Otherwise Tharizdun will destroy the whole world." - Session 22
+
+> "I also feel something is happening within the walls of Waterdeep. Great power is coming from somewhere." - Session 22
+
 ## Connections
 - [[Tharizdun]] - Primary opposition
 - [[Desna]] - Fellow deity opposing Tharizdun
