@@ -73,7 +73,7 @@ The party fought an elemental chimera-beast in the dream realm - a creature that
 - [[Desna]] - Goddess who provided the Dream Staff and guidance
 - [[Ammalia Castellers]] - Allied with party to help
 - [[Tharizdun]] - The chained god who held Thistle captive
-- [[Marin]] - Tabaxi rogue from Daggers of the North who assisted escape
+- [[Merin]] - Tabaxi rogue from Daggers of the North who assisted escape
 
 ## Locations
 - [[House Castellers]] - Where Thistle was found

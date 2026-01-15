@@ -15,8 +15,8 @@ tags:
 
 # Waterdeep Arrival and Dark Revelations
 
-**Date:** [[2025-10-09]]
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Date:** 2025-10-09
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > The party arrives in Waterdeep with Raenar Neverember, overwhelmed by the massive city ten times larger than Neverwinter. After meeting local merchants at Statue Protectors Square, Modred confronts his broken father Godwin at House De Moray, learning his family has fallen apart since he left. At the Sated Satyr Inn, the party officially names themselves "The The Icebreakers" while discussing the upcoming masquerade. That night, Modred discovers his corruption from the portal has spread dramatically, and he races to the temples with Clover seeking help as Milo and Jaspar sleep.

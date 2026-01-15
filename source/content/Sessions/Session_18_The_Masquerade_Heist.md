@@ -15,8 +15,8 @@ tags:
 
 # The Masquerade Heist
 
-**Date:** [[2025-12-04]]
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Date:** 2025-12-04
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > The party continued infiltrating the Castellers' masquerade ball after Clover was kicked out as a rat. While Jaspar gathered intelligence from nobles and Modred spoke with the Daggers of the North, Clover snuck back in as a cat and discovered his sister Thistle floating in a trance, channeling magic into two sleeping children. The party attempted to rescue her but Protection from Evil and Good, Dispel Magic, and Identify all failed. After fighting an animated armor guardian, they escaped with a powerful spellbook but left Thistle behind.

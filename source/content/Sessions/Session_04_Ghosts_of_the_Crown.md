@@ -15,8 +15,8 @@ tags:
 
 # Ghosts of the Crown
 
-**Date:** [[2024-XX-XX]]
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], Auren
+**Date:** 2024-XX-XX
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], Auren
 
 ## Quick Summary
 > The party encountered seven ghosts in Neverwinter Castle who were the ancient king's guard, slain by the same cursed power Jaspar's sword carries. The ghosts offered a draining crown containing their spirits to aid against the cult. After visiting the House of Knowledge, Milo discovered a hidden room in his parents' home containing a spellbook and multi-generational research journal about the cult and the Luxon Beacon portal magic.

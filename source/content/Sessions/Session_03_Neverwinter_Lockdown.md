@@ -15,8 +15,8 @@ tags:
 
 # Neverwinter Lockdown
 
-**Date:** [[2024-02-07]]
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], Auren (former party member), [[Jaspar Starshade]] (first meeting)
+**Date:** 2024-02-07
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], Auren (former party member), [[Jaspar Starshade]] (first meeting)
 
 ## Quick Summary
 > The party arrived at Neverwinter to find the city in crisis - the ice dragon had frozen citizens in time. After meeting the silver-haired rogue Jaspar Starshade at the Moonstone Mask, they joined a search party for the missing Lord Neverember. At Neverwinter Castle, they battled ice skeletons to protect the partially-frozen lord, only to watch helplessly as he fell through a collapsing floor and was swallowed by a mysterious portal. In the castle's basement, they discovered the screaming ghosts of the Guardians of Nine.

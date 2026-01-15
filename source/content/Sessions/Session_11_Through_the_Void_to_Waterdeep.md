@@ -15,8 +15,8 @@ tags:
 
 # Through the Void to Waterdeep
 
-**Date:** [[2024-09-25]]
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Date:** 2024-09-25
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > The party prepares to depart Neverwinter for Waterdeep via triangular portal. Liora delivers a prophecy to Clover about choosing between family and power. Milo learns the dark truth about his sister's visions from their mother. The party travels through the Void where each member faces individual trials - Clover refuses a divine entity's offer of power, Jaspar meets his celestial "father" who gives him a sample of power, and Milo/Modred/Clover encounter the ghost Sabrina Nightgale on a boat sailing through the underworld. They emerge in a forest near Waterdeep where they rescue Raenar Neverember from his own hunting trap.

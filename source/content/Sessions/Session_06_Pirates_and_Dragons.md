@@ -16,7 +16,7 @@ tags:
 # Pirates and Dragons
 
 **Date:** [[Unknown - Session 6]]
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Auren]]
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Auren]]
 
 ## Quick Summary
 > The party looted a frozen pirate ship in Neverwinter harbor, finding gold, a treasure map, and moonstones. After selling their finds and purchasing a horse and carriage, they headed to Axeholm but witnessed the white dragon fleeing a massive ring of frost expanding from the mountains. Their carriage was destroyed by ice spikes, forcing them to proceed on foot. At Axeholm's entrance, they encountered the dragon eating a goat and had to sneak past it to reach safety inside.

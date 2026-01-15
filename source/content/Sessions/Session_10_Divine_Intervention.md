@@ -15,8 +15,8 @@ tags:
 
 # Divine Intervention
 
-**Date:** [[2025-09-17]]
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Date:** 2025-09-17
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > The party battled a shadow entity possessing Arthur in the Chapel of Oghma, with a new ally Clover joining the fight. After subduing the shadow, Milo received divine favor directly from Oghma himself, gaining the Fey Touched feat. The party then reunited with Milo's family, learning crucial information about their grandfather's research into the cult and the mechanics of void portals.

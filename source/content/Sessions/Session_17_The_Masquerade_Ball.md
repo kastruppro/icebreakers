@@ -17,8 +17,8 @@ tags:
 
 ![[attachments/session17.png]]
 
-**Date:** [[2025-11-26]]
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Date:** 2025-11-26
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > After retrieving Tyr's gauntlets from the temple, the party emerged to find Cora waiting with cultists. Following a fierce battle where all four cultists were slain, Cora escaped through a triangular portal. The party rushed to warn Arthur via Sending spell, then attended the Castellers masquerade ball. There, Clover's clever ruse exposed Sebastian's severely corrupted hands, and lip-reading revealed Sebastian and Victor conspiring. Clover's attempt to follow them as a rat ended with a Nat 20 kick that yeeted the druid over the mansion gates.

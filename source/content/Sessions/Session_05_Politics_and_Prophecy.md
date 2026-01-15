@@ -15,8 +15,8 @@ tags:
 
 # Politics and Prophecy
 
-**Date:** [[2024-XX-XX]]
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], Auren
+**Date:** 2024-XX-XX
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], Auren
 
 ## Quick Summary
 > The party investigates the Neverwinter election as Sebastian and Liset campaign for power. They split up to gather information - Jaspar courts Sebastian for work, Modred and Auren infiltrate the Moonstone Mask to question Liset, and Milo researches dragons and the mysterious Edward Hammel at the House of Knowledge. The session ends with grave-robbing and Jaspar experiencing a terrifying prophetic dream.

@@ -15,8 +15,8 @@ tags:
 
 # Into the Chained One's Temple
 
-**Date:** [[2025-10-30]]
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Clover]] (Jaspar absent - working with [[Gigz]])
+**Date:** 2025-10-30
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Clover]] (Jaspar absent - working with [[Gigz]])
 
 ## Quick Summary
 > The party ventured to the Tharizdun cult ruins in the forest outside Waterdeep as a "warm up" before the masquerade ball. After activating a blood-sealed elevator with Modred's sacrifice, they descended into a massive underground temple dominated by a giant statue of the Chained One. In the well chamber, they faced a brutal chain puzzle that required defeating waves of regenerating oozes while securing chains to hooks. The final battle against a large Oblex that created a perfect magical duplicate of Milo pushed the party to their limits, but they emerged victorious with the mechanism activated and more dungeon awaiting.

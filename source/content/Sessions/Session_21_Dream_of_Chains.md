@@ -15,8 +15,8 @@ tags:
 
 # Dream of Chains
 
-**Date:** [[2026-01-07]]
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Date:** 2026-01-07
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > The party defeated the elemental chimera-beast in the dream realm by exploiting its adaptive nature with cold damage. Thistle was freed from her trance, but the party had to flee House Castellers as Victor arrived. Victor was claimed by Tharizdun through a triangular portal, while Milo discovered Lord Neverember chained in a basement ritual. The party escaped with the Castellers children and a mysterious shrine chest.
@@ -27,7 +27,7 @@ tags:
 - **[[Victor Castellers]]** - Pursued party; claimed by Tharizdun via triangular portal before he could stop them
 - **[[Ammalia Castellers]]** - Revealed Victor's deal with "the four princes" of Tharizdun; helped party escape after witnessing husband's fate
 - **[[Thistle]]** - Clover's sister, freed from magical trance when the dream-beast was slain
-- **[[Marin]]** - Tabaxi Rogue from Daggers of the North, assisted with infiltration and escape
+- **[[Merin]]** - Tabaxi Rogue from Daggers of the North, assisted with infiltration and escape
 - **[[Lord Neverember]]** - Discovered chained in basement ritual circle, surrounded by cultists
 
 ## Places Visited

@@ -17,8 +17,8 @@ tags:
 
 ![[attachments/session07.png]]
 
-**Date:** [[2024-XX-XX]]
-**Party Present:** [[Milo Swiftclock]], [[Jaspar Starshade]], Auren (absent: [[Sir Modred De Moray]])
+**Date:** 2024-XX-XX
+**Party Present:** [[Milo Swiftclock]], [[Jaspar Starshade]], Auren (absent: [[Modred_De_Moray|Sir Modred De Moray]])
 
 ## Quick Summary
 > The party entered Axeholm, fought ice skeletons and a stone giant, met the dwarf Braum who accused Milo of theft, and discovered a triangular portal. Using the Luxon fragment and ritual, they passed through the Void where each was tempted by false divine beings showing visions of their deepest fears and desires. They emerged on a mountain top to witness Liora frozen mid-struggle with Cora, and the hammer's power unleashing the wave of ice that had plagued the land.

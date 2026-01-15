@@ -15,8 +15,8 @@ tags:
 
 # Masquerade Preparations
 
-**Date:** [[2025-10-23]]
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Date:** 2025-10-23
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > Following their arena victory, the The Icebreakers received tickets to the Castellers Masquerade. They spent the day gathering intelligence about House Castellers' suspicious rise to power, shopping for magical items and formal attire, and developing a strategic plan for infiltrating the party. Jaspar began an apprenticeship with Erik the Dwarf to learn conduit magic, while the party learned critical information about the Castellers' missing children and their unexplained wealth.

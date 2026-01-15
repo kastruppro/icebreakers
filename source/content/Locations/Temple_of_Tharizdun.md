@@ -81,7 +81,7 @@ An ancient underground temple dedicated to Tharizdun, the Chained One, an impris
 - [[Tyr]] appeared as black hound after gauntlets claimed - Session 16
 
 ## Items Found Here
-- [[Tyr's Gauntlets]] - Claimed by Clover in Session 16; gauntlets resized to fit her harengon hands
+- [[Tyrs_Gauntlets|Tyr's Gauntlets]] - Claimed by Clover in Session 16; gauntlets resized to fit her harengon hands
 - [[Boon of Tyr]] - Granted to entire party by Tyr after gauntlets claimed
 
 ## Events at This Location

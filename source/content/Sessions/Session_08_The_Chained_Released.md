@@ -29,8 +29,8 @@ tags:
 
 # The Chained Released
 
-**Date:** [[2024-XX-XX]]
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], Auren
+**Date:** 2024-XX-XX
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], Auren
 
 ## Quick Summary
 > The party faced ice elementals and skeletons on the mountain summit, with Auren removing a corrupted gem from the hammer to end the freeze wave. Cora escaped after declaring "the chained one has been released." Milo reunited with his freed sister Liora, who revealed she had followed their parents' research and was betrayed by Cora. On the descent, the party encountered a white dragon who made them his "servants." Back in Phandalin, Milo learned from Liora about a Great House in Waterdeep that knows about the Chained, and Oghma appeared to Milo in a dream-vision.

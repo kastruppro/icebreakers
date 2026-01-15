@@ -15,8 +15,8 @@ tags:
 
 # The Gauntlets of Tyr
 
-**Date:** [[2025-11-12]]
-**Party Present:** [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]] (Milo absent)
+**Date:** 2025-11-12
+**Party Present:** [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]] (Milo absent)
 
 ## Quick Summary
 > Continuing their exploration of the Temple of Tharizdun, the party solved a three-lever sequential puzzle, answered three riddles from a tragic horned statue, and successfully retrieved Tyr's Gauntlets from a chamber guarded by the Substance. Tyr appeared as a black hound, granting the entire party his Boon and revealing their next quest: find four Tharizdun ruins around Waterdeep and use the gauntlets to push the Chained One further into imprisonment. Upon exiting the temple, the party found Cora waiting for them, clapping with excitement.
@@ -70,7 +70,7 @@ tags:
 
 | Item | Description | Holder |
 |------|-------------|--------|
-| [[Tyr's Gauntlets]] | Divine artifact; used to interact with chains in Tharizdun ruins; originally larger, resized to fit Clover | Clover |
+| [[Tyrs_Gauntlets|Tyr's Gauntlets]] | Divine artifact; used to interact with chains in Tharizdun ruins; originally larger, resized to fit Clover | Clover |
 | Boon of Tyr | Divine blessing; HP sacrifice/transfer ability | All party members |
 
 ## Key Events Timeline

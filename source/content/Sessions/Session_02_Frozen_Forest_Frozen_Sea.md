@@ -15,8 +15,8 @@ tags:
 
 # Frozen Forest, Frozen Sea
 
-**Date:** [[2024-01-01]]
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], Auren Thalos
+**Date:** 2024-01-01
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], Auren Thalos
 
 ## Quick Summary
 > The party gathered supplies in Phandalin before venturing west into the forest. They encountered a centaur named Keelik whose companions had been frozen by the dragon. Modred discovered his brother Arthur frozen among them, possessed by a mysterious red-purple entity wearing a spiral cult symbol. A deadly nymph charmed the party, but they killed her and freed a treant from her control. The treant revealed that someone resembling Modred had passed through earlier. Following the stream west, the party discovered the entire ocean had frozen solid.

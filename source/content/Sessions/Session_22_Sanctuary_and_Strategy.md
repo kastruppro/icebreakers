@@ -15,8 +15,8 @@ tags:
 
 # Sanctuary and Strategy
 
-**Date:** [[2026-01-12]]
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Date:** 2026-01-12
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > After escaping House Castellers with Thistle and the children, the party regrouped to plan Lord Neverember's rescue. Thistle revealed cultists were seeking "Thassa" and spellcasters who could "bind someone." Modred received an urgent divine warning from Tyr about Tharizdun's acceleration. The party learned Godwin De Moray visited the Temple of Tyr sober, asking for his son. After strategic planning with Ammalia and Raenar, the party rested and leveled to 6, preparing for a 4am assault on the Castellers basement.
@@ -60,7 +60,7 @@ tags:
 - Human-sized Tyr statue present
 - Modred has visited before
 
-### [[Sated Satyr]]
+### [[Sated_Satyr_Inn|Sated Satyr]]
 **Tavern Interior:**
 - Busy evening crowd with music and dining
 - Raenar found in corner with dog Pogo

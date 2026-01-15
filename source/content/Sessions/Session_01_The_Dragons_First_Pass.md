@@ -16,7 +16,7 @@ tags:
 # The Dragon's First Pass
 
 **Date:** Unknown
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], Auren Thalos (Eladrin Sorcerer), "Isak" (Reborn Paladin)
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], Auren Thalos (Eladrin Sorcerer), "Isak" (Reborn Paladin)
 
 ## Quick Summary
 > Four adventurers arrived separately in the frontier town of Phandalin just as an ancient white dragon attacked, freezing citizens in magical ice. After the chaos subsided, the party united to investigate, ultimately negotiating peace between dwarves and orcs at a nearby digging site before learning about a potential way to defeat the dragon through an orcish thunderbear ritual.

@@ -42,7 +42,7 @@ Unknown - only learned about through stories from surviving Daggers members.
 His nightmares about Tharizdun's chains may have indicated a deeper connection to the cult or the god himself. The cause of his nightmares remains unexplained.
 
 ## Connections
-- [[Moguna]] - Fellow Dagger of the North, team leader
+- [[Morguna]] - Fellow Dagger of the North, team leader
 - [[Leena]] - Fellow Dagger of the North
 - [[Merin]] - Fellow Dagger of the North
 - [[Daggers of the North]] - His adventuring party

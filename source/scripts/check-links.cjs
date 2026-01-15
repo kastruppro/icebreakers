@@ -110,10 +110,11 @@ function checkLinkTarget(target, fileIndex, fromFile) {
   return { valid: false, suggestions };
 }
 
-// Extract all wiki links from content
+// Extract all wiki links from content (excludes embeds ![[...]])
 function extractWikiLinks(content) {
   const links = [];
-  const regex = /\[\[([^\]]+)\]\]/g;
+  // Use negative lookbehind to exclude embeds (preceded by !)
+  const regex = /(?<!!)\[\[([^\]]+)\]\]/g;
   let match;
   let lineNum = 1;
   let lastIndex = 0;

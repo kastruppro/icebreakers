@@ -15,8 +15,8 @@ tags:
 
 # Divine Quests and Arena Glory
 
-**Date:** [[2025-10-16]]
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Date:** 2025-10-16
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > The party split their morning activities in Waterdeep. Modred and Clover visited the House of Justice where they learned about Modred's spreading corruption, reunited with his mother Morgane, and received a divine vision from Tyr tasking them with retrieving his stolen gauntlets. Meanwhile, Milo and Jaspar went shopping and praying. After capturing a cultist in the forest and acquiring Swift Flower herbs, the party reunited and entered the Field of Triumph arena, winning their match with spectacular showmanship and earning tickets to House Castellers' masquerade ball.

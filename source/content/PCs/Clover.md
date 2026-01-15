@@ -92,7 +92,7 @@ A beautiful glass staff that emanates warmth and starlight. Blessed by the godde
 
 The staff was essential in freeing Thistle from Tharizdun's spell. When Clover accepted it, she said: *"Whatever the price is, I'm willing to pay it."*
 
-### [[Tyr's Gauntlets]]
+### [[Tyrs_Gauntlets|Tyr's Gauntlets]]
 *Obtained from Temple of Tharizdun in Session 16*
 
 Divine gauntlets from Tyr's own armory. They magically resized to fit Clover's small harengon hands when she claimed them.

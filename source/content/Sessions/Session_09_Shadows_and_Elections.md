@@ -15,8 +15,8 @@ tags:
 
 # Shadows and Elections
 
-**Date:** [[2025-09-10]]
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]]
+**Date:** 2025-09-10
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]]
 **Note:** Auren is no longer part of the campaign as of this session.
 
 ## Quick Summary

@@ -15,8 +15,8 @@ tags:
 
 # The Dream Staff
 
-**Date:** [[2025-12-17]]
-**Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Date:** 2025-12-17
+**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > The party awoke at the Sated Satyr Inn after the masquerade, compared notes with the Daggers of the North about their shared cult investigation, learned about the Temple of Desna in Daggerford, traveled there via Clover's warhorse form, and met the goddess Desna herself who granted them the Dream Staff to enter Thistle's nightmare and free her from Tharizdun's spell.
@@ -24,7 +24,7 @@ tags:
 ## Characters Met
 
 ### New NPCs
-- **[[Moguna]]** - Elf Female - Paladin, leader of the Daggers of the North. Trusting and open, suggested the Temple of Desna. "If magic is not working, maybe this temple can help you in some way."
+- **[[Morguna]]** - Elf Female - Paladin, leader of the Daggers of the North. Trusting and open, suggested the Temple of Desna. "If magic is not working, maybe this temple can help you in some way."
 - **[[Leena]]** - Dwarf Female - Druid of the Daggers of the North. Suspicious and protective, drew her axe when Clover cast Guidance. Thinks Moguna is too naive.
 - **[[Merin]]** - Tabaxi Male - Rogue of the Daggers of the North. Cautious, uncertain if the party can be trusted.
 - **[[Rafael]]** - Human Male - Warlock of the Daggers of the North (deceased). Had nightmares about chains and a demon. Killed fighting a beast in the marsh near Daggerford.

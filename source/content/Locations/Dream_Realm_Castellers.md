@@ -54,7 +54,7 @@ The realm had a unique property: voices from the waking world could echo through
 - Session 21:
   - [[Clover]] opened with critical hit in wolf form
   - [[Jaspar Starshade]] investigated beast, learned about its adaptive armor ability
-  - [[Clover]] cast Elemental Weapon (Cold) on [[Sir Modred De Moray]]'s sword - turning point of battle
+  - [[Clover]] cast Elemental Weapon (Cold) on [[Modred_De_Moray|Sir Modred De Moray]]'s sword - turning point of battle
   - Beast transformed to half-fire/half-ice, becoming vulnerable
   - [[Milo Swiftclock]] delivered killing blow with Fireball
   - Realm collapsed, party woke in Castellers bedroom with freed Thistle
@@ -67,7 +67,7 @@ The realm had a unique property: voices from the waking world could echo through
 - Room transforms to match beast's element (fire room = fire beast)
 - Forcing elemental change (cold damage against fire form) creates vulnerability
 - Physical damage showed effect after elemental shift ("cracks forming")
-- [[Sir Modred De Moray]]'s gauntlets overcome damage resistances
+- [[Modred_De_Moray|Sir Modred De Moray]]'s gauntlets overcome damage resistances
 
 ## Important Quotes
 - "It's cracking! It's cracking!" - Modred, seeing his attacks finally penetrating

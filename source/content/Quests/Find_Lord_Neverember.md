@@ -81,7 +81,7 @@ The ritual is ACTIVELY IN PROGRESS. Lord Neverember's condition is unknown, but 
 ## Potential Allies
 - [[Daggers of the North]] - May provide backup for rescue operation
 - [[Ammalia Castellers]] - Knows the estate, may provide information
-- [[Marin]] - Tabaxi rogue currently with party
+- [[Merin]] - Tabaxi rogue currently with party
 
 ## NPCs Involved
 - [[Lord Neverember]] - The prisoner to be rescued

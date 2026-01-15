@@ -24,7 +24,7 @@ tags:
 **Race/Gender:** Human Male
 **Role:** Owner/Bartender of the Sated Satyr Tavern
 **Status:** Alive
-**Current Location:** [[Sated Satyr]] (Waterdeep)
+**Current Location:** [[Sated_Satyr_Inn|Sated Satyr]] (Waterdeep)
 
 ## Description
 Human male who owns and operates the Sated Satyr tavern in Waterdeep. Despite the establishment's name, Tibon himself is human (there is also a Satyr bartender who works at the establishment). He was named for the first time in Session 22, having previously been referred to simply as the tavern owner.
@@ -42,6 +42,6 @@ Runs a busy establishment that caters to adventurers and travelers. The Sated Sa
 - When Milo entered with Ammalia Castellers (a notable noble), the entire tavern noticed - music stopped briefly, patrons reacted with either disgust or excitement at her presence
 
 ## Connections
-- [[Sated Satyr]] - Owns this establishment
+- [[Sated_Satyr_Inn|Sated Satyr]] - Owns this establishment
 - [[Raenar Neverember]] - Regular patron
 - [[The Icebreakers]] - Rents rooms to the party
