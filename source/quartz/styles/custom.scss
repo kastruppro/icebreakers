@@ -2,12 +2,12 @@
 
 // put your custom CSS here!
 
-// Style images - larger size and hint they're interactive
+// Style images - larger size, preserve aspect ratio, max 700px in either dimension
 .popover-hint img,
 article img {
   max-width: 700px;
   max-height: 700px;
-  width: 100%;
+  width: auto;
   height: auto;
   cursor: pointer;
   border-radius: 4px;
