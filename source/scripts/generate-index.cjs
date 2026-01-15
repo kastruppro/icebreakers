@@ -9,7 +9,7 @@ const path = require('path');
 
 const CONTENT_DIR = path.join(__dirname, '../content');
 
-// Helper to get files from a directory
+// Helper to get files from a directory (non-recursive)
 function getFiles(dir) {
   const fullPath = path.join(CONTENT_DIR, dir);
   if (!fs.existsSync(fullPath)) return [];
@@ -17,6 +17,30 @@ function getFiles(dir) {
     .filter(f => f.endsWith('.md') && !f.startsWith('_'))
     .map(f => f.replace('.md', ''))
     .sort();
+}
+
+// Helper to get files recursively from a directory and all subdirectories
+function getFilesRecursive(dir) {
+  const fullPath = path.join(CONTENT_DIR, dir);
+  if (!fs.existsSync(fullPath)) return [];
+
+  const results = [];
+
+  function scanDir(currentPath) {
+    const items = fs.readdirSync(currentPath);
+    for (const item of items) {
+      const itemPath = path.join(currentPath, item);
+      const stat = fs.statSync(itemPath);
+      if (stat.isDirectory()) {
+        scanDir(itemPath);
+      } else if (item.endsWith('.md') && !item.startsWith('_')) {
+        results.push(item.replace('.md', ''));
+      }
+    }
+  }
+
+  scanDir(fullPath);
+  return results.sort();
 }
 
 // Helper to create display name from filename
@@ -50,27 +74,52 @@ function generateLinkList(dir, prefix = '') {
   return files.map(f => `- ${prefix}[[${f}\\|${displayName(f)}]]`).join('\n');
 }
 
-// Generate NPC tables by reading frontmatter (simplified - just list them)
+// Generate NPC tables with descriptions
 function generateNPCSection() {
-  const npcs = getFiles('NPCs');
+  const npcs = getFilesRecursive('NPCs');
 
-  // Hardcoded categories based on known NPCs
-  const allies = ['Thistle', 'Morgane', 'Raenar_Neverember', 'Sabrina_Nightgale', 'Elira_Moonshadow'];
-  const family = ['Liora_Swiftclock', 'Ren_Swiftclock', 'Serina_Swiftclock', 'Arthur_De_Moray', 'Godwin_De_Moray'];
-  const enemies = ['Cora', 'Ammalia_Castellers', 'Victor_Castellers', 'Tharizdun', 'Sebastian'];
-  const divine = ['Tyr', 'Oghma', 'Desna'];
+  // NPC categories and descriptions
+  const allies = {
+    'Thistle': '[[Clover]]\'s sister, druid trainee (rescued)',
+    'Morgane': '[[Modred_De_Moray|Modred]]\'s mother, Priestess of [[Tyr]]',
+    'Raenar_Neverember': '[[Lord_Neverember]]\'s son, hunter',
+    'Sabrina_Nightgale': 'Ghost adventurer from 200 years ago',
+    'Elira_Moonshadow': 'Divination Wizard, Archivist of [[Oghma]]',
+    'Ammalia_Castellers': 'Lady of [[House_Castellers]], allied after discovering truth'
+  };
 
-  const others = npcs.filter(n =>
-    !allies.includes(n) && !family.includes(n) &&
-    !enemies.includes(n) && !divine.includes(n)
-  );
+  const family = {
+    'Liora_Swiftclock': '[[Milo_Swiftclock|Milo]]\'s sister, prophet (rescued)',
+    'Ren_Swiftclock': '[[Milo_Swiftclock|Milo]]\'s father, master horologist',
+    'Serina_Swiftclock': '[[Milo_Swiftclock|Milo]]\'s mother, keeper of family secrets',
+    'Arthur_De_Moray': '[[Modred_De_Moray|Modred]]\'s brother (former possession victim)',
+    'Godwin_De_Moray': '[[Modred_De_Moray|Modred]]\'s father, patriarch (mentally broken)'
+  };
+
+  const enemies = {
+    'Cora': '[[Tharizdun]] cultist, primary antagonist',
+    'Victor_Castellers': 'Lord of [[House_Castellers]], claimed by [[Tharizdun]]',
+    'Sebastian': 'Leader of Cloak Tower, severely corrupted',
+    'Tharizdun': 'The Chained One, imprisoned evil god'
+  };
+
+  const divine = {
+    'Tyr': 'Justice (gave party [[Tyrs_Gauntlets|gauntlets]], quest giver)',
+    'Oghma': 'Knowledge (library at [[House_of_Knowledge]])',
+    'Desna': 'Dreams & Stars (guides [[Jaspar_Starshade|Jaspar]])'
+  };
+
+  const allCategorized = [...Object.keys(allies), ...Object.keys(family), ...Object.keys(enemies), ...Object.keys(divine)];
+  const others = npcs.filter(n => !allCategorized.includes(n));
 
   let section = `### Key Allies
 
 | NPC | Role |
 |-----|------|`;
-  for (const npc of allies.filter(n => npcs.includes(n))) {
-    section += `\n| [[${npc}\\|${displayName(npc)}]] | - |`;
+  for (const [npc, role] of Object.entries(allies)) {
+    if (npcs.includes(npc)) {
+      section += `\n| [[${npc}\\|${displayName(npc)}]] | ${role} |`;
+    }
   }
 
   section += `
@@ -79,8 +128,10 @@ function generateNPCSection() {
 
 | NPC | Relation |
 |-----|----------|`;
-  for (const npc of family.filter(n => npcs.includes(n))) {
-    section += `\n| [[${npc}\\|${displayName(npc)}]] | - |`;
+  for (const [npc, relation] of Object.entries(family)) {
+    if (npcs.includes(npc)) {
+      section += `\n| [[${npc}\\|${displayName(npc)}]] | ${relation} |`;
+    }
   }
 
   section += `
@@ -89,8 +140,10 @@ function generateNPCSection() {
 
 | NPC | Role |
 |-----|------|`;
-  for (const npc of enemies.filter(n => npcs.includes(n))) {
-    section += `\n| [[${npc}\\|${displayName(npc)}]] | - |`;
+  for (const [npc, role] of Object.entries(enemies)) {
+    if (npcs.includes(npc)) {
+      section += `\n| [[${npc}\\|${displayName(npc)}]] | ${role} |`;
+    }
   }
 
   section += `
@@ -99,8 +152,10 @@ function generateNPCSection() {
 
 | Deity | Domain |
 |-------|--------|`;
-  for (const npc of divine.filter(n => npcs.includes(n))) {
-    section += `\n| [[${npc}\\|${displayName(npc)}]] | - |`;
+  for (const [npc, domain] of Object.entries(divine)) {
+    if (npcs.includes(npc)) {
+      section += `\n| [[${npc}\\|${displayName(npc)}]] | ${domain} |`;
+    }
   }
 
   section += `
@@ -118,22 +173,23 @@ function generateNPCSection() {
 
 // Generate locations section
 function generateLocations() {
-  const locations = getFiles('Locations');
+  const locations = getFilesRecursive('Locations');
 
-  const major = ['Waterdeep', 'Neverwinter', 'Phandalin', 'Daggerford', 'The_Void', 'Dream_Realm_Castellers'];
-  const waterdeep = ['House_Castellers', 'House_Castellers_Basement', 'House_of_Justice', 'Temple_of_Tharizdun', 'Sated_Satyr_Inn', 'The_Thirsty_Goat'];
-  const neverwinter = ['House_of_Knowledge', 'Chapel_of_Oghma', 'House_De_Moray', 'Swiftclock_Home'];
+  const major = ['Waterdeep', 'Neverwinter', 'Phandalin', 'Daggerford', 'The_Void', 'Dream_Realm_Castellers', 'Dream_Realm', 'Feywild'];
+  const waterdeep = ['House_Castellers', 'House_Castellers_Basement', 'House_of_Justice', 'Temple_of_Tharizdun', 'Sated_Satyr_Inn', 'The_Thirsty_Goat', 'Field_of_Triumph', 'The_Peppermint_Minotaur', 'Sevarnas_Magic_Shop'];
+  const neverwinter = ['House_of_Knowledge', 'Chapel_of_Oghma', 'House_De_Moray', 'Swiftclock_Home', 'Moonstone_Mask', 'Neverwinter_Castle'];
 
-  const others = locations.filter(l =>
-    !major.includes(l) && !waterdeep.includes(l) && !neverwinter.includes(l)
-  );
+  const allCategorized = [...major, ...waterdeep, ...neverwinter];
+  const others = locations.filter(l => !allCategorized.includes(l));
 
   let section = `### Major Locations
 
 | Location |
 |----------|`;
-  for (const loc of major.filter(l => locations.includes(l))) {
-    section += `\n| [[${loc}\\|${displayName(loc)}]] |`;
+  for (const loc of major) {
+    if (locations.includes(loc)) {
+      section += `\n| [[${loc}\\|${displayName(loc)}]] |`;
+    }
   }
 
   section += `
@@ -142,8 +198,10 @@ function generateLocations() {
 
 | Location |
 |----------|`;
-  for (const loc of waterdeep.filter(l => locations.includes(l))) {
-    section += `\n| [[${loc}\\|${displayName(loc)}]] |`;
+  for (const loc of waterdeep) {
+    if (locations.includes(loc)) {
+      section += `\n| [[${loc}\\|${displayName(loc)}]] |`;
+    }
   }
 
   section += `
@@ -152,8 +210,10 @@ function generateLocations() {
 
 | Location |
 |----------|`;
-  for (const loc of neverwinter.filter(l => locations.includes(l))) {
-    section += `\n| [[${loc}\\|${displayName(loc)}]] |`;
+  for (const loc of neverwinter) {
+    if (locations.includes(loc)) {
+      section += `\n| [[${loc}\\|${displayName(loc)}]] |`;
+    }
   }
 
   section += `
@@ -182,7 +242,7 @@ function generateLoot() {
 
 // Generate quests section
 function generateQuests() {
-  const quests = getFiles('Quests');
+  const quests = getFilesRecursive('Quests');
   return quests.map(q => `- [[${q}\\|${displayName(q)}]]`).join('\n');
 }
 
@@ -213,11 +273,14 @@ function getUnresolvedThreads() {
 
 // Main template
 const template = `---
+title: The Icebreakers
 type: index
 campaign: neverwinter-icebreakers
 ---
 
 # The Icebreakers Campaign
+
+![[attachments/campaign-image.png]]
 
 **Campaign:** Adventures of Icespire Peak (D&D 5e)
 **Party Name:** The Icebreakers
@@ -228,12 +291,12 @@ ${generatePCs()}
 
 ## Campaign Overview
 
-The overarching plot involves cultists attempting to free the imprisoned evil god **Tharizdun**. Key story elements:
-- Corruption mechanics (Modred's blackened fingers, Sebastian's fully black hands)
-- Dream realm infiltrations
-- Noble house intrigue (House Castellers)
-- Character family storylines (Milo searching for sister Liora, Modred's father issues)
-- The antagonist **Cora** (nicknamed "backflipping bitch") who escapes via triangular portals
+The overarching plot involves [[The_Chained|the Chained cult]] attempting to free the imprisoned evil god **[[Tharizdun]]**. Key story elements:
+- Corruption mechanics ([[Modred_De_Moray|Modred]]'s blackened fingers, [[Sebastian]]'s fully black hands)
+- [[Dream_Realm_Castellers|Dream realm]] infiltrations
+- Noble house intrigue ([[House_Castellers]])
+- Character family storylines ([[Milo_Swiftclock|Milo]] searching for sister [[Liora_Swiftclock|Liora]], [[Modred_De_Moray|Modred]]'s father issues, [[Clover]]'s kidnapped sister [[Thistle]])
+- The antagonist **[[Cora]]** (nicknamed "backflipping bitch") who escapes via triangular portals
 
 ---
 
@@ -275,7 +338,7 @@ const outputPath = path.join(CONTENT_DIR, 'index.md');
 fs.writeFileSync(outputPath, template);
 console.log(`Generated ${outputPath}`);
 console.log(`  - Sessions: ${getFiles('Sessions').length}`);
-console.log(`  - NPCs: ${getFiles('NPCs').length}`);
-console.log(`  - Locations: ${getFiles('Locations').length}`);
-console.log(`  - Quests: ${getFiles('Quests').length}`);
+console.log(`  - NPCs: ${getFilesRecursive('NPCs').length}`);
+console.log(`  - Locations: ${getFilesRecursive('Locations').length}`);
+console.log(`  - Quests: ${getFilesRecursive('Quests').length}`);
 console.log(`  - Loot: ${getFiles('Loot').length}`);
