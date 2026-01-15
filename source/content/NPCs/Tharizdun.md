@@ -4,6 +4,7 @@ name: Tharizdun
 race: God (Betrayer)
 gender: Unknown
 role: The Chained One / Main Antagonist
+domain: Chaos, Destruction, Imprisonment
 campaign: neverwinter-icebreakers
 first_met: 7
 last_seen: 20

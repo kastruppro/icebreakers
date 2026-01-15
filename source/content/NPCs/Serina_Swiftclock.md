@@ -4,6 +4,7 @@ name: Serina Swiftclock
 race: Harengon
 gender: Female
 role: Milo's Mother / Cult Researcher
+relation: Milo's mother
 campaign: neverwinter-icebreakers
 first_met: 10
 last_seen: 10

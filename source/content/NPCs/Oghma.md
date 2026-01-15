@@ -4,6 +4,7 @@ name: Oghma
 race: Deity
 gender: Male (presents as)
 role: God of Knowledge
+domain: Knowledge
 campaign: neverwinter-icebreakers
 first_met: 10
 last_seen: 10

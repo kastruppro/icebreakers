@@ -4,6 +4,7 @@ name: Tyr
 race: God
 gender: Male
 role: God of Justice / Quest Giver
+domain: Justice
 campaign: neverwinter-icebreakers
 first_met: 13
 last_seen: 16

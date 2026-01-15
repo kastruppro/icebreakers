@@ -4,6 +4,7 @@ name: Ren Swiftclock
 race: Harengon
 gender: Male
 role: Milo's Father / Master Horologist
+relation: Milo's father
 campaign: neverwinter-icebreakers
 first_met: 10
 last_seen: 10

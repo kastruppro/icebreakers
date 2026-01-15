@@ -4,6 +4,7 @@ name: Desna
 race: Goddess
 gender: Female
 role: Goddess of Dreams, Nightmares, Stars, and Luck
+domain: Dreams, Stars, Luck
 campaign: neverwinter-icebreakers
 first_met: 19
 last_seen: 19

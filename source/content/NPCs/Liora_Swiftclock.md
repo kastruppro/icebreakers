@@ -4,6 +4,7 @@ name: Liora Swiftclock
 race: Harengon
 gender: Female
 role: Milo's Sister / Prophet
+relation: Milo's sister
 campaign: neverwinter-icebreakers
 first_met: 7
 last_seen: 11

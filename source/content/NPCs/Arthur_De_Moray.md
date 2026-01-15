@@ -4,6 +4,7 @@ name: Arthur De Moray
 race: Human
 gender: Male
 role: Modred's Brother / Possessed
+relation: Modred's brother
 campaign: neverwinter-icebreakers
 first_met: 2
 last_seen: 11

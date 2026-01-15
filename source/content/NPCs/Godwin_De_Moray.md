@@ -4,6 +4,7 @@ name: Godwin De Moray
 race: Human
 gender: Male
 role: House De Moray Patriarch
+relation: Modred's father
 campaign: neverwinter-icebreakers
 first_met: 12
 last_seen: 12
