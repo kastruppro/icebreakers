@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 4: Ghosts of the Crown
+# Ghosts of the Crown
 
 **Date:** [[2024-XX-XX]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], Auren

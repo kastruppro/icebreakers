@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 19: The Dream Staff
+# The Dream Staff
 
 **Date:** [[2025-12-17]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]

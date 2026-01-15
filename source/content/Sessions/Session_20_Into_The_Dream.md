@@ -15,7 +15,7 @@ tags:
   - thistle-rescue
 ---
 
-# Session 20: Into The Dream
+# Into The Dream
 
 **Date:** [[2025-12-28]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]

@@ -27,7 +27,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 8: The Chained Released
+# The Chained Released
 
 **Date:** [[2024-XX-XX]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], Auren

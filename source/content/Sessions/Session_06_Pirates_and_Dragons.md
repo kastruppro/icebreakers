@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 6: Pirates and Dragons
+# Pirates and Dragons
 
 **Date:** [[Unknown - Session 6]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Auren]]

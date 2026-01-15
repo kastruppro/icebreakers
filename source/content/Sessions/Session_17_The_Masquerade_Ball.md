@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 17: The Masquerade Ball
+# The Masquerade Ball
 
 ![[attachments/session17.png]]
 

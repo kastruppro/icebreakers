@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 11: Through the Void to Waterdeep
+# Through the Void to Waterdeep
 
 **Date:** [[2024-09-25]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]

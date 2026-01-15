@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 3: Neverwinter Lockdown
+# Neverwinter Lockdown
 
 **Date:** [[2024-02-07]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], Auren (former party member), [[Jaspar Starshade]] (first meeting)

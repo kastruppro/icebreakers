@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 2: Frozen Forest, Frozen Sea
+# Frozen Forest, Frozen Sea
 
 **Date:** [[2024-01-01]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], Auren Thalos

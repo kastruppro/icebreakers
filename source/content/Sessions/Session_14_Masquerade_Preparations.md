@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 14: Masquerade Preparations
+# Masquerade Preparations
 
 **Date:** [[2025-10-23]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]

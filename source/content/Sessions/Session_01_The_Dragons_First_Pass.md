@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 01: The Dragon's First Pass
+# The Dragon's First Pass
 
 **Date:** Unknown
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], Auren Thalos (Eladrin Sorcerer), "Isak" (Reborn Paladin)

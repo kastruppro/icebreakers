@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 10: Divine Intervention
+# Divine Intervention
 
 **Date:** [[2025-09-17]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]

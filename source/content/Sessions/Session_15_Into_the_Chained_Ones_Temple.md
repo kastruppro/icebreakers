@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 15: Into the Chained One's Temple
+# Into the Chained One's Temple
 
 **Date:** [[2025-10-30]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Clover]] (Jaspar absent - working with [[Gigz]])

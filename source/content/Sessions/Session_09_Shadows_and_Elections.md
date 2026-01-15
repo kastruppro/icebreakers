@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 9: Shadows and Elections
+# Shadows and Elections
 
 **Date:** [[2025-09-10]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]]

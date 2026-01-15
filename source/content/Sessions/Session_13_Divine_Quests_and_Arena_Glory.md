@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 13: Divine Quests and Arena Glory
+# Divine Quests and Arena Glory
 
 **Date:** [[2025-10-16]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]

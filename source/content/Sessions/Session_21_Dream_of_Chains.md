@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 21: Dream of Chains
+# Dream of Chains
 
 **Date:** [[2026-01-07]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]

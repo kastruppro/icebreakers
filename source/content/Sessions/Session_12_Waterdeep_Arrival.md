@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 12: Waterdeep Arrival and Dark Revelations
+# Waterdeep Arrival and Dark Revelations
 
 **Date:** [[2025-10-09]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]

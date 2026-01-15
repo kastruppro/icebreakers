@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 16: The Gauntlets of Tyr
+# The Gauntlets of Tyr
 
 **Date:** [[2025-11-12]]
 **Party Present:** [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]] (Milo absent)

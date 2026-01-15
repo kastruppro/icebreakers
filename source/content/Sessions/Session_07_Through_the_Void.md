@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 7: Through the Void
+# Through the Void
 
 ![[attachments/session07.png]]
 

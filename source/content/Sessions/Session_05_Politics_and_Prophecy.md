@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 5: Politics and Prophecy
+# Politics and Prophecy
 
 **Date:** [[2024-XX-XX]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], Auren

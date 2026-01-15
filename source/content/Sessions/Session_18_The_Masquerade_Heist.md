@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 18: The Masquerade Heist
+# The Masquerade Heist
 
 **Date:** [[2025-12-04]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]

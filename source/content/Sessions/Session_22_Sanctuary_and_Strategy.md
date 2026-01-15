@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Session 22: Sanctuary and Strategy
+# Sanctuary and Strategy
 
 **Date:** [[2026-01-12]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
