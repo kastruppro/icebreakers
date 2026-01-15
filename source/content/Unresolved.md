@@ -11,9 +11,9 @@
 - [ ] How did Sebastian travel from Neverwinter to Waterdeep so fast? (Session 17)
 
 ### Active Quests
-- [ ] **Rescue Lord Neverember** - Found chained in ritual chamber with 8-10 cultists (Session 21)
-- [ ] **Destroy Tharizdun's Chains** - Use Tyr's Gauntlets at four ruins around Waterdeep (Session 16)
-- [ ] **Stop Tharizdun's Release** - Main campaign objective
+- [ ] [[Quests/Find_Lord_Neverember|Rescue Lord Neverember]] - Found chained in ritual chamber with 8-10 cultists (Session 21)
+- [ ] [[Quests/Tyrs_Gauntlets_Quest|Destroy Tharizdun's Chains]] - Use Tyr's Gauntlets at four ruins around Waterdeep (Session 16)
+- [ ] [[Quests/Stop_Tharizduns_Release|Stop Tharizdun's Release]] - Main campaign objective
 
 ### Personal Quests
 - [x] **Milo**: ~~Find sister Liora~~ (Found Session 7-8, freed, now in Neverwinter with Arthur)
@@ -22,8 +22,8 @@
 - [x] **Clover**: ~~Rescue sister Thistle~~ (Completed Session 21, now safe at Temple of Tyr)
 
 ### Completed Quests
-- [x] **Find Liora** - Milo's sister found frozen on mountain (Session 7), freed (Session 8)
-- [x] **Rescue Thistle** - Clover's sister freed from dream realm (Session 21)
-- [x] **Retrieve Tyr's Gauntlets** - Claimed from Temple of Tharizdun (Session 16)
-- [x] **Investigate House Castellers** - Infiltrated masquerade, discovered cult connection (Sessions 17-21)
+- [x] [[Quests/Archive/Find_Liora|Find Liora]] - Milo's sister found frozen on mountain (Session 7), freed (Session 8)
+- [x] [[Quests/Archive/Rescue_Thistle|Rescue Thistle]] - Clover's sister freed from dream realm (Session 21)
+- [x] [[Quests/Tyrs_Gauntlets_Quest|Retrieve Tyr's Gauntlets]] - Claimed from Temple of Tharizdun (Session 16)
+- [x] [[Quests/Archive/Investigate_House_Castellers|Investigate House Castellers]] - Infiltrated masquerade, discovered cult connection (Sessions 17-21)
 - [x] **Stop the Dragon/Freeze** - Removed corrupted gem from hammer (Session 8)

@@ -3,7 +3,7 @@ type: npc
 name: Cora
 race: Human
 gender: Female
-role: Tharizdun Cultist / Recurring Antagonist
+role: Cult Agent
 campaign: neverwinter-icebreakers
 first_met: 7
 last_seen: 17

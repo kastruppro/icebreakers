@@ -3,7 +3,7 @@ type: npc
 name: Ammalia Castellers
 race: Human
 gender: Female
-role: Lady of House Castellers
+role: Noble / Reluctant Ally
 campaign: neverwinter-icebreakers
 first_met: 17
 last_seen: 21

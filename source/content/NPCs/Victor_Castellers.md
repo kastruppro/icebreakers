@@ -3,7 +3,7 @@ type: npc
 name: Victor Castellers
 race: Human
 gender: Male
-role: Lord of House Castellers
+role: Cult Conspirator - Claimed
 campaign: neverwinter-icebreakers
 first_met: 13
 last_seen: 21

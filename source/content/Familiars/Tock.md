@@ -11,6 +11,7 @@ tags:
 ---
 # Tock
 
+![[attachments/tock.png]]
 ## Quick Reference
 **Creature:** Owl
 **Owner:** [[Milo Swiftclock]]

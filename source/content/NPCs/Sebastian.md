@@ -3,7 +3,7 @@ type: npc
 name: Sebastian
 race: Human
 gender: Male
-role: Mage / Leader of Cloak Tower / Corrupted
+role: Cloak Tower Leader / Corrupted
 campaign: neverwinter-icebreakers
 first_met: 5
 last_seen: 18
