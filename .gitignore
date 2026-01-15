@@ -1,4 +1,4 @@
-# Folders excluded from players (AI/song generation)
+# Folders excluded from website (AI/song generation, reference docs)
 source/content/Songs/
 source/content/Context/
 source/content/Transcripts/
@@ -6,6 +6,7 @@ source/content/Data/
 source/content/Voiceovers/
 source/content/Previously_On/
 source/content/Milo/
+source/content/References/
 
 # OS files
 .DS_Store

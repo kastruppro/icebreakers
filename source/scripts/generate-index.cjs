@@ -56,16 +56,30 @@ function getSessionNum(filename) {
   return match ? parseInt(match[1]) : 0;
 }
 
+// Get session title from file content (H1 heading)
+function getSessionTitle(filename) {
+  const filePath = path.join(CONTENT_DIR, 'Sessions', filename + '.md');
+  if (!fs.existsSync(filePath)) return filename;
+
+  const content = fs.readFileSync(filePath, 'utf8');
+  // Match H1 heading, strip wiki links from it
+  const h1Match = content.match(/^# (.+)$/m);
+  if (h1Match) {
+    // Remove wiki link syntax: [[Target|Display]] -> Display, [[Target]] -> Target
+    return h1Match[1]
+      .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, '$2')
+      .replace(/\[\[([^\]]+)\]\]/g, '$1');
+  }
+  return filename;
+}
+
 // Generate sessions table (sorted descending)
 function generateSessions() {
   const sessions = getFiles('Sessions').sort((a, b) => getSessionNum(b) - getSessionNum(a));
   let table = '| # | Session |\n|---|---------|';
   for (const s of sessions) {
     const num = getSessionNum(s);
-    // Remove "Session XX: " prefix (handles both "Session 1:" and "Session 01:")
-    const title = displayName(s)
-      .replace(/^Session \d+: /, '')
-      .replace(/^Session \d+/, '');
+    const title = getSessionTitle(s);
     table += `\n| ${num} | [[${s}\\|${title}]] |`;
   }
   return table;
