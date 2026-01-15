@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Pre-commit hook: Validate wiki links
+cd source && node scripts/check-links.cjs
