@@ -1,6 +1,6 @@
 ---
 type: location
-name: House Castellers
+name: House Castellers Estate
 campaign: neverwinter-icebreakers
 region: Waterdeep
 location_type: building
@@ -14,7 +14,7 @@ tags:
   - mansion
 ---
 
-# House Castellers
+# House Castellers Estate
 
 ## Quick Reference
 **Region:** [[Waterdeep]]

@@ -48,6 +48,9 @@ When the party rescued the Castellers children in Session 21, Victor's deal with
 - House: Under investigation
 - Basement: Contains ritual chamber with Lord Neverember
 
+## Holdings
+- [[House_Castellers_Estate|House Castellers Estate]] - Family mansion in Waterdeep
+
 ## Connections
 - [[Tharizdun]] - Victor's deal with his cult
 - [[Sebastian]] - Co-conspirator

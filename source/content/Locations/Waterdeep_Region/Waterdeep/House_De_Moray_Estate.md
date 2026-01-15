@@ -1,6 +1,6 @@
 ---
 type: location
-name: House De Moray
+name: House De Moray Estate
 campaign: neverwinter-icebreakers
 region: Waterdeep
 parent_location: Waterdeep
@@ -15,7 +15,7 @@ tags:
   - family
 ---
 
-# House De Moray
+# House De Moray Estate
 
 ## Quick Reference
 **Region:** [[Waterdeep]] (North Ward)

@@ -47,7 +47,7 @@ Arthur was found frozen with a cult necklace in early sessions. A shadow entity 
 Modred's mother left the dysfunctional household to become a priestess of Tyr. She now serves at the [[House_of_Justice|Temple of Tyr]] in Waterdeep and has aided the party with divine quests.
 
 ## Holdings
-- [[House_De_Moray]] - Family estate in Waterdeep
+- [[House_De_Moray_Estate|House De Moray Estate]] - Family estate in Waterdeep
 
 ## Current Status
 - House is in decline due to Godwin's madness

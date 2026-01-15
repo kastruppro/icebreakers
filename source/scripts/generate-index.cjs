@@ -193,8 +193,8 @@ function generateLocations() {
   const locations = getFilesRecursive('Locations');
 
   const major = ['Waterdeep', 'Neverwinter', 'Phandalin', 'Daggerford', 'The_Void', 'Dream_Realm_Castellers', 'Dream_Realm', 'Feywild'];
-  const waterdeep = ['House_Castellers', 'House_Castellers_Basement', 'House_of_Justice', 'Temple_of_Tharizdun', 'Sated_Satyr_Inn', 'The_Thirsty_Goat', 'Field_of_Triumph', 'The_Peppermint_Minotaur', 'Sevarnas_Magic_Shop'];
-  const neverwinter = ['House_of_Knowledge', 'Chapel_of_Oghma', 'House_De_Moray', 'Swiftclock_Home', 'Moonstone_Mask', 'Neverwinter_Castle'];
+  const waterdeep = ['House_Castellers_Estate', 'House_Castellers_Basement', 'House_of_Justice', 'Temple_of_Tharizdun', 'Sated_Satyr_Inn', 'The_Thirsty_Goat', 'Field_of_Triumph', 'The_Peppermint_Minotaur', 'Sevarnas_Magic_Shop', 'House_De_Moray_Estate'];
+  const neverwinter = ['House_of_Knowledge', 'Chapel_of_Oghma', 'Swiftclock_Home', 'Moonstone_Mask', 'Neverwinter_Castle'];
 
   const allCategorized = [...major, ...waterdeep, ...neverwinter];
   const others = locations.filter(l => !allCategorized.includes(l));
