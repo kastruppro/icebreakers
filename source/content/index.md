@@ -1,9 +1,12 @@
 ---
+title: The Icebreakers
 type: index
 campaign: neverwinter-icebreakers
 ---
 
 # The Icebreakers Campaign
+
+![[attachments/campaign-image.png]]
 
 **Campaign:** Adventures of Icespire Peak (D&D 5e)
 **Party Name:** The Icebreakers
@@ -19,12 +22,12 @@ campaign: neverwinter-icebreakers
 
 ## Campaign Overview
 
-The overarching plot involves cultists attempting to free the imprisoned evil god **Tharizdun**. Key story elements:
+The overarching plot involves cultists [[The_Chained]] attempting to free the imprisoned evil god [[Tharizdun]]. Key story elements:
 - Corruption mechanics (Modred's blackened fingers, Sebastian's fully black hands)
 - Dream realm infiltrations
 - Noble house intrigue (House Castellers)
-- Character family storylines (Milo searching for sister Liora, Modred's father issues)
-- The antagonist **Cora** (nicknamed "backflipping bitch") who escapes via triangular portals
+- Character family storylines (Milo searching for sister Liora, Modred's father issues, Clover's kidnapped sister Thistle)
+- The antagonist **[[Cora]]** (nicknamed "backflipping bitch") who escapes via triangular portals
 
 ---
 
