@@ -19,6 +19,8 @@
     "test": "tsx ./quartz/util/path.test.ts && tsx ./quartz/depgraph.test.ts",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "check-links": "node scripts/check-links.cjs",
+    "auto-link": "node scripts/auto-link.cjs",
+    "auto-link:fix": "node scripts/auto-link.cjs --fix",
     "generate-index": "node scripts/generate-index.cjs",
     "generate-npc-index": "node scripts/generate-npc-index.cjs",
     "prepare": "cd .. && husky source/.husky"
