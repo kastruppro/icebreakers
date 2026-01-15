@@ -2,7 +2,7 @@
 type: loot
 name: Sending Stones
 campaign: neverwinter-icebreakers
-holder: Unknown
+holder: Milo Swiftclock (loaned to Daggers of the North)
 acquired: Unknown
 rarity: uncommon
 attunement: false
@@ -17,7 +17,7 @@ tags:
 *Wondrous item, uncommon*
 
 ## Quick Reference
-**Holder:** TBD (paired stones)
+**Holder:** [[Milo Swiftclock]] (currently with [[Daggers of the North]])
 **Acquired:** TBD
 **Rarity:** Uncommon
 **Attunement:** Not required
@@ -34,5 +34,5 @@ Sending stones come in pairs, with each smooth stone carved to match the other s
 
 ## Current Pairing
 
-Stone A: TBD
-Stone B: TBD
+Stone A: [[Milo Swiftclock]]
+Stone B: [[Daggers of the North]] (for rescue mission coordination)

@@ -2,7 +2,7 @@
 type: loot
 name: Hat of Vermin
 campaign: neverwinter-icebreakers
-holder: Unknown
+holder: Clover
 acquired: Unknown
 rarity: common
 attunement: false
@@ -16,7 +16,7 @@ tags:
 *Wondrous item, common*
 
 ## Quick Reference
-**Holder:** TBD
+**Holder:** [[Clover]]
 **Acquired:** TBD
 **Rarity:** Common
 **Attunement:** Not required

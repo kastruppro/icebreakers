@@ -2,7 +2,7 @@
 type: loot
 name: Book of Vile Darkness
 campaign: neverwinter-icebreakers
-holder: Unknown
+holder: Milo Swiftclock
 acquired: Unknown
 rarity: artifact
 attunement: Required
@@ -17,7 +17,7 @@ tags:
 *Wondrous item, artifact (requires attunement)*
 
 ## Quick Reference
-**Holder:** TBD
+**Holder:** [[Milo Swiftclock]]
 **Acquired:** TBD
 **Rarity:** Artifact
 **Attunement:** Required

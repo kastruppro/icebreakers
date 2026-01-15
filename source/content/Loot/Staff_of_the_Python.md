@@ -2,7 +2,7 @@
 type: loot
 name: Staff of the Python
 campaign: neverwinter-icebreakers
-holder: Unknown
+holder: Clover
 acquired: Unknown
 rarity: uncommon
 attunement: Required (Cleric, Druid, or Warlock)
@@ -17,7 +17,7 @@ tags:
 *Staff, uncommon (requires attunement by a cleric, druid, or warlock)*
 
 ## Quick Reference
-**Holder:** TBD
+**Holder:** [[Clover]]
 **Acquired:** TBD
 **Rarity:** Uncommon
 **Attunement:** Cleric, Druid, or Warlock
