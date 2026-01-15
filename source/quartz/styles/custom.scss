@@ -2,11 +2,12 @@
 
 // put your custom CSS here!
 
-// Limit image size on page and hint they're interactive
+// Style images - larger size and hint they're interactive
 .popover-hint img,
 article img {
-  max-width: 400px;
-  max-height: 500px;
+  max-width: 700px;
+  max-height: 700px;
+  width: 100%;
   height: auto;
   cursor: pointer;
   border-radius: 4px;
@@ -15,4 +16,31 @@ article img {
   &:hover {
     transform: scale(1.02);
   }
+}
+
+// Fix table row heights - prevent popovers from expanding rows
+table {
+  td, th {
+    vertical-align: middle;
+    line-height: 1.4;
+    position: relative;
+  }
+
+  // Prevent popover content from affecting table layout
+  .popover-hint {
+    display: inline;
+    position: relative;
+  }
+
+  // Ensure popover content doesn't affect row height
+  .popover {
+    position: absolute;
+    top: 100%;
+    left: 0;
+  }
+}
+
+// Ensure table container doesn't have extra spacing
+.table-container > table > * {
+  line-height: 1.6rem;
 }
