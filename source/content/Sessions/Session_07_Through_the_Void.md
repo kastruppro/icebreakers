@@ -15,7 +15,7 @@ tags:
 
 # Session 7: Through the Void
 
-![[Pasted image 20260115022401.png]]
+![[attachments/session07.png]]
 
 **Date:** [[2024-XX-XX]]
 **Party Present:** [[Milo Swiftclock]], [[Jaspar Starshade]], Auren (absent: [[Sir Modred De Moray]])

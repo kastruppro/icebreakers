@@ -19,7 +19,7 @@ tags:
 ---
 # Ren Swiftclock
 
-![[ChatGPT Image May 30, 2025 at 09_29_50 AM 1.png]]
+![[attachments/ren.png]]
 ## Quick Reference
 **Race/Gender:** Harengon Male
 **Role:** Milo's Father / Master Horologist

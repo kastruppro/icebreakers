@@ -2,7 +2,7 @@
 
  #dnd/campaign/jaspar/character
 
-![[C55A3CB9-D5C2-467F-BA50-DB0089951A4B_1_105_c.jpeg]]
+![[attachments/jaspar.jpeg]]
 ## **Character Profile**
 * **Race:** Aasimar
 * **Class/Subclass:** Rogue (multiclassed into Artificer as of Level 6)

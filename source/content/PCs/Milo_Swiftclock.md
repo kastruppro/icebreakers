@@ -2,7 +2,7 @@
 
 #dnd/campaign/milo/character
 
-![[614F3BB5-B1C3-4530-A306-49CD646CFCC5_1_102_o.jpeg]]
+![[attachments/milo.jpeg]]
 ## **Character Profile**
 * **Race:** Harengon
 * **Class/Subclass:** Wizard (Chronurgy Magic)
@@ -42,13 +42,13 @@ Rumors of temporal anomalies around Phandalin - summer snow, strange creatures -
 * His grandfather Raas witnessed cult members using The Substance to open triangular portals
 
 ## Familiar
-![[FFAE6FC5-05A1-4B24-A9B4-DD6D9ADAE5B0.png]]
+![[attachments/tock.png]]
 ### Tock
 An owl familiar that exists outside normal time. Milo first noticed Tock appearing moments *before* he cast certain spells, as if anticipating him. The creature turned out to be a temporal echo - an imprint of something that hadn't happened yet. By naming it and binding it, Milo "collapsed the loop" and gave it form.
 
 ## **Family**
 
-![[ChatGPT Image May 30, 2025 at 09_57_48 AM.png]]
+![[attachments/milo-portrait.png]]
 
 
 **[[Ren Swiftclock]]** (father): A traditional horologist who runs the family's clockmaking workshop in Neverwinter.

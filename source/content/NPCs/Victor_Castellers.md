@@ -19,7 +19,7 @@ tags:
   - noble
   - cultist
 ---
-![[Sebastian.png]]
+![[attachments/victor.png]]
 # Victor Castellers
 
 ## Quick Reference

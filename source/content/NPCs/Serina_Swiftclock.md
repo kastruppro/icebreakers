@@ -19,7 +19,7 @@ tags:
 ---
 # Serina Swiftclock
 
-![[ChatGPT Image May 30, 2025 at 09_37_36 AM 1.png]]
+![[attachments/serina.png]]
 ## Quick Reference
 **Race/Gender:** Harengon Female
 **Role:** Milo's Mother / Keeper of Family Secrets

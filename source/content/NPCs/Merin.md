@@ -18,7 +18,7 @@ tags:
 ---
 # Merin
 
-![[Pasted image 20260115023019.png]]
+![[attachments/merin.png]]
 ## Quick Reference
 **Race/Gender:** Tabaxi Male
 **Role:** Rogue, Daggers of the North Member

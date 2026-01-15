@@ -2,7 +2,7 @@
 
 #dnd/campaign/modred/character
 
-![[AF1584B8-FC88-4D87-B6AB-B87962DF2F63_1_102_o.jpeg]]
+![[attachments/modred.jpeg]]
 ## **Character Profile**
 * **Race:** Human
 * **Class/Subclass:** Fighter (Eldritch Knight) / Wizard Multiclass

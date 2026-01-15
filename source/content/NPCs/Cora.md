@@ -20,7 +20,7 @@ tags:
 
 # Cora
 
-![[Pasted image 20260115022307.png]]
+![[attachments/cora.png]]
 ## Quick Reference
 **Race/Gender:** Human Female
 **Role:** Tharizdun Cultist / Primary Antagonist

@@ -20,7 +20,7 @@ tags:
 ---
 # Liora Swiftclock
 
-![[36672129-CC4E-4656-97EF-C35898915C6B_1_102_o.jpeg]]
+![[attachments/liora.jpeg]]
 ## Quick Reference
 **Race/Gender:** Harengon Female
 **Role:** Milo's Younger Sister, Prophet

@@ -2,7 +2,7 @@
 
 #dnd/campaign/clover/character
 
-![[1E4F1170-283E-4D27-A3CD-07AA9752C718.png]]
+![[attachments/clover.png]]
 ## **Character Profile**
 * **Race:** Harengon
 * **Class/Subclass:** Druid (Circle of the Moon)

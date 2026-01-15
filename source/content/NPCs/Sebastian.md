@@ -20,7 +20,7 @@ tags:
 
 # Sebastian
 
-![[Pasted image 20260115022752.png]]
+![[attachments/sebastian.png]]
 
 ## Quick Reference
 **Race/Gender:** Human Male

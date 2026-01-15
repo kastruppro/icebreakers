@@ -18,7 +18,7 @@ tags:
 ---
 # Morguna
 
-![[Pasted image 20260115022947.png]]
+![[attachments/morguna.png]]
 ## Quick Reference
 **Race/Gender:** Elf Female
 **Role:** Paladin, Leader of Daggers of the North

@@ -18,7 +18,7 @@ tags:
 ---
 # Professor Thaddeus Blackthorn
 
-![[image 2.png]]
+![[attachments/blackthorn.png]]
 ## Quick Reference
 **Race/Gender:** Human Male
 **Role:** Dunamancy Wizard

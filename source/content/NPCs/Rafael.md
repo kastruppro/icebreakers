@@ -19,7 +19,7 @@ tags:
 
 # Rafael
 
-![[Pasted image 20260115023036.png]]
+![[attachments/rafael.png]]
 ## Quick Reference
 **Race/Gender:** Human Male
 **Role:** Warlock, former member of the Daggers of the North

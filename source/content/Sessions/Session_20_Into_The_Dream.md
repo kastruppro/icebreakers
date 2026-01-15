@@ -20,7 +20,7 @@ tags:
 **Date:** [[2025-12-28]]
 **Party Present:** [[Milo Swiftclock]], [[Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
 
-![[Pasted image 20260115022920.png]]
+![[attachments/session20.png]]
 ## Quick Summary
 > The party returned to Waterdeep from Daggerford, planning their infiltration of House Castellers. When Ammalia Castellers psychically attacked Milo to retrieve her stolen spellbook, a chase ensued that led to unexpected negotiations. Ammalia revealed that Victor made a deal with a demon and their children fell into an eternal slumber as payment. She agreed to help the party access the mansion in exchange for help rescuing her children. Using the Dream Staff from Desna, the party entered Thistle's nightmare and navigated a series of puzzles involving colored teddy bears and lying jesters before confronting a monstrous dream-beast possessing Clover's sister.
 

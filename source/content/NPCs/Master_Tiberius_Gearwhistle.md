@@ -20,7 +20,7 @@ tags:
 ---
 # Master Tiberius Gearwhistle
 
-![[ChatGPT Image May 30, 2025 at 09_42_27 AM.png]]
+![[attachments/gearwhistle.png]]
 ## Quick Reference
 **Race/Gender:** Gnome Male
 **Role:** Artificer-Wizard, Milo's Former Mentor

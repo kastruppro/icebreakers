@@ -19,7 +19,7 @@ tags:
 
 # Leena
 
-![[Pasted image 20260115023009.png]]
+![[attachments/leena.png]]
 ## Quick Reference
 **Race/Gender:** Dwarf Female
 **Role:** Druid, Daggers of the North Member
