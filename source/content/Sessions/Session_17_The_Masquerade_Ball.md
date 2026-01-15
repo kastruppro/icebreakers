@@ -26,7 +26,7 @@ tags:
 ## Characters Met
 
 ### New NPCs
-- **[[Arrogant Butler]]** - Human Male - House Castellers servant who presented masks to guests. Incredibly uptight and condescending.
+- **arrogant butler** - Human Male - House Castellers servant who presented masks to guests. Incredibly uptight and condescending.
 - **[[Daggers of the North]]** - Adventuring Party (Elf, Dwarf, Tabaxi) - Arena winners from Daggerford wearing patches with "salt" symbol
 
 ### Returning NPCs
@@ -39,7 +39,7 @@ tags:
 
 ## Places Visited
 
-### [[Temple of Tyr Ruins]] (Waterdeep Outskirts)
+### Temple of Tyr ruins (Waterdeep Outskirts)
 **Exit from Underground Temple:**
 - Party emerged from underground temple via elevator with gauntlets
 - Cora and four cultists were waiting in ambush

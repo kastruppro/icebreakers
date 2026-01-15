@@ -31,7 +31,7 @@ tags:
 - **[[Ulrik]]** - Human Male - Guard at House De Moray. "Oh come on, don't you see who it is? This is the son of Godwin."
 - **[[Percy]]** - Human Male - Noble/thief, Modred's childhood friend. "You used to be so fun, you know? You were at parties."
 - **[[Pogo]]** - Golden Retriever - Raenar's dog. "Oh my god, you understand me!"
-- **[[Satyr Bartender]]** - Satyr Male - Innkeeper at Sated Satyr.
+- **satyr bartender** - Satyr Male - Innkeeper at Sated Satyr.
 
 ### Returning NPCs
 - **[[Raenar Neverember]]** - Led party through Waterdeep's eastern gates and introduced them to the city

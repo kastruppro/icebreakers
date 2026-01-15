@@ -70,4 +70,4 @@ A hidden underground complex beneath House Castellers, accessed through a baseme
 ## Connections
 - [[House Castellers]] - Accessed via basement door in garden
 - [[Tharizdun]] - Statue and ritual dedicated to the chained god
-- [[Rescue Lord Neverember]] - Active quest tied to this location
+- rescue Lord Neverember mission - Active quest tied to this location

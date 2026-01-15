@@ -24,11 +24,11 @@ tags:
 ## Characters Met
 
 ### New NPCs
-- **[[Lucas]]** - Human Male - Neverwinter city guard who escorted the party through the frozen city to the Moonstone Mask
+- **Lucas** - Human Male - Neverwinter city guard who escorted the party through the frozen city to the Moonstone Mask
 - **[[Liset]]** - Human Female - Proprietor of the Moonstone Mask. "The ice happened when the dragon came by yesterday."
 - **[[Jaspar Starshade]]** - Aasimar Male - Silver-haired rogue with dark eyes wearing black leather. First met trying to sell fake "unfreezing potion." Steals from the rich to help street children.
 - **[[Lord Neverember]]** - Human Male - Ruler of Neverwinter, found frozen on his throne
-- **[[Loyal Guard]]** - Human Male - Neverember's personal guard who cut off his own arm to protect his lord
+- **loyal guard** - Human Male - Neverember's personal guard who cut off his own arm to protect his lord
 
 ### Returning NPCs
 - None from previous sessions

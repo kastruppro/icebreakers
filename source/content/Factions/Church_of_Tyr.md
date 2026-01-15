@@ -35,7 +35,7 @@ Granted to the entire party:
 > "As an action, you can sacrifice some or all of your hit points to give to another creature, but you take on all recent injuries and conditions from that creature, including diseases, dismemberment, and death."
 
 ## Current Role
-- [[Temple of Tyr]] provides sanctuary for Thistle, the Castellers children, and Ammalia
+- [[House_of_Justice|Temple of Tyr]] provides sanctuary for Thistle, the Castellers children, and Ammalia
 - Morgane serves as healer and divine connection
 - Tyr continues to provide guidance through his black hound avatar
 

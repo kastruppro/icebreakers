@@ -82,7 +82,7 @@ An ancient underground temple dedicated to Tharizdun, the Chained One, an impris
 
 ## Items Found Here
 - [[Tyrs_Gauntlets|Tyr's Gauntlets]] - Claimed by Clover in Session 16; gauntlets resized to fit her harengon hands
-- [[Boon of Tyr]] - Granted to entire party by Tyr after gauntlets claimed
+- Boon of Tyr - Granted to entire party by Tyr after gauntlets claimed
 
 ## Events at This Location
 
@@ -115,7 +115,7 @@ An ancient underground temple dedicated to Tharizdun, the Chained One, an impris
 - [[Waterdeep]] - Forest path leads to city
 - [[Statue Protectors Square]] - Guard post at forest entrance
 - [[Tyr]] - Divine quest to retrieve gauntlets from this location
-- [[Modred's Father]] - Previous failed expedition to this location with Arthur
+- [[Godwin_De_Moray|Modred's Father]] - Previous failed expedition to this location with Arthur
 
 ## Lore
 - Blood sacrifice required for entry

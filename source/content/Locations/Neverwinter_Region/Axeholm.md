@@ -57,4 +57,4 @@ An ancient dwarven stronghold built into the mountains. The entrance is flanked 
 - [[Neverwinter]] - Day's journey by road
 - [[Phandalin]] - Nearby settlement
 - [[The Void]] - Accessible via ritual at the triangular marking
-- [[Mountains]] - The freeze waves originated from the mountain peak above Axeholm
+- mountains - The freeze waves originated from the mountain peak above Axeholm

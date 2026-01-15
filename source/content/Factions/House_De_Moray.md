@@ -58,4 +58,4 @@ Modred's mother left the dysfunctional household to become a priestess of Tyr. S
 ## Connections
 - [[Tyr]] - Morgane serves as priestess
 - [[Tharizdun]] - Arthur was possessed by shadow entity
-- [[The Icebreakers]] - Modred is a founding member
+- [[The_Icebreakers|The Icebreakers]] - Modred is a founding member

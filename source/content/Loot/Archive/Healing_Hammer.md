@@ -37,7 +37,7 @@ The gem likely contained the same enchantment as the ruby later placed in Milo's
 
 - **Session 7:** Party discovered the hammer on the mountain
 - **Session 8:** Removed the corrupted gem to free Liora; hammer left on mountain
-- **Later:** The gem (now called [[Luxon Fragment]]) was kept by Milo and incorporated into a mask
+- **Later:** The gem (now called Luxon fragment) was kept by Milo and incorporated into a mask
 
 ## Connections
 

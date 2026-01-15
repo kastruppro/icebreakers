@@ -17,7 +17,7 @@ tags:
 # Phandalin
 
 ## Quick Reference
-**Region:** [[Sword Coast]]
+**Region:** Sword Coast
 **Type:** Small Town
 **Status:** Active (recovering from dragon attack)
 
@@ -44,7 +44,7 @@ A small frontier town south of Neverwinter, Phandalin serves as the starting loc
 ## NPCs Found Here
 - [[Toblen]] - Mayor and tavern owner
 - [[Sister Gale]] - Priestess at the Shrine of Luck
-- [[Erik]] - Local contact
+- Erik - Local contact
 
 ## Events at This Location
 - Session 1: Dragon attacked the town, freezing people in ice
@@ -54,4 +54,4 @@ A small frontier town south of Neverwinter, Phandalin serves as the starting loc
 
 ## Connections
 - [[Neverwinter]] - Major city to the north
-- [[Sword Coast]] - Part of the broader region
+- Sword Coast - Part of the broader region

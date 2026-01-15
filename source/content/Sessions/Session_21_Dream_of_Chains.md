@@ -32,7 +32,7 @@ tags:
 
 ## Places Visited
 
-### [[Dream Realm - House Castellers]]
+### [[Dream_Realm_Castellers|Dream Realm - House Castellers]]
 **Combat Arena:**
 - Room transformed based on damage types dealt to the beast
 - Walls turned to stone when beast was hit with physical attacks
@@ -40,7 +40,7 @@ tags:
 - Split into fire/ice halves when cold damage was applied
 - Voices echoed through the realm: "You need to get out" and "Victor is coming"
 
-### [[House Castellers - Basement]]
+### [[House_Castellers_Basement|House Castellers basement]]
 **Discovered via Milo's Owl Familiar:**
 - **Tomb Room** - Contains graves of earlier Castellers nobles, stone figure holding a mace
 - **Bedroom** - Living quarters with beds, closets, furniture (someone sleeping here)
@@ -51,7 +51,7 @@ tags:
   - Two druids with flowers in hair casting spells
   - Pool/basin of water before the statue
 
-### [[House Castellers - Hidden Room]]
+### House Castellers hidden room
 **Behind Painting in Study:**
 - Secret pressure plate at floor level opens painting as door
 - Contains only a small shrine/chest on a table

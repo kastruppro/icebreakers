@@ -45,11 +45,11 @@ tags:
 - **[[Liora Swiftclock]]** - Freed from frozen prison, emotionally broken down, revealed she followed parents' research and was betrayed by Cora
 - **[[White Dragon]]** - Encountered in cave on descent, denied involvement in freeze, made party his "servants"
 - **[[Toblen]]** - Greeted party on return to Phandalin
-- **[[Erik (Phandalin)]]** - Returned from delivering Milo's letters to Neverwinter, rewarded with silver
+- **[[Erik_Phandalin|Erik]]** - Returned from delivering Milo's letters to Neverwinter, rewarded with silver
 
 ## Places Visited
 
-### [[Icespire Peak Summit]]
+### Icespire Peak summit
 **Mountain Top Battle:**
 - Ice giant and 4 ice skeletons emerged from the ground
 - Skeletons revived each round after being killed
@@ -58,7 +58,7 @@ tags:
 - All ice creatures disappeared when gem removed
 - Liora and Cora freed from ice
 
-### [[White Dragon Cave]]
+### White Dragon cave
 **Dragon's Lair:**
 - Bloody dragon footprints led inside
 - Jaspar attempted stealth entry, immediately spotted and mocked
@@ -79,7 +79,7 @@ tags:
 
 | Item | Description | Holder |
 |------|-------------|--------|
-| [[Gem from Hammer]] | Corrupted gem removed from dwarven hammer, causes ice magic | Jaspar (taken from him by Milo) |
+| gem from hammer | Corrupted gem removed from dwarven hammer, causes ice magic | Jaspar (taken from him by Milo) |
 
 ## Key Events Timeline
 

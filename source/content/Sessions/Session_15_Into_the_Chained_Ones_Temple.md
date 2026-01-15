@@ -24,7 +24,7 @@ tags:
 ## Characters Met
 
 ### Returning NPCs
-- **[[Statue Square Guard]]** - Human Male - City guard posted to warn pilgrims away from the forest. Recognized Modred and reminded him about his father's failed expedition with Arthur to these same ruins.
+- **Statue Square guard** - Human Male - City guard posted to warn pilgrims away from the forest. Recognized Modred and reminded him about his father's failed expedition with Arthur to these same ruins.
 
 ## Places Visited
 
@@ -34,7 +34,7 @@ tags:
 - Few pilgrims present - most already turned back
 - Guard warned party of the dangers ahead
 
-### [[Forest Path to Ruins]]
+### forest path to ruins
 **Toxic Berry Area:**
 - Passed the berries known to cause madness
 - Followed familiar route from previous expedition

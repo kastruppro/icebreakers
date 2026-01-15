@@ -15,7 +15,7 @@ tags:
 
 # Pirates and Dragons
 
-**Date:** [[Unknown - Session 6]]
+**Date:** unknown
 **Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Auren]]
 
 ## Quick Summary
@@ -27,8 +27,8 @@ tags:
 - **[[Brost]]** - Made breakfast, discussed the election, received rum bottles as a gift, suggested where to trade moonstones
 
 ### NPCs Mentioned
-- **[[Aron]]** - Human male, stable worker who sold the party a draft horse and carriage
-- **[[Dwarf Armorer]]** - Owner of Dependable Defenses, bought the moonstone for 190 gp after Modred's "persuasion"
+- **Aron** - Human male, stable worker who sold the party a draft horse and carriage
+- **dwarf armorer** - Owner of Dependable Defenses, bought the moonstone for 190 gp after Modred's "persuasion"
 - **[[White Dragon]]** - Ancient white dragon, seen fleeing the freeze wave and later blocking Axeholm's entrance
 
 ## Places Visited
@@ -39,7 +39,7 @@ tags:
 - Discussion about the election happening that day
 - Brost later received rum bottles as a gift
 
-### [[Pirate Ship]]
+### pirate ship
 **Harbor Exploration:**
 - Ship frozen 70 feet from harbor by a massive ice spike piercing it from bottom to top
 - Auren used Misty Step to reach the dangling anchor, then lowered it for others to climb
@@ -47,17 +47,17 @@ tags:
 - Jaspar placed floating devices on frozen pirates (in case they're unfrozen later)
 - Captain's cabin contained a treasure map with multiple X's and one unmarked island (Milo marked it with an O)
 
-### [[Dependable Defenses]]
+### Dependable Defenses
 **Selling Loot:**
 - Party sold a moonstone for 190 gp
 - Modred threatened to tell guards the shopkeeper deals with pirates
 
-### [[Neverwinter Stables]]
+### Neverwinter stables
 **South Entrance:**
 - Rain had turned to hail
 - Purchased a draft horse and carriage from Aron
 
-### [[Road to Axeholm]]
+### road to Axeholm
 **Travel Interrupted:**
 - Witnessed a ring of frost expanding from the mountain, chasing the white dragon
 - Dragon did a loop and flew under the ring back toward the mountain
@@ -80,11 +80,11 @@ tags:
 
 | Item | Description | Holder |
 |------|-------------|--------|
-| [[Pirate Hat]] | Found in deck chest | Milo |
+| Pirate Hat | Found in deck chest | Milo |
 | 100 gp | Found in deck chest | Party |
-| [[Moonstone]] | Found in captain's cabin container | Sold (190 gp) |
-| [[Moonstone]] | Found in broken cabinet | Party |
-| [[Treasure Map]] | Shows islands with X's, one unmarked (marked with O by Milo) | Milo |
+| moonstone | Found in captain's cabin container | Sold (190 gp) |
+| moonstone | Found in broken cabinet | Party |
+| Treasure Map | Shows islands with X's, one unmarked (marked with O by Milo) | Milo |
 | Rum Bottles (4) | Taken from captain's cabin | Gifted 2 to Brost, kept 2 |
 | Draft Horse | Purchased from stables | Lost (fled) |
 | Carriage | Purchased from stables | Destroyed |

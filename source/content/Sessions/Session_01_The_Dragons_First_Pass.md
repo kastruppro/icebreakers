@@ -27,14 +27,14 @@ tags:
 - **[[Toblen]]** - Human Male - Mayor of Phandalin, runs the tavern. Offered the party lodging and wine.
 - **[[Sister Gale]]** - Half-Elf Female - Cleric of Tymora at the Shrine of Luck. Attempted to dispel the ice magic but failed.
 - **[[Norbus]]** - Dwarf Male - Friend of Toblen who works at the digging site. Wanted to check on Axeholm.
-- **[[Grom]]** - Dwarf Male - Leader of the Digging Site. Negotiating with orcs over territory.
-- **[[Krikk]]** - Orc Male - Leader of the Gundrak orc settlement. Made peace with dwarves; mentioned thunderbear ritual to Talos.
-- **[[Erik (Phandalin)]]** - Human Male - Toblen's nephew. Delivered Milo's letters to Neverwinter.
+- **Grom** - Dwarf Male - Leader of the Digging Site. Negotiating with orcs over territory.
+- **Krikk** - Orc Male - Leader of the Gundrak orc settlement. Made peace with dwarves; mentioned thunderbear ritual to Talos.
+- **[[Erik_Phandalin|Erik]]** - Human Male - Toblen's nephew. Delivered Milo's letters to Neverwinter.
 
 ### Divine Entities Mentioned
 - **[[Talos]]** - God of Thunder. The orcs can summon a thunderbear through a ritual to him.
 - **[[Tymora]]** - Goddess of Luck. Sister Gale's deity.
-- **[[Raven Queen]]** - Appeared to Isak in a nightmare, calling him "abomination."
+- **Raven Queen** - Appeared to Isak in a nightmare, calling him "abomination."
 
 ## Places Visited
 
@@ -51,7 +51,7 @@ tags:
 - Isak spoke with Toblen about seeing frozen people at Mount Hotenow
 - Party was offered free lodging for the night
 
-### [[Digging Site]]
+### Digging Site
 **Entrance:**
 - 20-minute walk from Phandalin
 - Two orc guards outside who spoke with Auren

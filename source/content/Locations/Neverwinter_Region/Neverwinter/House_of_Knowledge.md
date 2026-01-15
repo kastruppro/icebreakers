@@ -49,7 +49,7 @@ The House of Knowledge is the temple of Oghma in Neverwinter, serving as both a 
 - [[Master Tiberius Gearwhistle]] - Artificer/Wizard, Milo's former mentor
 - [[Elira Moonshadow]] - High Elf Divination Wizard, Archivist/Ink-Scribe
 - [[Professor Thaddeus Blackthorn]] - Dunamancy Wizard (suspicious behavior)
-- [[Irena]] - Elf researcher
+- Irena - Elf researcher
 
 ## Events at This Location
 - Session 4: Party first visited; met Gearwhistle and Elira

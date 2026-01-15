@@ -45,9 +45,9 @@ A pirate vessel caught mid-voyage by the supernatural freeze affecting the regio
 - Frozen captain - In his cabin, pointing at the map
 
 ## Items Found Here
-- [[Pirate Hat]] - Claimed by Milo
+- Pirate Hat - Claimed by Milo
 - 100 gp - From deck chest
-- [[Treasure Map]] - Shows marked and unmarked islands
+- Treasure Map - Shows marked and unmarked islands
 - 2 Moonstones - One sold, one kept
 - Rum bottles - 2 gifted to Brost, 2 kept
 

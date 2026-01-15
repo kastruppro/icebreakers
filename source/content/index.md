@@ -162,8 +162,7 @@ The overarching plot involves cultists attempting to free the imprisoned evil go
 
 | Location |
 |----------|
-| [[House_of_Knowledge\|House of Knowledge]] |
-| [[Chapel_of_Oghma\|Chapel of Oghma]] |
+| [[House_of_Knowledge\|House of Knowledge (Chapel of Oghma)]] |
 | [[House_De_Moray\|House De Moray]] |
 | [[Swiftclock_Home\|Swiftclock Home]] |
 

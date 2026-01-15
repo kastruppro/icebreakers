@@ -49,7 +49,7 @@ tags:
 - Thistle floating in the air, emanating purplish aura affecting the children
 - Dream Staff activated upon entering the room
 
-### [[Dream Realm - Castellers]]
+### [[Dream_Realm_Castellers|Dream Realm - Castellers]]
 **Entry Chamber:**
 - Party fell through whiteness that shifted to uncomfortable red-purple
 - Initial view: Thistle standing before terrified children, emanating red-purple magic

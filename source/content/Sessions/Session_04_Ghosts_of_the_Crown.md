@@ -24,7 +24,7 @@ tags:
 ## Characters Met
 
 ### New NPCs
-- **[[Seven Ghosts]]** - Ghosts - King's Guard. Protectors of Neverwinter's rulers across generations, killed by cult magic. "The sword's cursed power was what killed us before. It's dangerous."
+- **seven ghosts** - Ghosts - King's Guard. Protectors of Neverwinter's rulers across generations, killed by cult magic. "The sword's cursed power was what killed us before. It's dangerous."
 - **[[Elira Moonshadow]]** - High Elf Female - Divination Wizard/Archivist. Milo's friend at the House of Knowledge. Warned about Blackthorn's strange behavior.
 - **[[Master Tiberius Gearwhistle]]** - Gnome Male - Artificer/Wizard. Milo's former mentor who examined the cursed sword and revealed the Swiftclocks researched it.
 - **[[Professor Thaddeus Blackthorn]]** - Human Male - Dunamancy Wizard. Acting suspiciously since the ice came, advocating for Sebastian.
@@ -81,9 +81,9 @@ tags:
 | Item | Description | Holder |
 |------|-------------|--------|
 | [[Crown of the Guardians]] | Contains the spirits of the Seven Ghosts; grants their help when worn but drains the wearer | Modred |
-| [[Swiftclock Spellbook]] | Contains Magnify Gravity, Gift of Alacrity, Immovable Object, Pulse Wave | Milo |
-| [[Swiftclock Research Journal]] | Multi-generational research on the cult, slime creature, and Luxon Beacon portal | Milo |
-| [[Magic Ring]] | Found in mother's bed, magical properties unknown | Milo |
+| Swiftclock spellbook | Contains Magnify Gravity, Gift of Alacrity, Immovable Object, Pulse Wave | Milo |
+| Swiftclock research journal | Multi-generational research on the cult, slime creature, and Luxon Beacon portal | Milo |
+| magic ring | Found in mother's bed, magical properties unknown | Milo |
 
 ## Key Events Timeline
 

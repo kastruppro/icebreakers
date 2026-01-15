@@ -24,25 +24,25 @@ tags:
 ## Characters Met
 
 ### New NPCs
-- **[[Irena]]** - Elf Female - Researcher at House of Knowledge. Discovered cult books missing or defaced, found only partial information on "The Chained" cult.
+- **Irena** - Elf Female - Researcher at House of Knowledge. Discovered cult books missing or defaced, found only partial information on "The Chained" cult.
 - **Dwarf Armorer** - Dwarf Male - Owner of Dependable Defenses. Sold armor to Jaspar and mentioned loot opportunity on frozen pirate ship.
-- **[[Svend]]** - Human Male - Cemetery administrator. Informed Milo that Edward Hammel died 200 years ago.
+- **Svend** - Human Male - Cemetery administrator. Informed Milo that Edward Hammel died 200 years ago.
 
 ### Returning NPCs
 - **[[Sebastian]]** - Gave election speech promising magic for everyone; secretly asked Jaspar to retrieve the Erloom hammer from Axeholm.
 - **[[Liset]]** - Gave election speech advocating for common people; speaks Celestial; offered Auren a job after hearing him sing.
-- **[[Selune]]** - Appeared in Jaspar's prophetic dream.
+- **Selune** - Appeared in Jaspar's prophetic dream.
 
 ## Places Visited
 
-### [[The Thirsty Goat Tavern]]
+### [[The_Thirsty_Goat|The Thirsty Goat Tavern]]
 **Morning:**
 - Woke up, had breakfast
 - Saw election banner for Sebastian and Liset
 - Milo shared his book findings with party
 - Auren translated Celestial text: "Time holds no sway, there's no delay, there's only today"
 
-### [[Dependable Defenses]]
+### Dependable Defenses
 **Morning:**
 - Jaspar ordered sturdy armor
 - Dwarf armorer mentioned he has half an armor set
@@ -63,7 +63,7 @@ tags:
   - Live in mountain caves, breathe ice, vulnerable to fire
 - Irena discovered Edward Hammel is buried in the cemetery
 
-### [[Neverwinter Marketplace]]
+### Neverwinter marketplace
 **Election Speeches:**
 - Old man quieted the crowd
 - Liset spoke first - advocated for common people having more say (unusual given her background)
@@ -87,7 +87,7 @@ tags:
 - When Auren revealed the distraction plan, Liset laughed and returned to talk with Modred
 - Liset claimed she speaks Celestial because "languages are a hobby"
 
-### [[Sebastian's Residence]]
+### Sebastian's residence
 **Afternoon:**
 - Jaspar approached Sebastian at the speech, suggested he needed a speechwriter
 - Sebastian laughed, wanted Jaspar to "fetch something" instead
@@ -97,7 +97,7 @@ tags:
 - A dwarf reported it was stolen at night by someone with "long ears and long hair"
 - Sebastian warned Jaspar not to tell others about Lord Neverember's disappearance
 
-### [[Neverwinter Cemetery]]
+### Neverwinter cemetery
 **Afternoon/Night:**
 - Milo visited after learning Edward Hammel is buried there
 - Svend told Milo that Hammel died 200 years ago

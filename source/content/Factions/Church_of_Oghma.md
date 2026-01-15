@@ -46,4 +46,4 @@ In Session 10, when Milo confronted Oghma's statue in anger, the god answered di
 ## Connections
 - [[Milo Swiftclock]] - Apparent chosen champion, granted Fey Touched
 - [[Tharizdun]] - Opposed deity (knowledge vs chaos/madness)
-- [[Swiftclock Family]] - Connected through Milo's research into the cult
+- [[Swiftclock_Home|Swiftclock Family]] - Connected through Milo's research into the cult

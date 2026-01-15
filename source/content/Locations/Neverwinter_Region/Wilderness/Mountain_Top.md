@@ -15,7 +15,7 @@ tags:
 # Mountain Top
 
 ## Quick Reference
-**Region:** [[Sword Mountains]], overlooking [[Neverwinter]] forest
+**Region:** Sword Mountains, overlooking [[Neverwinter]] forest
 **Type:** Mountain Peak/Wilderness
 **Status:** Active - site of major plot events
 

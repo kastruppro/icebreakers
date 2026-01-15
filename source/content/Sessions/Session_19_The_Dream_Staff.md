@@ -29,7 +29,7 @@ tags:
 - **[[Merin]]** - Tabaxi Male - Rogue of the Daggers of the North. Cautious, uncertain if the party can be trusted.
 - **[[Rafael]]** - Human Male - Warlock of the Daggers of the North (deceased). Had nightmares about chains and a demon. Killed fighting a beast in the marsh near Daggerford.
 - **[[Desna]]** - Goddess - Goddess of Dreams, Nightmares, Stars, and Luck. Appeared as constellation face with starry cloud hair. Granted the Dream Staff to Clover.
-- **[[Temple Priest (Desna)]]** - Unknown Female - Priest at Temple of Desna. Purple robes with glowing moon symbol on hands. No hierarchy in the temple.
+- **[[Desna|Temple Priest]]** - Unknown Female - Priest at Temple of Desna. Purple robes with glowing moon symbol on hands. No hierarchy in the temple.
 
 ### Returning NPCs
 - **[[Raenar Neverember]]** - Still at the Sated Satyr, ate a pepper nut and turned invisible. Party promised to return for drinks.

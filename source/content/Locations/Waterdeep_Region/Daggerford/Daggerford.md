@@ -16,7 +16,7 @@ tags:
 # Daggerford
 
 ## Quick Reference
-**Region:** [[Sword Coast]]
+**Region:** Sword Coast
 **Type:** Small Town
 **Status:** Active
 
@@ -52,7 +52,7 @@ A small but vibrant town located approximately one hour from Waterdeep. Daggerfo
 ## Connections
 - [[Waterdeep]] - Major city 1 hour away
 - [[Temple of Desna]] - Located within the town
-- [[Tharizdun Cult Ruins]] - One of four ruins in the southern marsh
+- Tharizdun cult ruins - One of four ruins in the southern marsh
 
 ## Notes
 The marsh south of Daggerford contains one of the four known Tharizdun cult ruins, making this seemingly peaceful town strategically important in the fight against the cultists seeking to free the imprisoned god.

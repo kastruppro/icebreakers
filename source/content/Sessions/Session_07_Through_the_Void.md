@@ -27,7 +27,7 @@ tags:
 
 ### New NPCs
 - **[[Braum]]** - Dwarf Male - Last unfrozen dwarf of Axeholm. "How dare you show up after stealing from me!" Initially hostile toward Milo, mistaking him for the thief who stole the healing hammer.
-- **[[Thistle (Feywild)]]** - Eladrin Male - Auren's friend from the Feywild, contacted him during meditation. Warned about an omen: "If a man is released, the forest will burn."
+- **[[Thistle_Feywild|Thistle (Feywild)]]** - Eladrin Male - Auren's friend from the Feywild, contacted him during meditation. Warned about an omen: "If a man is released, the forest will burn."
 
 ### Returning NPCs
 - **[[Liora Swiftclock]]** - First seen frozen on the mountain top with Cora

@@ -24,9 +24,9 @@ tags:
 ## Characters Met
 
 ### New NPCs
-- **[[Old Priest]]** - Human Male - Priest of Tyr at House of Justice. Examined Modred's blackened fingers and provided information about the corruption's progression.
-- **[[Captured Cultist]]** - Human Male - Tharizdun cultist in red robes. Captured in forest, revealed cult activities on Pilgrim's Road.
-- **[[Arena Announcer]]** - Unknown - Field of Triumph staff. "Oh, they seem to be a dramatic group! We haven't had that in a while!"
+- **old priest** - Human Male - Priest of Tyr at House of Justice. Examined Modred's blackened fingers and provided information about the corruption's progression.
+- **captured cultist** - Human Male - Tharizdun cultist in red robes. Captured in forest, revealed cult activities on Pilgrim's Road.
+- **arena announcer** - Unknown - Field of Triumph staff. "Oh, they seem to be a dramatic group! We haven't had that in a while!"
 - **Waterdeep Fighters** - Arena opponents: Barbarian (Human Male), Paladin (Dwarf Female), Warlock (Half-Elf Female), Sorcerer (Orc Male)
 
 ### Returning NPCs
@@ -62,7 +62,7 @@ tags:
 - Gauntlets will be crucial weapon against Betrayer God (Tharizdun)
 - Tyr cannot interfere directly due to divine rules
 
-### [[Waterdeep Forest]]
+### Waterdeep Forest
 **Swift Flower Gathering:**
 - Clover recognized the herb immediately
 - Gathered for treating Modred's corruption
@@ -77,14 +77,14 @@ tags:
 - Party threatened severe consequences if information false
 - Cultist delivered to Morgane at House of Justice for imprisonment
 
-### [[Sevarna's Magic Shop]]
+### [[Sevarnas_Magic_Shop|Sevarna's Magic Shop]]
 - Milo purchased magical items from Savan
 
-### [[Temple of Tymora]]
+### Temple of Tymora
 - Jaspar prayed to Tymora
 - Milo spoke with the priest
 
-### [[Gigz Gears]]
+### [[Gigz|Gigz Gears]]
 - Jaspar commissioned ball bearing device
 - Opens after few seconds, spreads ball bearings
 - Gigz added small door for Light spell access
@@ -112,11 +112,11 @@ tags:
 | Item | Description | Holder |
 |------|-------------|--------|
 | [[Sending Stones]] | Pair of communication stones | Milo |
-| [[Black Mask with Horns]] | Red eyes, socket for gem, +2 intimidation, with gem: 3 charges Wither & Bloom per long rest | Milo |
-| [[Ball Bearing Device]] | Opens after delay, spreads ball bearings, door for Light spell | Jaspar |
-| [[Splint Armor]] | AC 17, purchased for 200g | Jaspar |
-| [[Swift Flower Herbs]] | Slows corruption when applied to blackened skin | Clover |
-| [[Masquerade Ball Tickets]] | Four tickets to House Castellers ball (2 days away) | Party |
+| black mask with horns | Red eyes, socket for gem, +2 intimidation, with gem: 3 charges Wither & Bloom per long rest | Milo |
+| ball bearing device | Opens after delay, spreads ball bearings, door for Light spell | Jaspar |
+| splint armor | AC 17, purchased for 200g | Jaspar |
+| Swift Flower herbs | Slows corruption when applied to blackened skin | Clover |
+| masquerade ball tickets | Four tickets to House Castellers ball (2 days away) | Party |
 
 ## Key Events Timeline
 

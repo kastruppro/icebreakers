@@ -44,7 +44,7 @@ When the party rescued the Castellers children in Session 21, Victor's deal with
 
 ## Current Status
 - Victor: Claimed by Tharizdun
-- Ammalia: At [[Temple of Tyr]] with her children
+- Ammalia: At [[House_of_Justice|Temple of Tyr]] with her children
 - House: Under investigation
 - Basement: Contains ritual chamber with Lord Neverember
 

@@ -36,7 +36,7 @@ tags:
 
 ## Places Visited
 
-### [[Swiftclock Family Home]]
+### [[Swiftclock_Home|Swiftclock Family Home]]
 **Morning Revelations:**
 - Milo confronted Serina about the diary
 - Serina revealed she took young Liora to grandfather's ritual site
@@ -48,7 +48,7 @@ tags:
 - Elira shared research on gem-crafting; dwarves in Waterdeep know most
 - Gearwhistle offered to protect Arthur with magical wards
 
-### [[JSSP Warehouse]]
+### JSSP warehouse
 **Jaspar's old hideout at the docks:**
 - Abandoned warehouse named "JSSP" (Jaspar's Secret Toilet Place)
 - Used to open the triangular portal to Waterdeep
@@ -60,13 +60,13 @@ tags:
 - **Jaspar's Temptation:** Dark throne room with floating cyst (Tharizdun's "shell"). Met his "Father" entity. Received sample of power (warm orange-red energy). Warning: "Don't trust Cora - she'll use shadow to destroy everything."
 - **Milo & Modred's Journey:** Heard thousands of screams while falling. Landed on boat in underworld with millions of dead souls.
 
-### [[The Underworld - Boat]]
+### the underworld boat
 - Met Sabrina Nightgale, elf banished 200 years ago
 - Clover saw his parents among the dead (they didn't respond)
 - Learned critical information about the Shadow and the Chained One
 - Modred steered the boat, creating a vortex that pulled them through
 
-### [[Waterdeep Forest]]
+### Waterdeep Forest
 - Party emerged separately in the forest
 - Found Raenar Neverember hanging from his own hunting trap
 - Clover transformed into a giant ape to help rescue him

@@ -24,10 +24,10 @@ tags:
 ## Characters Met
 
 ### New NPCs
-- **[[Henrik]]** - Human Male - Shopkeeper in Phandalin. Disorganized but helpful, sold the party rope and dusty sleeping bags.
-- **[[Keelik]]** - Centaur Male - Leader of a centaur band fleeing south from the dragon. "We were fleeing from the north when the dragon's magic caught us."
-- **[[Nymph]]** - Fey Female - Evil creature who controlled the treant's mind with her song. Charmed Modred before being decapitated by him.
-- **[[Treant]]** - Treant - Ancient forest guardian freed from the nymph's control. Mentioned seeing Arthur pass through before.
+- **Henrik** - Human Male - Shopkeeper in Phandalin. Disorganized but helpful, sold the party rope and dusty sleeping bags.
+- **Keelik** - Centaur Male - Leader of a centaur band fleeing south from the dragon. "We were fleeing from the north when the dragon's magic caught us."
+- **Nymph** - Fey Female - Evil creature who controlled the treant's mind with her song. Charmed Modred before being decapitated by him.
+- **Treant** - Treant - Ancient forest guardian freed from the nymph's control. Mentioned seeing Arthur pass through before.
 
 ### Returning NPCs
 - **[[Toblen]]** - Offered breakfast and continued lodging, grateful for party's help
@@ -49,7 +49,7 @@ tags:
 - Cluttered, disorganized store
 - Purchased rope and sleeping bags (dusty, with holes)
 
-### [[Western Forest]]
+### western forest
 **The Clearing:**
 - Met Keelik and discovered 10 frozen centaurs
 - Found Arthur De Moray frozen among them
@@ -62,7 +62,7 @@ tags:
 - Two voices could be heard - possibly nymph and treant harmonizing
 - Combat resulted in nymph's death and treant's freedom
 
-### [[Frozen Sea Coast]]
+### Frozen Sea Coast
 **Coastline:**
 - Followed stream west until it became ice
 - Discovered the entire ocean frozen solid

@@ -18,7 +18,7 @@ tags:
 # Neverwinter
 
 ## Quick Reference
-**Region:** [[Sword Coast]]
+**Region:** Sword Coast
 **Type:** Major City
 **Status:** Active
 
@@ -56,7 +56,7 @@ The Jewel of the North, Neverwinter is a major city on the Sword Coast and the p
 - [[Liset]] - Party contact
 - [[Master Tiberius Gearwhistle]] - Ally
 - [[Elira Moonshadow]] - Contact
-- [[Milo's Family]] - The Swiftclock family
+- [[Swiftclock_Home|Milo's Family]] - The Swiftclock family
 
 ## Events at This Location
 - Early Sessions: Party established base and took on initial quests
@@ -68,4 +68,4 @@ The Jewel of the North, Neverwinter is a major city on the Sword Coast and the p
 ## Connections
 - [[Phandalin]] - Small town to the south
 - [[Waterdeep]] - Major city further south
-- [[Sword Coast]] - Part of the broader region
+- Sword Coast - Part of the broader region

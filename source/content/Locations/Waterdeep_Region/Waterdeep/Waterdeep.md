@@ -17,7 +17,7 @@ tags:
 # Waterdeep
 
 ## Quick Reference
-**Region:** [[Sword Coast]]
+**Region:** Sword Coast
 **Type:** Major City
 **Status:** Active
 

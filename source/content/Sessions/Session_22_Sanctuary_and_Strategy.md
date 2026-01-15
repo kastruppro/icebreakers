@@ -31,7 +31,7 @@ tags:
 - **[[Thistle]]** - Clover's sister. Freed from magical trance, revealed cultists were seeking "Thassa" and "strong spellcasters that could bind someone."
 - **[[Raenar Neverember]]** - Lord Neverember's son. Learned his father is imprisoned in the Castellers basement; joined rescue planning. Flirted awkwardly with Ammalia.
 - **[[Ammalia Castellers]]** - Victor's wife. Provided intel about Sebastian's black hand, agreed to command house guards for the rescue mission.
-- **[[Castellers Children]]** - Stressed and confused, being cared for at Temple of Tyr by priests.
+- **Castellers children** - Stressed and confused, being cared for at Temple of Tyr by priests.
 - **[[Daggers of the North]]** - Assigned to surveil Castellers mansion overnight.
 - **[[Pogo]]** - Raenar's golden retriever. Good boy.
 - **[[Tyr]]** - God of Justice. Appeared to Modred via black dog vision, warned about Tharizdun's acceleration and "great power" in Waterdeep.
@@ -39,7 +39,7 @@ tags:
 
 ## Places Visited
 
-### [[Temple of Tyr]]
+### [[House_of_Justice|Temple of Tyr]]
 **Main Hall:**
 - Large temple with massive statue of Tyr, open to visitors even in evening hours
 - Quiet corners with blankets designated for prayer and rest
@@ -53,7 +53,7 @@ tags:
 - Party used private room for strategic planning
 - Children placed in care of priests
 
-### [[Tyr's Divine Workshop]]
+### Tyr's divine workshop
 **Divine Realm:**
 - Accessed via vision triggered by black dog in temple
 - Room of tools, craftsmanship, and weapons
@@ -72,7 +72,7 @@ tags:
 - Ammalia's entrance drew attention (music stopped, mixed reactions)
 - Jaspar, Modred arrived to deliver news about the children
 
-### [[Waterdeep Streets]]
+### Waterdeep streets
 **Near Temple of Tyr:**
 - Mob gathered shouting "Child killer!" at Ammalia
 - Bottle thrown, smashed against temple wall

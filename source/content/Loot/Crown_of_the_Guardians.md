@@ -36,7 +36,7 @@ The ghosts warned Jaspar about his cursed sword - the same power that killed the
 
 **Ghostly Aid.** When worn, the spirits of the Seven Ghosts can provide aid to the wearer.
 
-**Draining Effect.** Wearing the crown drains the wearer.
+==**Draining Effect Unknown.**==
 
 ## The Seven Ghosts
 

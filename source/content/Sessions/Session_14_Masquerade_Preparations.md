@@ -24,8 +24,8 @@ tags:
 ## Characters Met
 
 ### New NPCs
-- **[[Erik (Waterdeep)]]** - Dwarf Male - Gem crafter and conduit magic expert. "If you present the magic with the opposite of what it already is, then perhaps the gem will change its very nature."
-- **[[Cece]]** - Cat-Person Female - Skilled tailor who made custom masquerade outfits for the party overnight.
+- **[[Erik_Waterdeep|Erik]]** - Dwarf Male - Gem crafter and conduit magic expert. "If you present the magic with the opposite of what it already is, then perhaps the gem will change its very nature."
+- **Cece** - Cat-Person Female - Skilled tailor who made custom masquerade outfits for the party overnight.
 
 ### Returning NPCs
 - **[[Gigz]]** - Created improved ball bearing device; provided intel on House Castellers' rapid rise to power and their missing children
@@ -42,7 +42,7 @@ tags:
 - Victor Castellers observed from announcer's box, refused to clap, left immediately
 - Party received masquerade tickets from soldiers
 
-### [[Gigz Gears]]
+### [[Gigz|Gigz Gears]]
 **Device Feedback & Intelligence Gathering:**
 - Ball bearing device worked excellently during arena fight
 - Gigz created improved replacement in 10 minutes
@@ -52,7 +52,7 @@ tags:
 - Children have been missing - no one has seen them for a long time
 - Parents rumored to be depressed
 
-### [[Savan's Magic Shop]]
+### [[Savan|Savan's Magic Shop]]
 **Shopping Expedition:**
 - DM confirmed spellbook can function as arcane focus
 - Clover purchased:
@@ -60,7 +60,7 @@ tags:
   - Hat of Vermin (5g) - summons bats/frogs/rats, 3 charges/day
   - Gleaming Hide Armor (50g) - never dirty, +2 persuasion
 
-### [[Erik's Gem Shop]]
+### [[Erik_Waterdeep|Erik's Gem Shop]]
 **Southern Waterdeep:**
 - Examined Milo's healing gem from mask
 - Explained conduit magic theory: opposite magic can invert gem's nature
@@ -69,7 +69,7 @@ tags:
 - Jaspar offered to become apprentice - revolutionary concept of using self as conduit
 - Training starts day after masquerade; Erik holds necromantic gem in exchange
 
-### [[Statue Square]]
+### [[Statue_Protectors_Square|Statue Square]]
 **Pilgrim Intelligence (Clover's Dog Walking):**
 - Guards warning pilgrims not to enter forest
 - Reports of ruins with increased cult activity
@@ -78,7 +78,7 @@ tags:
 - Red/black robed cultists with eye symbols
 - Active summoning rituals ongoing
 
-### [[Cece's Clothing Shop]]
+### Cece's clothing shop
 **Masquerade Attire:**
 - Jaspar (10g): Black attire with dragon cloak, wings design, gold accents
 - Milo (6g): Teal green silk cape, custom hat with ear holes
@@ -97,8 +97,8 @@ tags:
 |------|-------------|--------|
 | [[Staff of the Python]] | Transforms to poisonous snake for 1 minute | Clover |
 | [[Hat of Vermin]] | Summons bat/frog/rat, 3 charges/day | Clover |
-| [[Gleaming Hide Armor]] | Never dirty, +2 persuasion | Clover |
-| [[Improved Ball Bearing Device]] | Faster deployment mechanism | Jaspar |
+| Gleaming Hide Armor | Never dirty, +2 persuasion | Clover |
+| improved ball bearing device | Faster deployment mechanism | Jaspar |
 
 ## Key Events Timeline
 

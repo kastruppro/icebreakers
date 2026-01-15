@@ -24,7 +24,7 @@ tags:
 ## Characters Met
 
 ### New NPCs
-- **[[Isabel]]** - Human Female - Daughter of dock-controlling noble house. Gullible, posh, wears red/flirty mask. "I would like to see you again." Became smitten with Jaspar after he revealed his angelic heritage.
+- **[[Isabella_Adabrent|Isabel]]** - Human Female - Daughter of dock-controlling noble house. Gullible, posh, wears red/flirty mask. "I would like to see you again." Became smitten with Jaspar after he revealed his angelic heritage.
 - **[[Daggers of the North]]** - Adventuring party from Daggerford (Elf leader, Dwarf, Tabaxi). Wear salt-symbol patches. Carry black corruption vial. Lost party member to beast attack. "The Castellers are not to be trusted."
 - **[[Thistle]]** - Harengon Female - Clover's sister. Found floating in magical trance, channeling consciousness magic to two sleeping children. Cold to touch except warm head.
 - **Castellers' Children** - Human (ages 5-7). Two children in beds having nightmares, connected to Thistle's magic threads.
