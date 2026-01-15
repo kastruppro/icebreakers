@@ -1,1 +1,20 @@
-.trash/*
+# Folders excluded from players (AI/song generation)
+source/content/Songs/
+source/content/Context/
+source/content/Transcripts/
+source/content/Data/
+
+# OS files
+.DS_Store
+*/.DS_Store
+
+# Node
+node_modules/
+source/node_modules/
+
+# Quartz build output
+source/public/
+source/.quartz-cache/
+
+# Obsidian
+.obsidian/
