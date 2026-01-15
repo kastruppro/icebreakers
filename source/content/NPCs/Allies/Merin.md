@@ -23,7 +23,7 @@ tags:
 **Race/Gender:** Tabaxi Male
 **Role:** Rogue, Daggers of the North Member
 **Status:** Alive
-**Current Location:** [[House_Castellers|House Castellers]], [[Waterdeep]] (positioned as lookout)
+**Current Location:** [[House_Castellers_Estate|House Castellers]], [[Waterdeep]] (positioned as lookout)
 
 ## Description
 A tabaxi rogue operating with the Daggers of the North. Currently positioned inside House Castellers as a lookout, gathering intelligence on the suspicious noble house. His feline features and rogueish skills make him well-suited for infiltration work.
@@ -36,10 +36,10 @@ Cautious and uncertain, Merin maintains a guarded disposition toward new acquain
 
 ## History with Party
 - Session 19: First encountered by the party; his suspicious thoughts were detected by [[Milo_Swiftclock|Milo Swiftclock]]'s Detect Thoughts spell
-- Session 20: Last seen positioned inside [[House_Castellers|House Castellers]] as a lookout for the Daggers of the North operation
+- Session 20: Last seen positioned inside [[House_Castellers_Estate|House Castellers]] as a lookout for the Daggers of the North operation
 
 ## Connections
 - [[Morguna]] - Leader of the Daggers of the North
 - [[Leena]] - Fellow Daggers of the North member
 - [[Milo_Swiftclock|Milo Swiftclock]] - Party member who detected his uncertain thoughts
-- [[House_Castellers|House Castellers]] - Current surveillance target
+- [[House_Castellers_Estate|House Castellers]] - Current surveillance target

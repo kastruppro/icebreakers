@@ -25,7 +25,7 @@ tags:
 **Race/Gender:** Human Male
 **Role:** Former Open Lord of Waterdeep, Raenar's Father
 **Status:** Imprisoned - ACTIVE RITUAL
-**Current Location:** Ritual chamber beneath [[House_Castellers|House Castellers]]
+**Current Location:** Ritual chamber beneath [[House_Castellers_Estate|House Castellers]]
 
 ## Description
 Powerful noble who previously held significant political power in Waterdeep. Father to Raenar Neverember. Was reported missing after falling through a triangular portal. Now discovered chained in a Tharizdun cult ritual circle.
@@ -58,7 +58,7 @@ Lord Neverember's rescue is now a critical quest objective. The party knows:
 
 ## Connections
 - [[Raenar_Neverember|Raenar Neverember]] - Son (party ally, wants to rescue him)
-- [[House_Castellers|House Castellers]] - Imprisoned beneath this estate
+- [[House_Castellers_Estate|House Castellers]] - Imprisoned beneath this estate
 - [[Victor_Castellers|Victor Castellers]] - Lord of the house where he's imprisoned (now claimed by Tharizdun)
 - [[Tharizdun]] - Target of ritual being performed on him
 - [[Cora]] - Uses same triangular portals that took him

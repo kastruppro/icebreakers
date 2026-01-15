@@ -49,7 +49,7 @@ The Crown of the North, Waterdeep is a massive metropolis approximately ten time
 ## NPCs Found Here
 - [[Gigz]] - Contact/ally
 - [[House_De_Moray|House De Moray]] - Modred's noble family
-- [[House_Castellers|House Castellers]] - Noble house hosting masquerade ball
+- [[House_Castellers_Estate|House Castellers]] - Noble house hosting masquerade ball
 - [[Daggers_of_the_North|Daggers of the North]] - Adventuring guild from Daggerford with presence here
 
 ## Events at This Location
@@ -61,7 +61,7 @@ The Crown of the North, Waterdeep is a massive metropolis approximately ten time
 ## Connections
 - [[Neverwinter]] - Major city to the north
 - [[Daggerford]] - Small town 1 hour away
-- [[House_Castellers|House Castellers]] - Noble mansion within the city
+- [[House_Castellers_Estate|House Castellers]] - Noble mansion within the city
 - [[House_of_Justice|House of Justice]] - Temple of Tyr within the city
 
 ![[attachments/waterdeep1.png]]

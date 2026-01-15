@@ -38,7 +38,7 @@ tags:
 - Met [[Daggers_of_the_North]] leaving the graveyard after burying [[Rafael]]
 - [[Milo_Swiftclock|Milo]] suffered psychic attack from [[Ammalia_Castellers|Ammalia]] tracking her spellbook
 
-### [[House_Castellers|House Castellers]]
+### [[House_Castellers_Estate|House Castellers]]
 **Ground Floor:**
 - Beautiful garden untended due to dismissed guards
 - Platform with self-playing instruments

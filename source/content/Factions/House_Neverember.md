@@ -50,6 +50,6 @@ During the infiltration of [[House_Castellers]], the party discovered Lord Never
 
 ## Connections
 - [[Tharizdun]] - Cultists imprisoned the lord
-- [[House_Castellers|House Castellers]] - Lord was held in their basement
+- [[House_Castellers_Estate|House Castellers]] - Lord was held in their basement
 - [[The_Icebreakers|The Icebreakers]] - Allied for rescue mission
 - [[Crown_of_the_Guardians]] - Royal artifact now held by [[Modred_De_Moray]]

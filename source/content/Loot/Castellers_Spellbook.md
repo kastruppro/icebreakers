@@ -17,7 +17,7 @@ tags:
 
 ## Quick Reference
 **Holder:** [[Milo_Swiftclock|Milo Swiftclock]]
-**Acquired:** Session 21 (from [[House_Castellers|House Castellers]])
+**Acquired:** Session 21 (from [[House_Castellers_Estate|House Castellers]])
 **Source:** [[Victor_Castellers|Victor Castellers]] or [[Ammalia_Castellers|Ammalia Castellers]]
 
 ## Description

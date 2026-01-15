@@ -92,7 +92,7 @@ The ritual is ACTIVELY IN PROGRESS. Lord Neverember's condition is unknown, but 
 - [[Ammalia_Castellers|Ammalia Castellers]] - Potential source of information
 
 ## Locations
-- [[House_Castellers|House Castellers]] - Location of the ritual
+- [[House_Castellers_Estate|House Castellers]] - Location of the ritual
 - House Castellers Basement - Ritual Chamber - Where Neverember is imprisoned
 - Waterdeep - City location
 

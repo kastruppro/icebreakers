@@ -72,7 +72,7 @@ His dreams exist in a crossover between the dream realm and something else, maki
 
 **Combat:**
 - Delivered the killing blow on a stone giant with a stealth archer attack (Session 7)
-- Cast Daylight in the [[House_Castellers|Castellers]]' ballroom to create a blinding distraction during the heist (Session 18)
+- Cast Daylight in the [[House_Castellers_Estate|Castellers]]' ballroom to create a blinding distraction during the heist (Session 18)
 - Effective use of Light spell on ball bearings against shadow entities
 
 **Quick Thinking:**
@@ -82,7 +82,7 @@ His dreams exist in a crossover between the dream realm and something else, maki
 
 ## **Romantic Interest**
 
-**[[Isabella_Adabrent|Isabella Adabrent]]** - A noblewoman from House Adabrent, which controls the [[Waterdeep]] docks. Jaspar danced with her at the [[House_Castellers|Castellers]]' masquerade ball (Session 18), revealing his angelic heritage to win her over. She became smitten and later sent him perfumed pink notes with magical [[Pepper_Nuts|pepper nuts]] (Session 19). The party attempted to visit her at House Adabrent but were turned away by guards. This budding romance remains unresolved.
+**[[Isabella_Adabrent|Isabella Adabrent]]** - A noblewoman from House Adabrent, which controls the [[Waterdeep]] docks. Jaspar danced with her at the [[House_Castellers_Estate|Castellers]]' masquerade ball (Session 18), revealing his angelic heritage to win her over. She became smitten and later sent him perfumed pink notes with magical [[Pepper_Nuts|pepper nuts]] (Session 19). The party attempted to visit her at House Adabrent but were turned away by guards. This budding romance remains unresolved.
 
 ## **Key Relationships**
 

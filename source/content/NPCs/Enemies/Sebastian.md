@@ -26,7 +26,7 @@ tags:
 **Race/Gender:** Human Male
 **Role:** Powerful Mage, Leader of Cloak Tower
 **Status:** Alive (severely corrupted)
-**Current Location:** [[House_Castellers|House Castellers]] (Waterdeep)
+**Current Location:** [[House_Castellers_Estate|House Castellers]] (Waterdeep)
 
 ## Description
 Powerful mage who won election in Neverwinter. Uses chronurgy magic. ENTIRE HANDS are black with corruption - significantly worse than Modred's fingers.
@@ -57,5 +57,5 @@ Secretive, paranoid. Reacted urgently when Clover exposed his blackened hand at 
 
 ## Connections
 - [[Victor_Castellers|Victor Castellers]] - Conspiracy partner
-- [[House_Castellers|House Castellers]] - Base of operations in Waterdeep
+- [[House_Castellers_Estate|House Castellers]] - Base of operations in Waterdeep
 - [[Modred_De_Moray|Modred De Moray]] - Has same corruption but more advanced

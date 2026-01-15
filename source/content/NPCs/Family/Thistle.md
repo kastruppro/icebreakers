@@ -72,7 +72,7 @@ Safe at the Temple of Tyr in Waterdeep under Morgane's care. Has agreed to stay 
 ## Connections
 - [[Clover]] - Sibling (party member, rescued her)
 - [[Morgane]] - Examined her, providing care at temple
-- [[House_Castellers|House Castellers]] - Former prison location
+- [[House_Castellers_Estate|House Castellers]] - Former prison location
 - [[Desna]] - Provided the Dream Staff solution
 - [[Tharizdun]] - Was under his direct curse
 - [[Victor_Castellers|Victor Castellers]] - Her captor (now claimed by Tharizdun)

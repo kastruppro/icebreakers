@@ -45,4 +45,4 @@ A homebrew version of the infamous Book of Vile Darkness. Unlike the official ar
 ## Connections
 
 - [[Tharizdun]] - The cult may have connection to this book
-- [[House_Castellers|House Castellers]] - Possibly found during the infiltration
+- [[House_Castellers_Estate|House Castellers]] - Possibly found during the infiltration

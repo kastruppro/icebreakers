@@ -51,7 +51,7 @@ tags:
 - Sea-Pointing Statue (Human warrior with sword) speaks of treasure and faith
 - Starting point for the Pilgrim's Road - traditional journey for treasure hunting, religious experiences, and coming-of-age trials
 
-### [[House_De_Moray|House De Moray]]
+### [[House_De_Moray_Estate|House De Moray]]
 **[[Modred_De_Moray|Modred]]'s Family Estate:**
 - Located in North Ward noble district
 - Tall, imposing building with blue banners featuring two crossed swords, one aflame

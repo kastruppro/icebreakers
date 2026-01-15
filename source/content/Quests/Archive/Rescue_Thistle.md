@@ -76,7 +76,7 @@ The party fought an elemental chimera-beast in the dream realm - a creature that
 - [[Merin]] - Tabaxi rogue from Daggers of the North who assisted escape
 
 ## Locations
-- [[House_Castellers|House Castellers]] - Where Thistle was found
+- [[House_Castellers_Estate|House Castellers]] - Where Thistle was found
 - Thistle's Dream Realm - Where the final battle took place
 
 ## Session 22 - Confirmed Safe

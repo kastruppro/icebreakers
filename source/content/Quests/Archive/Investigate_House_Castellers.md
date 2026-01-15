@@ -104,7 +104,7 @@ Milo discovered a pressure plate at floor level in the study that opened a paint
 - 8-10 Cloaked Cultists - Chanting in basement ritual
 
 ## Locations
-- [[House_Castellers|House Castellers]] - Noble estate in Waterdeep
+- [[House_Castellers_Estate|House Castellers]] - Noble estate in Waterdeep
 - House Castellers Basement - Tomb Room (left passage)
 - House Castellers Basement - Living Quarters (middle passage)
 - House Castellers Basement - Ritual Chamber (right passage)

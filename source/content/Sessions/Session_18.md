@@ -35,7 +35,7 @@ tags:
 
 ## Places Visited
 
-### [[House_Castellers|House Castellers]] - First Floor
+### [[House_Castellers_Estate|House Castellers]] - First Floor
 **Children's Room:**
 - Accessed through cracked window by [[Clover]] (as cat)
 - Filled with toys, plushies, paintings
@@ -50,7 +50,7 @@ tags:
 - Large painting of [[Victor_Castellers|Victor]] and Amelia - Amelia appears sad, wears magical necklace
 - Three magical objects detected behind wall
 
-### [[House_Castellers|House Castellers]] - Second Floor
+### [[House_Castellers_Estate|House Castellers]] - Second Floor
 **Right Study:**
 - Sparse room with desk, chair, window overlooking garden
 - Locked drawer forced open

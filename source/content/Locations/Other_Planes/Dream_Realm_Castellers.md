@@ -76,6 +76,6 @@ The realm had a unique property: voices from the waking world could echo through
 - "Victor is coming." - Ammalia's voice warning through the dream
 
 ## Connections
-- [[House_Castellers|House Castellers]] - Physical location anchoring this pocket dimension
+- [[House_Castellers_Estate|House Castellers]] - Physical location anchoring this pocket dimension
 - [[Thistle]] - Prisoner freed when realm collapsed
 - [[Tharizdun]] - Created/maintained this prison realm

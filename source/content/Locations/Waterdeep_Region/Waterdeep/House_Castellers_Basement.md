@@ -18,7 +18,7 @@ tags:
 # House Castellers Basement
 
 ## Quick Reference
-**Region:** [[House_Castellers|House Castellers]], [[Waterdeep]]
+**Region:** [[House_Castellers_Estate|House Castellers]], [[Waterdeep]]
 **Type:** Hidden Dungeon/Cult Headquarters
 **Status:** Active - Ritual in progress
 
@@ -68,6 +68,6 @@ A hidden underground complex beneath House Castellers, accessed through a baseme
 - Bedroom occupant unknown
 
 ## Connections
-- [[House_Castellers|House Castellers]] - Accessed via basement door in garden
+- [[House_Castellers_Estate|House Castellers]] - Accessed via basement door in garden
 - [[Tharizdun]] - Statue and ritual dedicated to the chained god
 - rescue Lord Neverember mission - Active quest tied to this location

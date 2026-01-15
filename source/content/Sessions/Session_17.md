@@ -54,7 +54,7 @@ tags:
 - Received three healing potions
 - [[Jaspar_Starshade|Jaspar]] purchased splint armor
 
-### [[House_Castellers|House Castellers]] ([[Waterdeep]])
+### [[House_Castellers_Estate|House Castellers]] ([[Waterdeep]])
 **Masquerade Ball:**
 - Grand mansion with guarded gardens, outhouse, and multiple rooms
 - Weapons confiscated at entrance
