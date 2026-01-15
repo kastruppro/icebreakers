@@ -21,6 +21,10 @@
 - [ ] **[[Jaspar_Starshade|Jaspar]]**: Explore prophetic dreams (Connected to something even [[Desna]] cannot control)
 - [x] **[[Clover]]**: ~~Rescue sister [[Thistle]]~~ (Completed [[Session_21|Session 21]], now safe at [[House_of_Justice|Temple of Tyr]])
 
+### Optional Quests
+- [ ] **[[Percys_Heist|Percy's Heist]]** - Rob the "necromancer" in Waterdeep's northern tower (Offered [[Session_12|Session 12]], declined)
+- [ ] **[[Pirate_Treasure_Island|Pirate Treasure Island]]** - Explore the unmarked island on the treasure map (Found [[Session_06|Session 6]])
+
 ### Completed Quests
 - [x] **[[Find_Liora]]** - [[Milo_Swiftclock|Milo]]'s sister found frozen on [[Mountain_Top|mountain]] ([[Session_07|Session 7]]), freed ([[Session_08|Session 8]])
 - [x] **[[Rescue_Thistle]]** - [[Clover]]'s sister freed from [[Dream_Realm_Castellers|dream realm]] ([[Session_21|Session 21]])

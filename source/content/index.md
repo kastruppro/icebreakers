@@ -65,6 +65,8 @@ The overarching plot involves [[The_Chained|the Chained cult]] attempting to fre
 - [[Find_Liora\|Find Liora]]
 - [[Find_Lord_Neverember\|Find Lord Neverember]]
 - [[Investigate_House_Castellers\|Investigate House Castellers]]
+- [[Percys_Heist\|Percys Heist]]
+- [[Pirate_Treasure_Island\|Pirate Treasure Island]]
 - [[Rescue_Thistle\|Rescue Thistle]]
 - [[Stop_Tharizduns_Release\|Stop Tharizduns Release]]
 - [[Tyrs_Gauntlets_Quest\|Tyrs Gauntlets Quest]]
@@ -165,7 +167,7 @@ The overarching plot involves [[The_Chained|the Chained cult]] attempting to fre
 
 | Location |
 |----------|
-| [[House_Castellers\|House Castellers]] |
+| [[House_Castellers_Estate\|House Castellers Estate]] |
 | [[House_Castellers_Basement\|House Castellers Basement]] |
 | [[House_of_Justice\|House of Justice]] |
 | [[Temple_of_Tharizdun\|Temple of Tharizdun]] |
@@ -174,13 +176,13 @@ The overarching plot involves [[The_Chained|the Chained cult]] attempting to fre
 | [[Field_of_Triumph\|Field of Triumph]] |
 | [[The_Peppermint_Minotaur\|The Peppermint Minotaur]] |
 | [[Sevarnas_Magic_Shop\|Sevarnas Magic Shop]] |
+| [[House_De_Moray_Estate\|House De Moray Estate]] |
 
 ### Neverwinter Locations
 
 | Location |
 |----------|
 | [[House_of_Knowledge\|House of Knowledge]] |
-| [[House_De_Moray\|House De Moray]] |
 | [[Swiftclock_Home\|Swiftclock Home]] |
 | [[Moonstone_Mask\|Moonstone Mask]] |
 | [[Neverwinter_Castle\|Neverwinter Castle]] |
@@ -237,6 +239,10 @@ The overarching plot involves [[The_Chained|the Chained cult]] attempting to fre
 - [ ] **[[Modred_De_Moray|Modred]]**: Reconcile with/confront father [[Godwin_De_Moray|Godwin]] (Met him broken in [[Session_12|Session 12]]; he asked to see [[Modred_De_Moray|Modred]] at temple in [[Session_22|Session 22]])
 - [ ] **[[Jaspar_Starshade|Jaspar]]**: Explore prophetic dreams (Connected to something even [[Desna]] cannot control)
 - [x] **[[Clover]]**: ~~Rescue sister [[Thistle]]~~ (Completed [[Session_21|Session 21]], now safe at [[House_of_Justice|Temple of Tyr]])
+
+### Optional Quests
+- [ ] **[[Percys_Heist|Percy's Heist]]** - Rob the "necromancer" in Waterdeep's northern tower (Offered [[Session_12|Session 12]], declined)
+- [ ] **[[Pirate_Treasure_Island|Pirate Treasure Island]]** - Explore the unmarked island on the treasure map (Found [[Session_06|Session 6]])
 
 ### Completed Quests
 - [x] **[[Find_Liora]]** - [[Milo_Swiftclock|Milo]]'s sister found frozen on [[Mountain_Top|mountain]] ([[Session_07|Session 7]]), freed ([[Session_08|Session 8]])
