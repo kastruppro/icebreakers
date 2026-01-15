@@ -4,7 +4,7 @@ name: Pirate Treasure Island
 campaign: neverwinter-icebreakers
 status: available
 priority: optional
-quest_giver: null
+quest_giver:
 started: Session 6
 last_updated: Session 6
 tags:
@@ -14,7 +14,7 @@ tags:
   - treasure
   - exploration
 ---
-
+![[treasuremap.png]]
 # Pirate Treasure Island
 
 ## Quick Reference
