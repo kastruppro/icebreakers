@@ -46,5 +46,5 @@ Helpful, trustworthy. Dreams of reuniting with his father (per Desna).
 - **Session 19**: Present at Sated Satyr Inn, turned invisible from pepper nut
 
 ## Connections
-- [[Lord Neverember]] - Father (missing)
+- [[Lord_Neverember|Lord Neverember]] - Father (missing)
 - [[Pogo]] - His dog

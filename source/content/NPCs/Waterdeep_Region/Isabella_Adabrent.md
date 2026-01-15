@@ -23,7 +23,7 @@ tags:
 **Race/Gender:** Human Female
 **Role:** Noble of House Adabrent
 **Status:** Alive
-**Current Location:** [[House Adabrent]], Waterdeep Docks District
+**Current Location:** [[House_Adabrent|House Adabrent]], Waterdeep Docks District
 
 ## Description
 A noblewoman from House Adabrent, one of the noble families that controls the Waterdeep docks. Romantic interest of Jaspar Starshade.
@@ -42,6 +42,6 @@ Charming and thoughtful. Sends perfumed notes and magical gifts. Interested in J
 Unknown - appears to have genuine romantic interest in Jaspar
 
 ## Connections
-- [[House Adabrent]] - Noble family controlling Waterdeep docks
-- [[Jaspar Starshade]] - Romantic interest
+- [[House_Adabrent|House Adabrent]] - Noble family controlling Waterdeep docks
+- [[Jaspar_Starshade|Jaspar Starshade]] - Romantic interest
 - House Adabrent Guards - Protect her estate

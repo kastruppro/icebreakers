@@ -33,7 +33,7 @@ An adventuring party investigating cult activity, led by the elven paladin [[Mor
 
 ## History with Party
 - **Session 17:** First encountered The Icebreakers
-- **Session 19:** Suggested visiting [[Temple of Desna]] for help with Thistle
+- **Session 19:** Suggested visiting [[Temple_of_Desna|Temple of Desna]] for help with Thistle
 - **Session 19-20:** Shared intelligence about marsh ruins; showed corruption substance
 - **Session 20:** Positioned Merin as lookout at House Castellers
 
@@ -43,6 +43,6 @@ An adventuring party investigating cult activity, led by the elven paladin [[Mor
 - Currently operating in [[Waterdeep]]
 
 ## Connections
-- [[Temple of Desna]] - Recommended to the party
-- [[The Chained]] - Their enemy, target of investigation
-- [[House Castellers]] - Under surveillance
+- [[Temple_of_Desna|Temple of Desna]] - Recommended to the party
+- [[The_Chained|The Chained]] - Their enemy, target of investigation
+- [[House_Castellers|House Castellers]] - Under surveillance

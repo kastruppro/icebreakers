@@ -45,5 +45,5 @@ His nightmares about Tharizdun's chains may have indicated a deeper connection t
 - [[Morguna]] - Fellow Dagger of the North, team leader
 - [[Leena]] - Fellow Dagger of the North
 - [[Merin]] - Fellow Dagger of the North
-- [[Daggers of the North]] - His adventuring party
+- [[Daggers_of_the_North|Daggers of the North]] - His adventuring party
 - [[Tharizdun]] - Appeared in his nightmares as chains and a demon

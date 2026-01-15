@@ -19,7 +19,7 @@ tags:
 *Spellbook (homebrew version)*
 
 ## Quick Reference
-**Holder:** [[Milo Swiftclock]]
+**Holder:** [[Milo_Swiftclock|Milo Swiftclock]]
 **Acquired:** TBD
 **Rarity:** Artifact
 **Version:** Homebrew (not standard D&D stats)
@@ -45,4 +45,4 @@ A homebrew version of the infamous Book of Vile Darkness. Unlike the official ar
 ## Connections
 
 - [[Tharizdun]] - The cult may have connection to this book
-- [[House Castellers]] - Possibly found during the infiltration
+- [[House_Castellers|House Castellers]] - Possibly found during the infiltration

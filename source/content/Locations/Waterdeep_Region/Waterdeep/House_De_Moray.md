@@ -44,7 +44,7 @@ A tall, imposing building in Waterdeep's prestigious North Ward noble district. 
 - Party decided against staying here (too dangerous)
 
 ## NPCs Found Here
-- [[Godwin De Moray]] - Patriarch, broken and mad
+- [[Godwin_De_Moray|Godwin De Moray]] - Patriarch, broken and mad
 - [[Ulrik]] - Loyal guard
 - Other guards (unnamed)
 
@@ -61,8 +61,8 @@ A tall, imposing building in Waterdeep's prestigious North Ward noble district. 
 - Now dark and abandoned feeling
 
 ## Connections
-- [[Godwin De Moray]] - Current lord (mentally broken)
-- [[Modred De Moray]] - Estranged son (party member)
-- [[Arthur De Moray]] - Missing son (possessed)
+- [[Godwin_De_Moray|Godwin De Moray]] - Current lord (mentally broken)
+- [[Modred_De_Moray|Modred De Moray]] - Estranged son (party member)
+- [[Arthur_De_Moray|Arthur De Moray]] - Missing son (possessed)
 - [[Morgane]] - Former lady of the house (now at House of Justice)
-- [[House of Justice]] - Where Morgane now serves
+- [[House_of_Justice|House of Justice]] - Where Morgane now serves

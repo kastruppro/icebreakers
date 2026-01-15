@@ -15,7 +15,7 @@ tags:
 # Mysterious Shrine Chest
 
 ## Quick Reference
-**Holder:** [[Milo Swiftclock]]
+**Holder:** [[Milo_Swiftclock|Milo Swiftclock]]
 **Acquired:** Session 21
 **Rarity:** Unknown
 **Status:** Contents Unknown (Unopened)
@@ -24,10 +24,10 @@ tags:
 A small but heavy chest with an unusual weight-to-size ratio. The chest appears to be some form of shrine or reliquary, though its true purpose remains unknown.
 
 ## Location Found
-Hidden room within [[House Castellers]] study in Waterdeep. The room was concealed behind a painting and accessed via a pressure plate at floor level. The hidden chamber contained only this shrine/chest on a table, along with three glass containers on a nearby shelf (which [[Ammalia Castellers]] claimed were merely music-playing glasses, though they detected as slightly magical).
+Hidden room within [[House_Castellers|House Castellers]] study in Waterdeep. The room was concealed behind a painting and accessed via a pressure plate at floor level. The hidden chamber contained only this shrine/chest on a table, along with three glass containers on a nearby shelf (which [[Ammalia_Castellers|Ammalia Castellers]] claimed were merely music-playing glasses, though they detected as slightly magical).
 
 ## Acquisition
-During the chaotic escape from House Castellers in Session 21, after Victor was claimed by Tharizdun's chains, [[Milo Swiftclock]] asked [[Ammalia Castellers]] about the painting in the study that he had noticed concealed something during an earlier party infiltration. Ammalia claimed ignorance, but Milo discovered the pressure plate mechanism and retrieved the chest from within.
+During the chaotic escape from House Castellers in Session 21, after Victor was claimed by Tharizdun's chains, [[Milo_Swiftclock|Milo Swiftclock]] asked [[Ammalia_Castellers|Ammalia Castellers]] about the painting in the study that he had noticed concealed something during an earlier party infiltration. Ammalia claimed ignorance, but Milo discovered the pressure plate mechanism and retrieved the chest from within.
 
 ## Properties
 Unknown. The chest has not yet been opened or properly examined.

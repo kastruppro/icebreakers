@@ -50,8 +50,8 @@ Adventurous, headstrong, and deeply empathetic. While Milo seeks answers in logi
 - May have deeper knowledge about [[Tharizdun]]'s cult than she has revealed
 
 ## Connections
-- [[Milo Swiftclock]] - Brother (party member)
-- [[Ren Swiftclock]] - Father
-- [[Serina Swiftclock]] - Mother
+- [[Milo_Swiftclock|Milo Swiftclock]] - Brother (party member)
+- [[Ren_Swiftclock|Ren Swiftclock]] - Father
+- [[Serina_Swiftclock|Serina Swiftclock]] - Mother
 - [[Cora]] - Was working with her (complex relationship)
-- [[Arthur De Moray]] - Currently staying at same home under protective wards
+- [[Arthur_De_Moray|Arthur De Moray]] - Currently staying at same home under protective wards

@@ -2,6 +2,7 @@
 /**
  * Wiki Link Validator - Pre-commit hook script
  * Validates all [[wiki-links]] in markdown files exist as files.
+ * Also checks for space/underscore mismatches that cause Quartz URL issues.
  *
  * Usage: node scripts/check-links.cjs [--fix]
  *
@@ -91,7 +92,17 @@ function checkLinkTarget(target, fileIndex, fromFile) {
   // Check if file exists
   const lookup = filename.toLowerCase();
   if (fileIndex.has(lookup)) {
-    return { valid: true, resolved: fileIndex.get(lookup)[0].basename };
+    const resolved = fileIndex.get(lookup)[0].basename;
+    // Warn if link uses spaces but file uses underscores (Quartz URL mismatch)
+    if (filename.includes(' ') && resolved.includes('_')) {
+      return {
+        valid: false,
+        mismatch: true,
+        resolved,
+        suggestions: [resolved]
+      };
+    }
+    return { valid: true, resolved };
   }
 
   // Try with underscores replaced by spaces and vice versa
@@ -99,7 +110,17 @@ function checkLinkTarget(target, fileIndex, fromFile) {
   const withSpaces = lookup.replace(/_/g, ' ');
 
   if (fileIndex.has(withUnderscores)) {
-    return { valid: true, resolved: fileIndex.get(withUnderscores)[0].basename };
+    const resolved = fileIndex.get(withUnderscores)[0].basename;
+    // Link uses spaces, file uses underscores - will cause Quartz URL mismatch
+    if (filename.includes(' ')) {
+      return {
+        valid: false,
+        mismatch: true,
+        resolved,
+        suggestions: [resolved]
+      };
+    }
+    return { valid: true, resolved };
   }
   if (fileIndex.has(withSpaces)) {
     return { valid: true, resolved: fileIndex.get(withSpaces)[0].basename };
@@ -129,11 +150,28 @@ function extractWikiLinks(content) {
       raw: match[0],
       target: match[1],
       line: lineNum,
-      index: match.index
+      index: match.index,
+      length: match[0].length
     });
   }
 
   return links;
+}
+
+// Apply fixes to a file
+function applyFixes(filePath, fixes) {
+  let content = fs.readFileSync(filePath, 'utf8');
+
+  // Sort fixes by index descending (fix from end to preserve positions)
+  fixes.sort((a, b) => b.index - a.index);
+
+  for (const fix of fixes) {
+    const before = content.substring(0, fix.index);
+    const after = content.substring(fix.index + fix.length);
+    content = before + fix.replacement + after;
+  }
+
+  fs.writeFileSync(filePath, content);
 }
 
 // Main validation
@@ -143,6 +181,7 @@ function validateLinks() {
   const files = getAllMarkdownFiles(CONTENT_DIR);
   const fileIndex = buildFileIndex(files);
   const brokenLinks = [];
+  const fixesByFile = new Map();
 
   for (const file of files) {
     const content = fs.readFileSync(file, 'utf8');
@@ -153,12 +192,34 @@ function validateLinks() {
       const result = checkLinkTarget(link.target, fileIndex, file);
 
       if (!result.valid) {
+        const displayTarget = link.target.split(/\||\\\|/)[0];
+        const displayText = link.target.includes('|') ? link.target.split(/\||\\\|/)[1] : null;
+
         brokenLinks.push({
           file: relativePath,
+          fullPath: file,
           line: link.line,
           link: link.target,
-          suggestions: result.suggestions
+          suggestions: result.suggestions,
+          mismatch: result.mismatch || false,
+          index: link.index,
+          length: link.length
         });
+
+        // Build fix for mismatches
+        if (result.mismatch && result.resolved) {
+          if (!fixesByFile.has(file)) {
+            fixesByFile.set(file, []);
+          }
+          // Keep original display text if present, otherwise use the spaced version
+          const newDisplayText = displayText || displayTarget;
+          const replacement = `[[${result.resolved}|${newDisplayText}]]`;
+          fixesByFile.get(file).push({
+            index: link.index,
+            length: link.length,
+            replacement
+          });
+        }
       }
     }
   }
@@ -177,14 +238,42 @@ function validateLinks() {
     console.log(`❌ ${broken.file}:${broken.line}`);
     console.log(`   Link: [[${displayTarget}]]`);
 
-    if (broken.suggestions.length > 0) {
+    if (broken.mismatch) {
+      console.log(`   ⚠️  Space/underscore mismatch! Quartz will generate wrong URL.`);
+      console.log(`   Use: [[${broken.suggestions[0]}]] or [[${broken.suggestions[0]}|${displayTarget}]]`);
+    } else if (broken.suggestions.length > 0) {
       console.log(`   Did you mean: ${broken.suggestions.map(s => `[[${s}]]`).join(', ')}?`);
     }
     console.log('');
   }
 
   console.log(`Found ${brokenLinks.length} broken link(s) in ${files.length} files.`);
+
+  // Apply fixes if in fix mode
+  if (FIX_MODE && fixesByFile.size > 0) {
+    console.log('\nApplying fixes...');
+    let fixCount = 0;
+    for (const [filePath, fixes] of fixesByFile) {
+      applyFixes(filePath, fixes);
+      fixCount += fixes.length;
+      console.log(`  ✓ Fixed ${fixes.length} link(s) in ${path.relative(CONTENT_DIR, filePath)}`);
+    }
+    console.log(`\n✓ Fixed ${fixCount} space/underscore mismatch(es).`);
+
+    // Check for remaining broken links (non-fixable)
+    const unfixable = brokenLinks.filter(b => !b.mismatch);
+    if (unfixable.length > 0) {
+      console.log(`\n⚠️  ${unfixable.length} broken link(s) remain (files don't exist).`);
+      console.log('Commit blocked.\n');
+      return 1;
+    }
+    return 0;
+  }
+
   console.log('Commit blocked.\n');
+  if (fixesByFile.size > 0) {
+    console.log('Run with --fix to auto-fix space/underscore mismatches.\n');
+  }
 
   return 1;
 }

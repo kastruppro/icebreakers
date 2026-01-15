@@ -16,7 +16,7 @@ tags:
 # Ghosts of the Crown
 
 **Date:** 2024-XX-XX
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Auren]]
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar_Starshade|Jaspar Starshade]], [[Auren]]
 
 ## Quick Summary
 > The party encountered seven ghosts in [[Neverwinter_Castle]] who were the ancient king's guard, slain by the same cursed power [[Jaspar_Starshade|Jaspar]]'s sword carries. The ghosts offered a draining crown containing their spirits to aid against the cult. After visiting the [[House_of_Knowledge]], [[Milo_Swiftclock|Milo]] discovered a hidden room in his parents' home containing a spellbook and multi-generational research journal about the cult and the Luxon Beacon portal magic.
@@ -25,9 +25,9 @@ tags:
 
 ### New NPCs
 - **seven ghosts** - Ghosts - King's Guard. Protectors of [[Neverwinter]]'s rulers across generations, killed by cult magic. "The sword's cursed power was what killed us before. It's dangerous."
-- **[[Elira Moonshadow]]** - High Elf Female - Divination Wizard/Archivist. [[Milo_Swiftclock|Milo]]'s friend at the [[House_of_Knowledge]]. Warned about Blackthorn's strange behavior.
-- **[[Master Tiberius Gearwhistle]]** - Gnome Male - Artificer/Wizard. [[Milo_Swiftclock|Milo]]'s former mentor who examined the cursed sword and revealed the Swiftclocks researched it.
-- **[[Professor Thaddeus Blackthorn]]** - Human Male - Dunamancy Wizard. Acting suspiciously since the ice came, advocating for [[Sebastian]].
+- **[[Elira_Moonshadow|Elira Moonshadow]]** - High Elf Female - Divination Wizard/Archivist. [[Milo_Swiftclock|Milo]]'s friend at the [[House_of_Knowledge]]. Warned about Blackthorn's strange behavior.
+- **[[Master_Tiberius_Gearwhistle|Master Tiberius Gearwhistle]]** - Gnome Male - Artificer/Wizard. [[Milo_Swiftclock|Milo]]'s former mentor who examined the cursed sword and revealed the Swiftclocks researched it.
+- **[[Professor_Thaddeus_Blackthorn|Professor Thaddeus Blackthorn]]** - Human Male - Dunamancy Wizard. Acting suspiciously since the ice came, advocating for [[Sebastian]].
 - **[[Brost]]** - Human Male - Tavern Owner. Owns [[The_Thirsty_Goat]], offered the party rooms.
 
 ### Returning NPCs
@@ -35,7 +35,7 @@ tags:
 
 ## Places Visited
 
-### [[Neverwinter Castle]] - Underground
+### [[Neverwinter_Castle|Neverwinter Castle]] - Underground
 **Ghost Chamber:**
 - Found one ghost impaled by ice, in visible pain
 - Seven ghosts appeared total - matching the seven graves below
@@ -44,7 +44,7 @@ tags:
 - Revealed cult camp location: forest north of [[Waterdeep]] (month's travel)
 - Offered the [[Crown_of_the_Guardians]] to aid the party
 
-### [[House of Knowledge]]
+### [[House_of_Knowledge|House of Knowledge]]
 **Main Hall:**
 - Crowded with citizens, politician speaking about finding new ruler
 - [[Elira_Moonshadow|Elira]] found examining a frozen person, researching the phenomenon
@@ -57,7 +57,7 @@ tags:
 - Suggested [[Milo_Swiftclock|Milo]]'s parents "are probably bad people"
 - Revealed the sword is connected to time travel magic
 
-### [[Swiftclock Home]]
+### [[Swiftclock_Home|Swiftclock Home]]
 **Library (Downstairs):**
 - Found book about teleportation from [[Milo_Swiftclock|Milo]]'s childhood memories
 
@@ -72,7 +72,7 @@ tags:
 - Journal written across multiple generations in different handwriting
 - Contains research on the slime creature and cult
 
-### [[The Thirsty Goat]]
+### [[The_Thirsty_Goat|The Thirsty Goat]]
 - Party reconvened to discuss findings
 - [[Milo_Swiftclock|Milo]] requested a room to study the spellbook
 
@@ -80,7 +80,7 @@ tags:
 
 | Item | Description | Holder |
 |------|-------------|--------|
-| [[Crown of the Guardians]] | Contains the spirits of the Seven Ghosts; grants their help when worn but drains the wearer | [[Modred_De_Moray|Modred]] |
+| [[Crown_of_the_Guardians|Crown of the Guardians]] | Contains the spirits of the Seven Ghosts; grants their help when worn but drains the wearer | [[Modred_De_Moray|Modred]] |
 | Swiftclock spellbook | Contains Magnify Gravity, Gift of Alacrity, Immovable Object, Pulse Wave | [[Milo_Swiftclock|Milo]] |
 | Swiftclock research journal | Multi-generational research on the cult, slime creature, and Luxon Beacon portal | [[Milo_Swiftclock|Milo]] |
 | magic ring | Found in mother's bed, magical properties unknown | [[Milo_Swiftclock|Milo]] |

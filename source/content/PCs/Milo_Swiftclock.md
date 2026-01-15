@@ -51,19 +51,19 @@ An owl familiar that exists outside normal time. Milo first noticed Tock appeari
 ![[attachments/milo-portrait.png]]
 
 
-**[[Ren Swiftclock]]** (father): A traditional horologist who runs the family's clockmaking workshop in Neverwinter.
+**[[Ren_Swiftclock|Ren Swiftclock]]** (father): A traditional horologist who runs the family's clockmaking workshop in Neverwinter.
 
-**[[Serina Swiftclock]]** (mother): Manages the family business. Was once an adventurer herself - her old spellbook contained dunamantic spells.
+**[[Serina_Swiftclock|Serina Swiftclock]]** (mother): Manages the family business. Was once an adventurer herself - her old spellbook contained dunamantic spells.
 
-**[[Liora Swiftclock]]** *(younger sister, 22 years old - Harengon)*: Missing. Had prophetic dreams before she disappeared. Left a warning note that eerily predicted events involving "the chained" and shadows. Finding her is Milo's primary motivation.
+**[[Liora_Swiftclock|Liora Swiftclock]]** *(younger sister, 22 years old - Harengon)*: Missing. Had prophetic dreams before she disappeared. Left a warning note that eerily predicted events involving "the chained" and shadows. Finding her is Milo's primary motivation.
 
 ## **Friends and Allies**
 
 **[[Oghma]]** *(God of Knowledge)*: Milo's patron deity. When Milo confronted Oghma's statue in frustration, the god actually answered - transporting him to a white throne room and granting him the Fey Touched feat despite claiming divine rules forbade direct intervention.
 
-**[[Master Tiberius Gearwhistle]]** *(Gnome Artificer/Wizard)*: Milo's former mentor. Their relationship fractured over Milo's experiments with the Luxon fragment, but Milo hopes to reconcile someday.
+**[[Master_Tiberius_Gearwhistle|Master Tiberius Gearwhistle]]** *(Gnome Artificer/Wizard)*: Milo's former mentor. Their relationship fractured over Milo's experiments with the Luxon fragment, but Milo hopes to reconcile someday.
 
-**[[Elira Moonshadow]]** *(High Elf Divination Wizard)*: An archivist at the House of Knowledge who has supported Milo's research.
+**[[Elira_Moonshadow|Elira Moonshadow]]** *(High Elf Divination Wizard)*: An archivist at the House of Knowledge who has supported Milo's research.
 
 ## **Key Moments**
 

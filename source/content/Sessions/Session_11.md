@@ -16,7 +16,7 @@ tags:
 # Through [[The_Void|the Void]] to [[Waterdeep]]
 
 **Date:** 2024-09-25
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar_Starshade|Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > The party prepares to depart [[Neverwinter]] for [[Waterdeep]] via triangular portal. [[Liora_Swiftclock|Liora]] delivers a prophecy to [[Clover]] about choosing between family and power. [[Milo_Swiftclock|Milo]] learns the dark truth about his sister's visions from their mother. The party travels through [[The_Void|the Void]] where each member faces individual trials - [[Clover]] refuses a divine entity's offer of power, [[Jaspar_Starshade|Jaspar]] meets his celestial "father" who gives him a sample of power, and [[Milo_Swiftclock|Milo]]/[[Modred_De_Moray|Modred]]/[[Clover]] encounter the ghost [[Sabrina_Nightgale]] on a boat sailing through the underworld. They emerge in a forest near [[Waterdeep]] where they rescue [[Raenar_Neverember]] from his own hunting trap.
@@ -24,15 +24,15 @@ tags:
 ## Characters Met
 
 ### New NPCs
-- **[[Sabrina Nightgale]]** - Elf Female - Adventurer banished to [[The_Void|the Void]] 200 years ago. "The shadow must never be freed in [[The_Void|the void]] - it would break the chains and release everything from the underworld."
-- **[[Raenar Neverember]]** - Human Male - [[Lord_Neverember]]'s son, a hunter. "My father is missing? Where have you been living? Under a rock?"
+- **[[Sabrina_Nightgale|Sabrina Nightgale]]** - Elf Female - Adventurer banished to [[The_Void|the Void]] 200 years ago. "The shadow must never be freed in [[The_Void|the void]] - it would break the chains and release everything from the underworld."
+- **[[Raenar_Neverember|Raenar Neverember]]** - Human Male - [[Lord_Neverember]]'s son, a hunter. "My father is missing? Where have you been living? Under a rock?"
 
 ### Returning NPCs
-- **[[Liora Swiftclock]]** - Delivered prophecy to [[Clover]]; agreed to stay in [[Neverwinter]] with [[Arthur_De_Moray|Arthur]]
-- **[[Arthur De Moray]]** - Doesn't remember being possessed; staying at [[Swiftclock_Home|Swiftclock home]] under protection
-- **[[Serina Swiftclock]]** - Revealed the truth about [[Liora_Swiftclock|Liora]]'s visions and the ritual incident
-- **[[Elira Moonshadow]]** - Found information about gem-crafting; dwarves in [[Waterdeep]] and [[Axeholm]] know most
-- **[[Master Tiberius Gearwhistle]]** - Offered to place protective wards on the [[Swiftclock_Home|Swiftclock home]] for [[Arthur_De_Moray|Arthur]]
+- **[[Liora_Swiftclock|Liora Swiftclock]]** - Delivered prophecy to [[Clover]]; agreed to stay in [[Neverwinter]] with [[Arthur_De_Moray|Arthur]]
+- **[[Arthur_De_Moray|Arthur De Moray]]** - Doesn't remember being possessed; staying at [[Swiftclock_Home|Swiftclock home]] under protection
+- **[[Serina_Swiftclock|Serina Swiftclock]]** - Revealed the truth about [[Liora_Swiftclock|Liora]]'s visions and the ritual incident
+- **[[Elira_Moonshadow|Elira Moonshadow]]** - Found information about gem-crafting; dwarves in [[Waterdeep]] and [[Axeholm]] know most
+- **[[Master_Tiberius_Gearwhistle|Master Tiberius Gearwhistle]]** - Offered to place protective wards on the [[Swiftclock_Home|Swiftclock home]] for [[Arthur_De_Moray|Arthur]]
 
 ## Places Visited
 
@@ -44,7 +44,7 @@ tags:
 - [[Liora_Swiftclock|Liora]]'s prophetic visions started after this incident
 - The family has been researching this evil for generations
 
-### [[House of Knowledge]]
+### [[House_of_Knowledge|House of Knowledge]]
 - [[Elira_Moonshadow|Elira]] shared research on gem-crafting; dwarves in [[Waterdeep]] know most
 - Gearwhistle offered to protect [[Arthur_De_Moray|Arthur]] with magical wards
 
@@ -54,7 +54,7 @@ tags:
 - Used to open the triangular portal to [[Waterdeep]]
 - [[Modred_De_Moray|Modred]] carved the triangle with the corrupted dagger
 
-### [[The Void]]
+### [[The_Void|The Void]]
 **Multiple individual experiences:**
 - **[[Clover]]'s Trial:** Fell through nothingness, landed at Moonlit Pool turned to blood-red, met blindingly beautiful divine entity offering power to save family. Refused: "Light is not good in itself, only when balanced with dark." Saw [[The_Chained|the Chained]] One's true form with 8 chains.
 - **[[Jaspar_Starshade|Jaspar]]'s Temptation:** Dark throne room with floating cyst ([[Tharizdun]]'s "shell"). Met his "Father" entity. Received sample of power (warm orange-red energy). Warning: "Don't trust [[Cora]] - she'll use shadow to destroy everything."

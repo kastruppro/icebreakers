@@ -50,8 +50,8 @@ Bound by celestial rules forbidding direct intervention, but willing to bend tho
 - His temple/library (House of Knowledge) may hold more relevant information
 
 ## Connections
-- [[Milo Swiftclock]] - Granted Fey Touched, apparent chosen champion
-- [[House of Knowledge]] - His temple/library in Neverwinter
-- [[Master Tiberius Gearwhistle]] - High priest at his temple
-- [[Elira Moonshadow]] - Serves at his temple
+- [[Milo_Swiftclock|Milo Swiftclock]] - Granted Fey Touched, apparent chosen champion
+- [[House_of_Knowledge|House of Knowledge]] - His temple/library in Neverwinter
+- [[Master_Tiberius_Gearwhistle|Master Tiberius Gearwhistle]] - High priest at his temple
+- [[Elira_Moonshadow|Elira Moonshadow]] - Serves at his temple
 - [[Tharizdun]] - Opposed deity (knowledge vs chaos/madness)

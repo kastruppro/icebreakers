@@ -48,7 +48,7 @@ Scholarly and methodical, Elira approaches problems through research and careful
 Born in Old Sharandar in the Feywild, she relocated to Neverwinter seeking knowledge and stability. She encouraged Milo to explore Old Sharandar's ruins on Toril.
 
 ## Connections
-- [[Milo Swiftclock]] - Friend and former student (party member)
-- [[Master Tiberius Gearwhistle]] - Colleague at House of Knowledge
+- [[Milo_Swiftclock|Milo Swiftclock]] - Friend and former student (party member)
+- [[Master_Tiberius_Gearwhistle|Master Tiberius Gearwhistle]] - Colleague at House of Knowledge
 - Church of Oghma - Primary allegiance
 - Old Sharandar - Homeland

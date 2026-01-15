@@ -65,5 +65,5 @@ The temple features a massive statue of Tyr as its centerpiece. The doors remain
 
 ## Connections
 - [[Waterdeep]] - Located within the city
-- [[House De Moray]] - Modred's family has ties through Morgane
+- [[House_De_Moray|House De Moray]] - Modred's family has ties through Morgane
 - [[Tyrs_Divine_Workshop]] - Accessible through divine summons from within the temple

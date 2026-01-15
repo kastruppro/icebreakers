@@ -56,8 +56,8 @@ An opulent noble mansion in Waterdeep's northern district, House Castellers serv
 - Discovered Session 21 after Victor was claimed by Tharizdun
 
 ## NPCs Found Here
-- [[Victor Castellers]] - Head of house, suspected cultist involvement
-- [[Ammalia Castellers]] - Lady of the house
+- [[Victor_Castellers|Victor Castellers]] - Head of house, suspected cultist involvement
+- [[Ammalia_Castellers|Ammalia Castellers]] - Lady of the house
 - [[Thistle]] - Clover's sister, found trapped here in dream state
 
 ## Events at This Location
@@ -68,4 +68,4 @@ An opulent noble mansion in Waterdeep's northern district, House Castellers serv
 
 ## Connections
 - [[Waterdeep]] - Located within the city's noble quarter
-- [[Temple of Desna]] - Dream Staff acquired there was used here to save Thistle
+- [[Temple_of_Desna|Temple of Desna]] - Dream Staff acquired there was used here to save Thistle

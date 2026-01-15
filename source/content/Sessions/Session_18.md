@@ -16,7 +16,7 @@ tags:
 # The Masquerade Heist
 
 **Date:** 2025-12-04
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar_Starshade|Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > The party continued infiltrating the Castellers' masquerade ball after [[Clover]] was kicked out as a rat. While [[Jaspar_Starshade|Jaspar]] gathered intelligence from nobles and [[Modred_De_Moray|Modred]] spoke with the [[Daggers_of_the_North]], [[Clover]] snuck back in as a cat and discovered his sister [[Thistle]] floating in a trance, channeling magic into two sleeping children. The party attempted to rescue her but Protection from Evil and Good, Dispel Magic, and Identify all failed. After fighting an animated armor guardian, they escaped with a powerful spellbook but left [[Thistle]] behind.
@@ -25,17 +25,17 @@ tags:
 
 ### New NPCs
 - **[[Isabella_Adabrent|Isabel]]** - Human Female - Daughter of dock-controlling noble house. Gullible, posh, wears red/flirty mask. "I would like to see you again." Became smitten with [[Jaspar_Starshade|Jaspar]] after he revealed his angelic heritage.
-- **[[Daggers of the North]]** - Adventuring party from [[Daggerford]] (Elf leader, Dwarf, Tabaxi). Wear salt-symbol patches. Carry black corruption vial. Lost party member to beast attack. "The Castellers are not to be trusted."
+- **[[Daggers_of_the_North|Daggers of the North]]** - Adventuring party from [[Daggerford]] (Elf leader, Dwarf, Tabaxi). Wear salt-symbol patches. Carry black corruption vial. Lost party member to beast attack. "The Castellers are not to be trusted."
 - **[[Thistle]]** - Harengon Female - [[Clover]]'s sister. Found floating in magical trance, channeling consciousness magic to two sleeping children. Cold to touch except warm head.
 - **Castellers' Children** - Human (ages 5-7). Two children in beds having nightmares, connected to [[Thistle]]'s magic threads.
 
 ### Returning NPCs
-- **[[Victor Castellers]]** - Mentioned in conversation, rumored to have missing children
-- **[[Ammalia Castellers]]** - Detected wearing magical necklace via Detect Magic
+- **[[Victor_Castellers|Victor Castellers]]** - Mentioned in conversation, rumored to have missing children
+- **[[Ammalia_Castellers|Ammalia Castellers]]** - Detected wearing magical necklace via Detect Magic
 
 ## Places Visited
 
-### [[House Castellers]] - First Floor
+### [[House_Castellers|House Castellers]] - First Floor
 **Children's Room:**
 - Accessed through cracked window by [[Clover]] (as cat)
 - Filled with toys, plushies, paintings
@@ -50,7 +50,7 @@ tags:
 - Large painting of [[Victor_Castellers|Victor]] and Amelia - Amelia appears sad, wears magical necklace
 - Three magical objects detected behind wall
 
-### [[House Castellers]] - Second Floor
+### [[House_Castellers|House Castellers]] - Second Floor
 **Right Study:**
 - Sparse room with desk, chair, window overlooking garden
 - Locked drawer forced open
@@ -61,7 +61,7 @@ tags:
 - Closet with clothes
 - Trap triggered upon entry
 
-### [[Sated Satyr Inn]]
+### [[Sated_Satyr_Inn|Sated Satyr Inn]]
 **Party reunited here at session end**
 - [[Modred_De_Moray|Modred]] drinking heavily at bar
 
@@ -69,7 +69,7 @@ tags:
 
 | Item | Description | Holder |
 |------|-------------|--------|
-| [[Book of Vile Darkness]] | Heavy grimoire, red and gold. Contains: Comprehend Languages, Disguise Self, Feather Fall, Fog Cloud, Detect Magic, Shield, Hellish Rebuke (Warlock only), Detect Thoughts, Gust of Wind, Hold Person, Misty Step, Dispel Magic, Fireball, Thunder Step, Vampiric Touch, Wall of Water | [[Milo_Swiftclock|Milo]] |
+| [[Book_of_Vile_Darkness|Book of Vile Darkness]] | Heavy grimoire, red and gold. Contains: Comprehend Languages, Disguise Self, Feather Fall, Fog Cloud, Detect Magic, Shield, Hellish Rebuke (Warlock only), Detect Thoughts, Gust of Wind, Hold Person, Misty Step, Dispel Magic, Fireball, Thunder Step, Vampiric Touch, Wall of Water | [[Milo_Swiftclock|Milo]] |
 | Diamond | Found in desk drawer | Party |
 | 200 Gold | Found in desk drawer | Party |
 

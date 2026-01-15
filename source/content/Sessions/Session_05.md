@@ -16,7 +16,7 @@ tags:
 # Politics and Prophecy
 
 **Date:** 2024-XX-XX
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Auren]]
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar_Starshade|Jaspar Starshade]], [[Auren]]
 
 ## Quick Summary
 > The party investigates the [[Neverwinter]] election as [[Sebastian]] and [[Liset]] campaign for power. They split up to gather information - [[Jaspar_Starshade|Jaspar]] courts [[Sebastian]] for work, [[Modred_De_Moray|Modred]] and [[Auren]] infiltrate the [[Moonstone_Mask]] to question [[Liset]], and [[Milo_Swiftclock|Milo]] researches dragons and the [[Mysterious_Shrine_Chest|mysterious]] Edward Hammel at the [[House_of_Knowledge]]. The session ends with grave-robbing and [[Jaspar_Starshade|Jaspar]] experiencing a terrifying prophetic dream.
@@ -48,7 +48,7 @@ tags:
 - Dwarf armorer mentioned he has half an armor set
 - Could make the rest with materials from the [[Frozen_Pirate_Ship|frozen pirate ship]] in the harbor
 
-### [[House of Knowledge]]
+### [[House_of_Knowledge|House of Knowledge]]
 **Morning/Afternoon:**
 - [[Milo_Swiftclock|Milo]] met with Irena about cult research
 - Most cult books are missing or have important pages ripped out
@@ -73,7 +73,7 @@ tags:
 - [[Sebastian]] spoke second - prioritized finding [[Lord_Neverember]] and expanding magic access
 - Quote: "[[Lord_Neverember]] wouldn't let me, but now I can."
 
-### [[Moonstone Mask]]
+### [[Moonstone_Mask|Moonstone Mask]]
 **Afternoon:**
 - [[Modred_De_Moray|Modred]] and [[Auren]] went to gather intelligence
 - People excited about [[Liset]] possibly becoming ruler

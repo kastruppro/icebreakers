@@ -17,7 +17,7 @@ tags:
 *Wondrous item, uncommon*
 
 ## Quick Reference
-**Holder:** [[Milo Swiftclock]] (currently with [[Daggers of the North]])
+**Holder:** [[Milo_Swiftclock|Milo Swiftclock]] (currently with [[Daggers_of_the_North|Daggers of the North]])
 **Acquired:** TBD
 **Rarity:** Uncommon
 **Attunement:** Not required
@@ -34,5 +34,5 @@ Sending stones come in pairs, with each smooth stone carved to match the other s
 
 ## Current Pairing
 
-Stone A: [[Milo Swiftclock]]
-Stone B: [[Daggers of the North]] (for rescue mission coordination)
+Stone A: [[Milo_Swiftclock|Milo Swiftclock]]
+Stone B: [[Daggers_of_the_North|Daggers of the North]] (for rescue mission coordination)

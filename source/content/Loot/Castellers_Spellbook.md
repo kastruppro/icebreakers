@@ -16,9 +16,9 @@ tags:
 *Spellbook*
 
 ## Quick Reference
-**Holder:** [[Milo Swiftclock]]
-**Acquired:** Session 21 (from [[House Castellers]])
-**Source:** [[Victor Castellers]] or [[Ammalia Castellers]]
+**Holder:** [[Milo_Swiftclock|Milo Swiftclock]]
+**Acquired:** Session 21 (from [[House_Castellers|House Castellers]])
+**Source:** [[Victor_Castellers|Victor Castellers]] or [[Ammalia_Castellers|Ammalia Castellers]]
 
 ## Description
 

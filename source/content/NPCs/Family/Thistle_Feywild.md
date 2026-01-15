@@ -46,4 +46,4 @@ Calm and mystical. Speaks in poetic observations about nature. Carries warnings 
 ## Connections
 - [[Auren]] - Close friend, can share meditations
 - [[Feywild]] - Home plane
-- [[Liora Swiftclock]] - Warned Auren about a harengon involved in events
+- [[Liora_Swiftclock|Liora Swiftclock]] - Warned Auren about a harengon involved in events

@@ -25,10 +25,10 @@ tags:
 **Race/Gender:** Harengon Female
 **Role:** Milo's Mother / Keeper of Family Secrets
 **Status:** Alive
-**Current Location:** [[Swiftclock Home]], [[Neverwinter]]
+**Current Location:** [[Swiftclock_Home|Swiftclock Home]], [[Neverwinter]]
 
 ## Description
-Mother of [[Milo Swiftclock]] and [[Liora Swiftclock]]. Wife of [[Ren Swiftclock]]. The keeper of the Swiftclock family's secret research into the cult of Tharizdun.
+Mother of [[Milo_Swiftclock|Milo Swiftclock]] and [[Liora_Swiftclock|Liora Swiftclock]]. Wife of [[Ren_Swiftclock|Ren Swiftclock]]. The keeper of the Swiftclock family's secret research into the cult of Tharizdun.
 
 ## Personality
 Protective of family secrets but willing to reveal them when the time is right. Initially reluctant to share the family's research but deferred to Ren's judgment. Carries the weight of generational knowledge about dark forces.
@@ -51,9 +51,9 @@ Protective of family secrets but willing to reveal them when the time is right. 
 - Likely knows more about the Luxon fragment
 
 ## Connections
-- [[Ren Swiftclock]] - Husband
-- [[Milo Swiftclock]] - Son
-- [[Liora Swiftclock]] - Daughter
-- [[Swiftclock Home]] - Residence
+- [[Ren_Swiftclock|Ren Swiftclock]] - Husband
+- [[Milo_Swiftclock|Milo Swiftclock]] - Son
+- [[Liora_Swiftclock|Liora Swiftclock]] - Daughter
+- [[Swiftclock_Home|Swiftclock Home]] - Residence
 - [[Tharizdun]] - Subject of family research
 - Milo's Grandfather (unnamed) - Father-in-law who disappeared through portal

@@ -46,9 +46,9 @@ The House of Knowledge is the temple of Oghma in Neverwinter, serving as both a 
 - Site where Milo met Oghma directly and received divine favor
 
 ## NPCs Found Here
-- [[Master Tiberius Gearwhistle]] - Artificer/Wizard, Milo's former mentor
-- [[Elira Moonshadow]] - High Elf Divination Wizard, Archivist/Ink-Scribe
-- [[Professor Thaddeus Blackthorn]] - Dunamancy Wizard (suspicious behavior)
+- [[Master_Tiberius_Gearwhistle|Master Tiberius Gearwhistle]] - Artificer/Wizard, Milo's former mentor
+- [[Elira_Moonshadow|Elira Moonshadow]] - High Elf Divination Wizard, Archivist/Ink-Scribe
+- [[Professor_Thaddeus_Blackthorn|Professor Thaddeus Blackthorn]] - Dunamancy Wizard (suspicious behavior)
 - Irena - Elf researcher
 
 ## Events at This Location
@@ -65,4 +65,4 @@ The House of Knowledge is the temple of Oghma in Neverwinter, serving as both a 
 ## Connections
 - [[Neverwinter]] - Located in this city
 - [[Oghma]] - The god this temple serves
-- [[Milo Swiftclock]] - Former student here, still connected
+- [[Milo_Swiftclock|Milo Swiftclock]] - Former student here, still connected

@@ -37,9 +37,9 @@ Enthusiastic about his craft and dismissive of over-reliance on magic. Gigz beli
 
 ## History with Party
 - Session 12: First met by the The Icebreakers at his shop, Gigz Gears
-- Session 14: Created a specialized ball bearing device for [[Jaspar Starshade]]; revealed concerning information about [[House Castellers]]—noting they rose to power suspiciously fast and that children have gone missing in connection to them
+- Session 14: Created a specialized ball bearing device for [[Jaspar_Starshade|Jaspar Starshade]]; revealed concerning information about [[House_Castellers|House Castellers]]—noting they rose to power suspiciously fast and that children have gone missing in connection to them
 
 ## Connections
-- [[Jaspar Starshade]] - Customer, commissioned the ball bearing device
-- [[House Castellers]] - Provided intelligence about their suspicious rise to power and the missing children
+- [[Jaspar_Starshade|Jaspar Starshade]] - Customer, commissioned the ball bearing device
+- [[House_Castellers|House Castellers]] - Provided intelligence about their suspicious rise to power and the missing children
 - [[Waterdeep]] - Location of his shop, Gigz Gears

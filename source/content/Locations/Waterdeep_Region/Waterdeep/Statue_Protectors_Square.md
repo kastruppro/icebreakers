@@ -66,4 +66,4 @@ A major hub of activity in central Waterdeep, dominated by two massive protectiv
 - [[Waterdeep]] - Central location in the city
 - [[Gigz|Gigz Gears]] - Gigz's shop in southern district
 - [[Sevarnas_Magic_Shop|Sevarna's Magic Shop]] - Savan's shop nearby
-- [[The Peppermint Minotaur]] - Drox's armor shop
+- [[The_Peppermint_Minotaur|The Peppermint Minotaur]] - Drox's armor shop

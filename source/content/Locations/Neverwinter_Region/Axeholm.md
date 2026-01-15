@@ -37,7 +37,7 @@ An ancient dwarven stronghold built into the mountains. The entrance is flanked 
 - Snow/ice seeping through walls via triangular markings (discovered later)
 
 ## NPCs Found Here
-- [[White Dragon]] - Guards the entrance, eating goats
+- [[White_Dragon|White Dragon]] - Guards the entrance, eating goats
 - [[Braum]] - Last unfrozen dwarf (met Session 7)
 - Frozen dwarves - Throughout the fortress
 
@@ -56,5 +56,5 @@ An ancient dwarven stronghold built into the mountains. The entrance is flanked 
 ## Connections
 - [[Neverwinter]] - Day's journey by road
 - [[Phandalin]] - Nearby settlement
-- [[The Void]] - Accessible via ritual at the triangular marking
+- [[The_Void|The Void]] - Accessible via ritual at the triangular marking
 - mountains - The freeze waves originated from the mountain peak above Axeholm

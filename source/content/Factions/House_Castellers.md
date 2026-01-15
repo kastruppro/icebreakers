@@ -15,20 +15,20 @@ tags:
 # House Castellers
 
 ## Overview
-A wealthy noble house in [[Waterdeep]] that became entangled with the cult of [[Tharizdun]]. Their fortune grew suspiciously fast, and [[Victor Castellers]] made a deal with "the four princes" involving his own children.
+A wealthy noble house in [[Waterdeep]] that became entangled with the cult of [[Tharizdun]]. Their fortune grew suspiciously fast, and [[Victor_Castellers|Victor Castellers]] made a deal with "the four princes" involving his own children.
 
 ## Members
 
 | Name | Role | Status |
 |------|------|--------|
-| [[Victor Castellers]] | Lord, patriarch | Claimed by Tharizdun |
-| [[Ammalia Castellers]] | Lady, wife | Alive, widowed |
+| [[Victor_Castellers|Victor Castellers]] | Lord, patriarch | Claimed by Tharizdun |
+| [[Ammalia_Castellers|Ammalia Castellers]] | Lady, wife | Alive, widowed |
 | Children (unnamed) | Heirs | Rescued by party |
 
 ## Crimes & Involvement
 - Victor made a deal with Tharizdun's "four princes"
 - Children were connected to [[Thistle]]'s magical trance
-- [[Lord Neverember]] imprisoned in basement ritual chamber
+- [[Lord_Neverember|Lord Neverember]] imprisoned in basement ritual chamber
 - Fortune grew through suspicious means
 - Hosted masquerade balls as cover for cult meetings
 - [[Sebastian]] was a co-conspirator
@@ -36,7 +36,7 @@ A wealthy noble house in [[Waterdeep]] that became entangled with the cult of [[
 ## The Hidden Room
 Behind a painting in the study (accessed via floor-level pressure plate):
 - Glass containers on shelves (slightly magical, claimed to be "music-playing glasses")
-- [[Castellers Spellbook]] recovered by Milo
+- [[Castellers_Spellbook|Castellers Spellbook]] recovered by Milo
 - Other items (mysterious shrine chest)
 
 ## What Happened
@@ -51,5 +51,5 @@ When the party rescued the Castellers children in Session 21, Victor's deal with
 ## Connections
 - [[Tharizdun]] - Victor's deal with his cult
 - [[Sebastian]] - Co-conspirator
-- [[Lord Neverember]] - Imprisoned in their basement
+- [[Lord_Neverember|Lord Neverember]] - Imprisoned in their basement
 - [[Cora]] - Uses same triangular portal escape method

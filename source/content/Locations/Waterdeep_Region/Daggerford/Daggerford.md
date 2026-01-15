@@ -41,7 +41,7 @@ A small but vibrant town located approximately one hour from Waterdeep. Daggerfo
 - Festive atmosphere throughout town
 
 ## NPCs Found Here
-- [[Daggers of the North]] - Adventuring guild originally from this town
+- [[Daggers_of_the_North|Daggers of the North]] - Adventuring guild originally from this town
 - Temple of Desna priests
 
 ## Events at This Location
@@ -51,7 +51,7 @@ A small but vibrant town located approximately one hour from Waterdeep. Daggerfo
 
 ## Connections
 - [[Waterdeep]] - Major city 1 hour away
-- [[Temple of Desna]] - Located within the town
+- [[Temple_of_Desna|Temple of Desna]] - Located within the town
 - Tharizdun cult ruins - One of four ruins in the southern marsh
 
 ## Notes

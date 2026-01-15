@@ -36,12 +36,12 @@ A snow-covered mountain peak overlooking the Neverwinter forest. This is where t
 - The dragon plummeted down the mountainside (wounded but not confirmed dead)
 
 ## NPCs Found Here
-- [[Liora Swiftclock]] - Frozen mid-struggle (Session 7-8)
+- [[Liora_Swiftclock|Liora Swiftclock]] - Frozen mid-struggle (Session 7-8)
 - [[Cora]] - Frozen mid-struggle with Liora (Session 7-8)
 - White Dragon - Crashed nearby after wing frozen
 
 ## Items Found Here
-- [[Healing Hammer]] - Embedded in mountain floor, causing ice waves
+- [[Healing_Hammer|Healing Hammer]] - Embedded in mountain floor, causing ice waves
 
 ## Events at This Location
 - Session 7: Party emerged from void here. Found Liora and Cora frozen. Witnessed hammer causing ice pulses. Dragon attack interrupted by ice wave freezing its wing.
@@ -52,9 +52,9 @@ A snow-covered mountain peak overlooking the Neverwinter forest. This is where t
 - The location may have significance to the Tharizdun cult's ritual
 
 ## Connections
-- [[The Void]] - Party emerged here from the void
+- [[The_Void|The Void]] - Party emerged here from the void
 - [[Axeholm]] - Party could see the ice waves from here that they'd witnessed earlier
 - [[Neverwinter]] - Overlooks the forest surrounding Neverwinter
-- [[Healing Hammer]] - Source of the ice plague, embedded here
-- [[Liora Swiftclock]] - Frozen here
+- [[Healing_Hammer|Healing Hammer]] - Source of the ice plague, embedded here
+- [[Liora_Swiftclock|Liora Swiftclock]] - Frozen here
 - [[Cora]] - Frozen here with Liora

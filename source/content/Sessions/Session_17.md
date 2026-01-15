@@ -18,7 +18,7 @@ tags:
 ![[attachments/session17.png]]
 
 **Date:** 2025-11-26
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar_Starshade|Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > After retrieving [[Tyrs_Gauntlets|Tyr's gauntlets]] from the temple, the party emerged to find [[Cora]] waiting with cultists. Following a fierce battle where all four cultists were slain, [[Cora]] escaped through a triangular portal. The party rushed to warn [[Arthur_De_Moray|Arthur]] via [[Sending_Stones|Sending]] spell, then attended the Castellers masquerade ball. There, [[Clover]]'s clever ruse exposed [[Sebastian]]'s severely corrupted hands, and lip-reading revealed [[Sebastian]] and [[Victor_Castellers|Victor]] conspiring. [[Clover]]'s attempt to follow them as a rat ended with a Nat 20 kick that yeeted the druid over the mansion gates.
@@ -27,15 +27,15 @@ tags:
 
 ### New NPCs
 - **arrogant butler** - Human Male - [[House_Castellers]] servant who presented masks to guests. Incredibly uptight and condescending.
-- **[[Daggers of the North]]** - Adventuring Party (Elf, Dwarf, Tabaxi) - Arena winners from [[Daggerford]] wearing patches with "salt" symbol
+- **[[Daggers_of_the_North|Daggers of the North]]** - Adventuring Party (Elf, Dwarf, Tabaxi) - Arena winners from [[Daggerford]] wearing patches with "salt" symbol
 
 ### Returning NPCs
 - **[[Cora]]** - Confronted party at temple exit; recognized [[Modred_De_Moray|Modred]]'s corruption as "gift of Faisten"; escaped through triangular portal
 - **[[Morgane]]** - Provided [[Sending_Stones|Sending]] spell and three healing potions; offered the temple for rest
 - **[[Sebastian]]** - Arrived at masquerade from [[Neverwinter]] (impossibly fast); entire hands revealed to be black with corruption
-- **[[Victor Castellers]]** - Hosted masquerade; wore tiara with black gem; secretly met with [[Sebastian]] "downstairs"
-- **[[Ammalia Castellers]]** - [[Victor_Castellers|Victor]]'s wife; wore blue/shy mask; appeared subdued and silent
-- **[[Raenar Neverember]]** - Accompanied party to masquerade; provided intel on noble families; chose red/flirty mask
+- **[[Victor_Castellers|Victor Castellers]]** - Hosted masquerade; wore tiara with black gem; secretly met with [[Sebastian]] "downstairs"
+- **[[Ammalia_Castellers|Ammalia Castellers]]** - [[Victor_Castellers|Victor]]'s wife; wore blue/shy mask; appeared subdued and silent
+- **[[Raenar_Neverember|Raenar Neverember]]** - Accompanied party to masquerade; provided intel on noble families; chose red/flirty mask
 
 ## Places Visited
 
@@ -46,7 +46,7 @@ tags:
 - Combat took place on elevated altar platform (10 feet high)
 - All four cultists killed; [[Cora]] escaped through triangular portal
 
-### [[House of Justice]] ([[Waterdeep]])
+### [[House_of_Justice|House of Justice]] ([[Waterdeep]])
 **Temple of Tyr:**
 - Party rushed here to use [[Sending_Stones|Sending]] spell
 - [[Morgane]] provided priest to cast [[Sending_Stones|Sending]] to [[Arthur_De_Moray|Arthur]]
@@ -54,7 +54,7 @@ tags:
 - Received three healing potions
 - [[Jaspar_Starshade|Jaspar]] purchased splint armor
 
-### [[House Castellers]] ([[Waterdeep]])
+### [[House_Castellers|House Castellers]] ([[Waterdeep]])
 **Masquerade Ball:**
 - Grand mansion with guarded gardens, outhouse, and multiple rooms
 - Weapons confiscated at entrance

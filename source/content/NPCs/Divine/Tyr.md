@@ -49,7 +49,7 @@ Tyr tasked the party with:
 - **Four Ruins**: Must destroy chain at each of four locations
 
 ## History with Party
-- **Session 13**: First appeared to Modred and Clover at [[House of Justice]]; gave quest for gauntlets
+- **Session 13**: First appeared to Modred and Clover at [[House_of_Justice|House of Justice]]; gave quest for gauntlets
 - **Session 16**: Party retrieved gauntlets; Clover claimed them
 
 ## Boon of Tyr

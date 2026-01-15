@@ -16,7 +16,7 @@ tags:
 # The Dragon's First Pass
 
 **Date:** Unknown
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Auren|Auren Thalos]] (Eladrin Sorcerer), "Isak" (Reborn Paladin)
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Auren|Auren Thalos]] (Eladrin Sorcerer), "Isak" (Reborn Paladin)
 
 ## Quick Summary
 > Four adventurers arrived separately in the frontier town of [[Phandalin]] just as an ancient [[White_Dragon|white dragon]] attacked, freezing citizens in magical ice. After the chaos subsided, the party united to investigate, ultimately negotiating peace between dwarves and orcs at a nearby digging site before learning about a potential way to defeat the dragon through an orcish thunderbear ritual.
@@ -25,7 +25,7 @@ tags:
 
 ### New NPCs
 - **[[Toblen]]** - Human Male - Mayor of [[Phandalin]], runs the tavern. Offered the party lodging and wine.
-- **[[Sister Gale]]** - Half-Elf Female - Cleric of [[Tymora]] at the Shrine of Luck. Attempted to dispel the ice magic but failed.
+- **[[Sister_Gale|Sister Gale]]** - Half-Elf Female - Cleric of [[Tymora]] at the Shrine of Luck. Attempted to dispel the ice magic but failed.
 - **[[Norbus]]** - Dwarf Male - Friend of [[Toblen]] who works at the digging site. Wanted to check on [[Axeholm]].
 - **Grom** - Dwarf Male - Leader of the Digging Site. Negotiating with orcs over territory.
 - **Krikk** - Orc Male - Leader of the Gundrak orc settlement. Made peace with dwarves; mentioned thunderbear ritual to [[Talos]].

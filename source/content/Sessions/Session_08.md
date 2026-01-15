@@ -30,7 +30,7 @@ tags:
 # [[The_Chained]] Released
 
 **Date:** 2024-XX-XX
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Auren]]
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar_Starshade|Jaspar Starshade]], [[Auren]]
 
 ## Quick Summary
 > The party faced ice elementals and skeletons on the [[Mountain_Top|mountain]] summit, with [[Auren]] removing a corrupted gem from the hammer to end the freeze wave. [[Cora]] escaped after declaring "[[The_Chained|the chained]] one has been released." [[Milo_Swiftclock|Milo]] reunited with his freed sister [[Liora_Swiftclock|Liora]], who revealed she had followed their parents' research and was betrayed by [[Cora]]. On the descent, the party encountered a [[White_Dragon|white dragon]] who made them his "servants." Back in [[Phandalin]], [[Milo_Swiftclock|Milo]] learned from [[Liora_Swiftclock|Liora]] about a Great House in [[Waterdeep]] that knows about [[The_Chained|the Chained]], and [[Oghma]] appeared to [[Milo_Swiftclock|Milo]] in a dream-vision.
@@ -42,8 +42,8 @@ tags:
 - **[[Oghma]]** - God of Knowledge. Appeared to [[Milo_Swiftclock|Milo]] in a dream-vision. "Find me when you come to [[Neverwinter]]. I have something for you because of everything you set in motion."
 
 ### Returning NPCs
-- **[[Liora Swiftclock]]** - Freed from frozen prison, emotionally broken down, revealed she followed parents' research and was betrayed by [[Cora]]
-- **[[White Dragon]]** - Encountered in cave on descent, denied involvement in freeze, made party his "servants"
+- **[[Liora_Swiftclock|Liora Swiftclock]]** - Freed from frozen prison, emotionally broken down, revealed she followed parents' research and was betrayed by [[Cora]]
+- **[[White_Dragon|White Dragon]]** - Encountered in cave on descent, denied involvement in freeze, made party his "servants"
 - **[[Toblen]]** - Greeted party on return to [[Phandalin]]
 - **[[Erik_Phandalin|Erik]]** - Returned from delivering [[Milo_Swiftclock|Milo]]'s letters to [[Neverwinter]], rewarded with silver
 

@@ -16,7 +16,7 @@ tags:
 # Divine Intervention
 
 **Date:** 2025-09-17
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar_Starshade|Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > The party battled a shadow entity possessing [[Arthur_De_Moray|Arthur]] in the Chapel of [[Oghma]], with a new ally [[Clover]] joining the fight. After subduing the shadow, [[Milo_Swiftclock|Milo]] received divine favor directly from [[Oghma]] himself, gaining the Fey Touched feat. The party then reunited with [[Milo_Swiftclock|Milo]]'s family, learning crucial information about their grandfather's research into the cult and the mechanics of void portals.
@@ -25,20 +25,20 @@ tags:
 
 ### New NPCs
 - **[[Clover]]** - Harengon Male - Moon Druid (NEW PC). A small Harengon with drooped ears who wandered through a portal from the [[Feywild]]. His family protects the Moonwell Pool. Joined the party during the shadow fight.
-- **[[Serina Swiftclock]]** - Harengon Female - [[Milo_Swiftclock|Milo]]'s mother. Revealed the family's generational research into the cult of [[Tharizdun]].
-- **[[Ren Swiftclock]]** - Harengon Male - [[Milo_Swiftclock|Milo]]'s father. Master horologist who runs a prestigious clock workshop in [[Neverwinter]].
+- **[[Serina_Swiftclock|Serina Swiftclock]]** - Harengon Female - [[Milo_Swiftclock|Milo]]'s mother. Revealed the family's generational research into the cult of [[Tharizdun]].
+- **[[Ren_Swiftclock|Ren Swiftclock]]** - Harengon Male - [[Milo_Swiftclock|Milo]]'s father. Master horologist who runs a prestigious clock workshop in [[Neverwinter]].
 
 ### Returning NPCs
-- **[[Arthur De Moray]]** - Shadow entity emerged fully; [[Modred_De_Moray|Modred]] dragged him into light to suppress it. Entity declared him "a fine vessel for [[Tharizdun]]."
-- **[[Master Tiberius Gearwhistle]]** - Confirmed the shadow is abnormally tethered to [[Arthur_De_Moray|Arthur]].
+- **[[Arthur_De_Moray|Arthur De Moray]]** - Shadow entity emerged fully; [[Modred_De_Moray|Modred]] dragged him into light to suppress it. Entity declared him "a fine vessel for [[Tharizdun]]."
+- **[[Master_Tiberius_Gearwhistle|Master Tiberius Gearwhistle]]** - Confirmed the shadow is abnormally tethered to [[Arthur_De_Moray|Arthur]].
 - **[[Oghma]]** - Appeared directly to [[Milo_Swiftclock|Milo]] in a divine throne room, granting him Fey Touched despite celestial rules forbidding direct intervention.
 - **[[Sebastian]]** - Appeared outside calming crowds; bought [[Liora_Swiftclock|Liora]]'s hammer from [[Jaspar_Starshade|Jaspar]] for 600 GP. Asked about the gem's location.
-- **[[Elira Moonshadow]]** - Agreed to research dwarven conduit magic for [[Jaspar_Starshade|Jaspar]].
-- **[[Liora Swiftclock]]** - Reunited with the party at the [[Swiftclock_Home|Swiftclock home]].
+- **[[Elira_Moonshadow|Elira Moonshadow]]** - Agreed to research dwarven conduit magic for [[Jaspar_Starshade|Jaspar]].
+- **[[Liora_Swiftclock|Liora Swiftclock]]** - Reunited with the party at the [[Swiftclock_Home|Swiftclock home]].
 
 ## Places Visited
 
-### [[House of Knowledge]] - Chapel of [[Oghma]]
+### [[House_of_Knowledge|House of Knowledge]] - Chapel of [[Oghma]]
 **The Shadow Fight:**
 - The shadow entity controlling [[Arthur_De_Moray|Arthur]] flew into the chapel dedicated to [[Oghma]]
 - [[Arthur_De_Moray|Arthur]] and shadow hovered above a statue of [[Oghma]]
@@ -57,7 +57,7 @@ tags:
 - [[Oghma]] appeared and granted him **Fey Touched** despite celestial rules
 - Confirmed the party should travel to [[Waterdeep]]
 
-### [[Swiftclock Home]]
+### [[Swiftclock_Home|Swiftclock Home]]
 **Family Reunion:**
 - [[Milo_Swiftclock|Milo]]'s parents [[Serina_Swiftclock|Serina]] and Ren were unfrozen
 - Emotional reunion with hugs and [[Liora_Swiftclock|Liora]] joining

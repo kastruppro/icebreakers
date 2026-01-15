@@ -24,7 +24,7 @@ tags:
 **Race/Gender:** Elf Female
 **Role:** Adventurer from 200 years ago
 **Status:** Deceased (ghost in the Void)
-**Current Location:** [[The Void]] / Underworld
+**Current Location:** [[The_Void|The Void]] / Underworld
 
 ## Description
 An elven adventurer who was banished to the Void approximately 200 years ago (from the year 1478). She now exists as a ghost on a boat sailing through the underworld, surrounded by millions of trapped souls.
@@ -50,7 +50,7 @@ Even after 200 years of imprisonment in the Void, Sabrina retained her clarity a
 - Elise Mayak - Firbolg party member (deceased)
 - Ron Tusk - Dwarf party member (deceased, was young when he died)
 - [[Tharizdun]] - The Chained One whose cult she opposed
-- [[The Void]] - Her prison for 200 years
+- [[The_Void|The Void]] - Her prison for 200 years
 
 ## Party Members (Historical)
 Sabrina's adventuring party from 200 years ago:

@@ -16,7 +16,7 @@ tags:
 # Into [[The_Chained|the Chained]] One's Temple
 
 **Date:** 2025-10-30
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Clover]] ([[Jaspar_Starshade|Jaspar]] absent - working with [[Gigz]])
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Clover]] ([[Jaspar_Starshade|Jaspar]] absent - working with [[Gigz]])
 
 ## Quick Summary
 > The party ventured to the [[Tharizdun]] cult ruins in the forest outside [[Waterdeep]] as a "warm up" before the masquerade ball. After activating a blood-sealed elevator with [[Modred_De_Moray|Modred]]'s sacrifice, they descended into a massive underground temple dominated by a giant statue of [[The_Chained|the Chained]] One. In the well chamber, they faced a brutal chain puzzle that required defeating waves of regenerating oozes while securing chains to hooks. The final battle against a large Oblex that created a perfect magical duplicate of [[Milo_Swiftclock|Milo]] pushed the party to their limits, but they emerged victorious with the mechanism activated and more dungeon awaiting.
@@ -28,7 +28,7 @@ tags:
 
 ## Places Visited
 
-### [[Statue Protectors Square]]
+### [[Statue_Protectors_Square|Statue Protectors Square]]
 **Guard Post:**
 - Same guard from Session 14 still posted
 - Few pilgrims present - most already turned back
@@ -46,7 +46,7 @@ tags:
 - Bodies of previously killed cultists are GONE - drag marks visible
 - [[Clover]]'s Nature check (22): Large animal responsible (likely bear), natural scavenging behavior
 
-### [[Temple of Tharizdun]]
+### [[Temple_of_Tharizdun|Temple of Tharizdun]]
 **Surface Level - Blood Altar Platform:**
 - Elevated platform with ancient inscription
 - Requires blood sacrifice to activate

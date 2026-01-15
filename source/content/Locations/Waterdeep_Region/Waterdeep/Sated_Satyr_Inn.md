@@ -52,7 +52,7 @@ A fancy inn in Waterdeep, comparable in quality to Neverwinter's Moonstone Mask.
 - [[Tibon]] - Owner/bartender (named Session 22)
 - [[Percy]] - Found here playing cards (Session 12)
 - [[Pogo]] - Raenar's dog
-- [[Raenar Neverember]] - Regular patron
+- [[Raenar_Neverember|Raenar Neverember]] - Regular patron
 
 ## Events at This Location
 - **Session 12:** Party stayed here after leaving House De Moray. Met Percy. Clover spoke with Pogo. Party officially named themselves "The The Icebreakers." Modred discovered corruption spreading at night.
@@ -69,5 +69,5 @@ A fancy inn in Waterdeep, comparable in quality to Neverwinter's Moonstone Mask.
 ## Connections
 - [[Waterdeep]] - Located within the city
 - [[Percy]] - Regular patron
-- [[Raenar Neverember]] - Stayed here with party
+- [[Raenar_Neverember|Raenar Neverember]] - Stayed here with party
 - [[House_of_Justice]] - Party travels between these locations

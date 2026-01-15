@@ -37,7 +37,7 @@ Patient and methodical as befits a teacher and researcher. Takes problems seriou
 - **Artificer**: Creates magical items and devices
 - **Wizard**: Commands significant arcane power
 - **Magical Analysis**: Examined the cursed sword
-- **Ward Crafting**: Placed protective wards on [[Arthur De Moray]]
+- **Ward Crafting**: Placed protective wards on [[Arthur_De_Moray|Arthur De Moray]]
 - **Luxon Knowledge**: Knows about the mysterious Luxon
 
 ## Important Quotes
@@ -57,7 +57,7 @@ Patient and methodical as befits a teacher and researcher. Takes problems seriou
 - **Session 11**: Placed protective wards on Arthur at the Swiftclock home
 
 ## Connections
-- [[Milo Swiftclock]] - Former student (party member)
-- [[Elira Moonshadow]] - Colleague at House of Knowledge
-- [[Arthur De Moray]] - Placed protective wards on him
+- [[Milo_Swiftclock|Milo Swiftclock]] - Former student (party member)
+- [[Elira_Moonshadow|Elira Moonshadow]] - Colleague at House of Knowledge
+- [[Arthur_De_Moray|Arthur De Moray]] - Placed protective wards on him
 - House of Knowledge - Primary base

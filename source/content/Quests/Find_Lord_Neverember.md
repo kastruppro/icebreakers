@@ -20,7 +20,7 @@ tags:
 ## Quick Reference
 **Status:** Active (Assault Planned for 4am)
 **Priority:** CRITICAL (Active Ritual)
-**Quest Giver:** [[Daggers of the North]]
+**Quest Giver:** [[Daggers_of_the_North|Daggers of the North]]
 **Started:** Session 18
 **Last Updated:** Session 22
 
@@ -79,20 +79,20 @@ The ritual is ACTIVELY IN PROGRESS. Lord Neverember's condition is unknown, but 
 - Sebastian's whereabouts unknown - could be in basement
 
 ## Potential Allies
-- [[Daggers of the North]] - May provide backup for rescue operation
-- [[Ammalia Castellers]] - Knows the estate, may provide information
+- [[Daggers_of_the_North|Daggers of the North]] - May provide backup for rescue operation
+- [[Ammalia_Castellers|Ammalia Castellers]] - Knows the estate, may provide information
 - [[Merin]] - Tabaxi rogue currently with party
 
 ## NPCs Involved
-- [[Lord Neverember]] - The prisoner to be rescued
-- [[Daggers of the North]] - Quest givers
+- [[Lord_Neverember|Lord Neverember]] - The prisoner to be rescued
+- [[Daggers_of_the_North|Daggers of the North]] - Quest givers
 - Unknown Druids (2) - Casting spells in the ritual
 - Cloaked Cultists (8-10) - Chanting around Lord Neverember
 - [[Sebastian]] - May be involved, location unknown
-- [[Ammalia Castellers]] - Potential source of information
+- [[Ammalia_Castellers|Ammalia Castellers]] - Potential source of information
 
 ## Locations
-- [[House Castellers]] - Location of the ritual
+- [[House_Castellers|House Castellers]] - Location of the ritual
 - House Castellers Basement - Ritual Chamber - Where Neverember is imprisoned
 - Waterdeep - City location
 

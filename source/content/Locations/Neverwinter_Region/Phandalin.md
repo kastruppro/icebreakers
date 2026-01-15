@@ -43,7 +43,7 @@ A small frontier town south of Neverwinter, Phandalin serves as the starting loc
 
 ## NPCs Found Here
 - [[Toblen]] - Mayor and tavern owner
-- [[Sister Gale]] - Priestess at the Shrine of Luck
+- [[Sister_Gale|Sister Gale]] - Priestess at the Shrine of Luck
 - Erik - Local contact
 
 ## Events at This Location

@@ -17,14 +17,14 @@ tags:
 # Dream Realm - Castellers
 
 ## Quick Reference
-**Region:** [[Dream Realm]]
+**Region:** [[Dream_Realm|Dream Realm]]
 **Type:** Pocket Dimension/Elemental Arena
 **Status:** Destroyed - Collapsed when dream-beast was slain
 
 ## Description
 A pocket dimension beneath House Castellers where [[Thistle]] was held captive under [[Tharizdun]]'s spell. The realm manifested as a burning square room that dynamically transformed based on elemental damage dealt within it. The room served as an arena for combat against an elemental chimera-beast that guarded Thistle's imprisonment.
 
-The realm had a unique property: voices from the waking world could echo through as warnings, allowing [[Ammalia Castellers]] and the [[Daggers of the North]] to communicate with the party during combat.
+The realm had a unique property: voices from the waking world could echo through as warnings, allowing [[Ammalia_Castellers|Ammalia Castellers]] and the [[Daggers_of_the_North|Daggers of the North]] to communicate with the party during combat.
 
 ## Notable Areas
 
@@ -53,10 +53,10 @@ The realm had a unique property: voices from the waking world could echo through
 - Session 20: Party entered dream realm to rescue Thistle, began combat with elemental beast
 - Session 21:
   - [[Clover]] opened with critical hit in wolf form
-  - [[Jaspar Starshade]] investigated beast, learned about its adaptive armor ability
+  - [[Jaspar_Starshade|Jaspar Starshade]] investigated beast, learned about its adaptive armor ability
   - [[Clover]] cast Elemental Weapon (Cold) on [[Modred_De_Moray|Sir Modred De Moray]]'s sword - turning point of battle
   - Beast transformed to half-fire/half-ice, becoming vulnerable
-  - [[Milo Swiftclock]] delivered killing blow with Fireball
+  - [[Milo_Swiftclock|Milo Swiftclock]] delivered killing blow with Fireball
   - Realm collapsed, party woke in Castellers bedroom with freed Thistle
 
 ## Items Found Here
@@ -76,6 +76,6 @@ The realm had a unique property: voices from the waking world could echo through
 - "Victor is coming." - Ammalia's voice warning through the dream
 
 ## Connections
-- [[House Castellers]] - Physical location anchoring this pocket dimension
+- [[House_Castellers|House Castellers]] - Physical location anchoring this pocket dimension
 - [[Thistle]] - Prisoner freed when realm collapsed
 - [[Tharizdun]] - Created/maintained this prison realm

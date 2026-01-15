@@ -47,5 +47,5 @@ Dismissive of non-magical technology and inventions. Argues for the superiority 
 
 ## Connections
 - [[Gigz]] - Rival philosophically (magic vs. technology debate)
-- [[Milo Swiftclock]] - Recognizes his magical competence
-- [[Raenar Neverember]] - Shop is near his house
+- [[Milo_Swiftclock|Milo Swiftclock]] - Recognizes his magical competence
+- [[Raenar_Neverember|Raenar Neverember]] - Shop is near his house

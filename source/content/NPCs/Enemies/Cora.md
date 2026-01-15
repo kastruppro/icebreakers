@@ -56,5 +56,5 @@ Mocking, confident, taunting. Takes pleasure in the party's struggles. Dreams fu
 
 ## Connections
 - [[Tharizdun]] - Serves this imprisoned god
-- [[Arthur De Moray]] - Hunting him
-- [[Modred De Moray]] - Knows about his corruption, called it "gift of Faisten"
+- [[Arthur_De_Moray|Arthur De Moray]] - Hunting him
+- [[Modred_De_Moray|Modred De Moray]] - Knows about his corruption, called it "gift of Faisten"

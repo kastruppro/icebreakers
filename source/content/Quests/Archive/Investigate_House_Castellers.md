@@ -96,15 +96,15 @@ Milo discovered a pressure plate at floor level in the study that opened a paint
 
 ## NPCs Involved
 - [[Sebastian]] - Corrupted, hands fully black, cult conspirator (status unknown)
-- [[Victor Castellers]] - Claimed by Tharizdun via triangular portal (Session 21)
-- [[Ammalia Castellers]] - Allied with party, grieving Victor's fate
+- [[Victor_Castellers|Victor Castellers]] - Claimed by Tharizdun via triangular portal (Session 21)
+- [[Ammalia_Castellers|Ammalia Castellers]] - Allied with party, grieving Victor's fate
 - Castellers Children - Rescued, now with party
-- [[Lord Neverember]] - Imprisoned in basement ritual
+- [[Lord_Neverember|Lord Neverember]] - Imprisoned in basement ritual
 - Two Unknown Druids - Participating in ritual, flowers in hair
 - 8-10 Cloaked Cultists - Chanting in basement ritual
 
 ## Locations
-- [[House Castellers]] - Noble estate in Waterdeep
+- [[House_Castellers|House Castellers]] - Noble estate in Waterdeep
 - House Castellers Basement - Tomb Room (left passage)
 - House Castellers Basement - Living Quarters (middle passage)
 - House Castellers Basement - Ritual Chamber (right passage)

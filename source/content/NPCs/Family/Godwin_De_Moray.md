@@ -47,13 +47,13 @@ Godwin's dreams are full of:
 - **Shame**: The De Moray legacy carries terrible weight
 
 ## Family Tragedy
-- [[Modred De Moray]] left home years ago
-- [[Arthur De Moray]] was possessed by a shadow entity after Godwin took him to investigate the cult
+- [[Modred_De_Moray|Modred De Moray]] left home years ago
+- [[Arthur_De_Moray|Arthur De Moray]] was possessed by a shadow entity after Godwin took him to investigate the cult
 - His wife [[Morgane]] left him for the House of Justice
 - He "lost both his sons" and spiraled into madness
 
 ## Connections
-- [[Modred De Moray]] - Son (party member, estranged)
-- [[Arthur De Moray]] - Son (possessed)
+- [[Modred_De_Moray|Modred De Moray]] - Son (party member, estranged)
+- [[Arthur_De_Moray|Arthur De Moray]] - Son (possessed)
 - [[Morgane]] - Ex-wife, now priestess of Tyr
 - [[Sebastian]] - Both show signs of corruption (possible connection?)

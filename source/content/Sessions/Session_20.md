@@ -18,7 +18,7 @@ tags:
 # Into The Dream
 
 **Date:** 2025-12-28
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar_Starshade|Jaspar Starshade]], [[Clover]]
 
 ![[attachments/session20.png]]
 ## Quick Summary
@@ -27,9 +27,9 @@ tags:
 ## Characters Met
 
 ### Returning NPCs
-- **[[Ammalia Castellers]]** - Revealed she hates [[Victor_Castellers|Victor]] for sacrificing their children; helped party enter mansion; desperate to save her children
+- **[[Ammalia_Castellers|Ammalia Castellers]]** - Revealed she hates [[Victor_Castellers|Victor]] for sacrificing their children; helped party enter mansion; desperate to save her children
 - **[[Thistle]]** - Seen possessed by a monstrous entity in the [[Dream_Realm|dream realm]], holding the Castellers children hostage with magic
-- **[[Daggers of the North]]** - [[Merin]] (Tabaxi Rogue) assisted with infiltration; others provided backup outside
+- **[[Daggers_of_the_North|Daggers of the North]]** - [[Merin]] (Tabaxi Rogue) assisted with infiltration; others provided backup outside
 
 ## Places Visited
 
@@ -38,7 +38,7 @@ tags:
 - Met [[Daggers_of_the_North]] leaving the graveyard after burying [[Rafael]]
 - [[Milo_Swiftclock|Milo]] suffered psychic attack from [[Ammalia_Castellers|Ammalia]] tracking her spellbook
 
-### [[House Castellers]]
+### [[House_Castellers|House Castellers]]
 **Ground Floor:**
 - Beautiful garden untended due to dismissed guards
 - Platform with self-playing instruments

@@ -22,7 +22,7 @@ A secretive cult dedicated to freeing [[Tharizdun]], the Chained One - a Betraye
 |------|------|--------|
 | [[Cora]] | Field Agent | Alive, at large |
 | [[Sebastian]] | Cloak Tower Leader | Alive, corrupted |
-| [[Victor Castellers]] | Noble Conspirator | Claimed by Tharizdun |
+| [[Victor_Castellers|Victor Castellers]] | Noble Conspirator | Claimed by Tharizdun |
 | Unknown cultists | Foot soldiers | Various |
 
 ## Goals
@@ -44,7 +44,7 @@ Ammalia mentioned Victor made a deal with "the four princes" of Tharizdun. Their
 Cora recognized Modred's corruption as the "gift of Faisten" - the source and meaning of this term is unknown.
 
 ## Known Locations
-- [[House Castellers]] basement - ritual chamber with [[Lord Neverember]] imprisoned
+- [[House_Castellers|House Castellers]] basement - ritual chamber with [[Lord_Neverember|Lord Neverember]] imprisoned
 - Marsh ruins south of [[Daggerford]] - one of four Tharizdun temples
 - Three other ruins around [[Waterdeep]] (locations unknown)
 

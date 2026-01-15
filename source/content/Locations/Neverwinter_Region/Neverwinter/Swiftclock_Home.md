@@ -45,10 +45,10 @@ The family home of the Swiftclock family in Neverwinter. Contains both living qu
 - Clover slept here as a dog to avoid guards and be closer to nature
 
 ## NPCs Found Here
-- [[Serina Swiftclock]] - Mother, lives here
-- [[Ren Swiftclock]] - Father, lives and works here
-- [[Liora Swiftclock]] - Daughter, currently staying here
-- [[Milo Swiftclock]] - Son (visitor, party member)
+- [[Serina_Swiftclock|Serina Swiftclock]] - Mother, lives here
+- [[Ren_Swiftclock|Ren Swiftclock]] - Father, lives and works here
+- [[Liora_Swiftclock|Liora Swiftclock]] - Daughter, currently staying here
+- [[Milo_Swiftclock|Milo Swiftclock]] - Son (visitor, party member)
 
 ## Items Found Here
 - Books about Tharizdun and the cult (in secret room)
@@ -65,9 +65,9 @@ The family home of the Swiftclock family in Neverwinter. Contains both living qu
 - May contain more books or artifacts related to Tharizdun
 
 ## Connections
-- [[Serina Swiftclock]] - Matriarch
-- [[Ren Swiftclock]] - Patriarch
-- [[Milo Swiftclock]] - Son (PC)
-- [[Liora Swiftclock]] - Daughter
+- [[Serina_Swiftclock|Serina Swiftclock]] - Matriarch
+- [[Ren_Swiftclock|Ren Swiftclock]] - Patriarch
+- [[Milo_Swiftclock|Milo Swiftclock]] - Son (PC)
+- [[Liora_Swiftclock|Liora Swiftclock]] - Daughter
 - [[Tharizdun]] - Subject of secret research
 - Milo's Grandfather - Started the research, lost to the void

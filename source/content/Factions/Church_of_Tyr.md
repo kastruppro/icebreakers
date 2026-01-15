@@ -26,7 +26,7 @@ The organized worship of [[Tyr]], God of Justice. The church opposes [[Tharizdun
 
 ## The Sacred Quest
 Tyr appeared to Modred and Clover as a black hound in Session 13, tasking them with:
-1. Retrieve [[Tyrs Gauntlets|Tyr's Gauntlets]] from the cult ruins *(Completed)*
+1. Retrieve [[Tyrs_Gauntlets|Tyr's Gauntlets]] from the cult ruins *(Completed)*
 2. Use the gauntlets to destroy Tharizdun's chains at four ruins around Waterdeep
 3. Push Tharizdun further back into imprisonment
 
@@ -46,6 +46,6 @@ Granted to the entire party:
 
 ## Connections
 - [[Tharizdun]] - Primary opposition
-- [[Tyrs Gauntlets|Tyr's Gauntlets]] - Sacred weapon against Tharizdun's chains
+- [[Tyrs_Gauntlets|Tyr's Gauntlets]] - Sacred weapon against Tharizdun's chains
 - [[Clover]] - Bearer of the gauntlets
-- [[Modred De Moray]] - Morgane's son
+- [[Modred_De_Moray|Modred De Moray]] - Morgane's son

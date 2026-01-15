@@ -71,12 +71,12 @@ The party fought an elemental chimera-beast in the dream realm - a creature that
 - [[Clover]] - Quest giver, Thistle's sister
 - [[Thistle]] - Now rescued and with the party
 - [[Desna]] - Goddess who provided the Dream Staff and guidance
-- [[Ammalia Castellers]] - Allied with party to help
+- [[Ammalia_Castellers|Ammalia Castellers]] - Allied with party to help
 - [[Tharizdun]] - The chained god who held Thistle captive
 - [[Merin]] - Tabaxi rogue from Daggers of the North who assisted escape
 
 ## Locations
-- [[House Castellers]] - Where Thistle was found
+- [[House_Castellers|House Castellers]] - Where Thistle was found
 - Thistle's Dream Realm - Where the final battle took place
 
 ## Session 22 - Confirmed Safe

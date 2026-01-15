@@ -21,8 +21,8 @@ The ruling house of [[Neverwinter]], currently in crisis with the lord imprisone
 
 | Name | Role | Status |
 |------|------|--------|
-| [[Lord Neverember]] | Ruler of Neverwinter | Imprisoned |
-| [[Raenar Neverember]] | Son, hunter | Alive, allied with party |
+| [[Lord_Neverember|Lord Neverember]] | Ruler of Neverwinter | Imprisoned |
+| [[Raenar_Neverember|Raenar Neverember]] | Son, hunter | Alive, allied with party |
 | Loyal Guard | Personal guard | Alive (injured, lost arm) |
 
 ## History with the Party
@@ -37,7 +37,7 @@ In Neverwinter Castle, the party discovered the [[Crown_of_the_Guardians|Crown o
 During the infiltration of [[House_Castellers]], the party discovered Lord Neverember chained in the basement in a summoning circle, with 8-10 cultists performing a ritual. He was teleported away before rescue.
 
 ### Rescue Mission (Session 22+)
-[[Raenar Neverember]] has joined forces with the party to rescue his father. The mission to save Lord Neverember is currently active.
+[[Raenar_Neverember|Raenar Neverember]] has joined forces with the party to rescue his father. The mission to save Lord Neverember is currently active.
 
 ## Holdings
 - Neverwinter Castle
@@ -50,6 +50,6 @@ During the infiltration of [[House_Castellers]], the party discovered Lord Never
 
 ## Connections
 - [[Tharizdun]] - Cultists imprisoned the lord
-- [[House Castellers]] - Lord was held in their basement
+- [[House_Castellers|House Castellers]] - Lord was held in their basement
 - [[The_Icebreakers|The Icebreakers]] - Allied for rescue mission
 - [[Crown_of_the_Guardians]] - Royal artifact now held by [[Modred_De_Moray]]

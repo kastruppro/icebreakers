@@ -21,10 +21,10 @@ A noble house in [[Waterdeep]] and the family of party member [[Modred_De_Moray|
 
 | Name | Role | Status |
 |------|------|--------|
-| [[Godwin De Moray]] | Lord, patriarch | Alive (mad) |
+| [[Godwin_De_Moray|Godwin De Moray]] | Lord, patriarch | Alive (mad) |
 | [[Morgane]] | Former Lady, Modred's mother | Left family, now Priestess of [[Tyr]] |
 | [[Modred_De_Moray\|Sir Modred De Moray]] | Son, knight | Adventuring (party member) |
-| [[Arthur De Moray]] | Younger son | Alive (possessed/recovering) |
+| [[Arthur_De_Moray|Arthur De Moray]] | Younger son | Alive (possessed/recovering) |
 | Ulrik | Guard | Alive |
 
 ## Family Drama

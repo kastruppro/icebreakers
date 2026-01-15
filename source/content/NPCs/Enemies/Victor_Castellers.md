@@ -58,10 +58,10 @@ Victor made a deal with "the four princes" of Tharizdun. The deal involved his c
 - Basement of his mansion contains active Tharizdun cult ritual with Lord Neverember imprisoned
 
 ## Connections
-- [[Ammalia Castellers]] - Wife (left behind when he was claimed)
+- [[Ammalia_Castellers|Ammalia Castellers]] - Wife (left behind when he was claimed)
 - [[Sebastian]] - Conspiracy partner
 - [[Thistle]] - Held her captive, children channeling her magic
-- [[House Castellers]] - His estate
+- [[House_Castellers|House Castellers]] - His estate
 - [[Tharizdun]] - Made deal with his "four princes," now claimed by him
-- [[Lord Neverember]] - Imprisoned in ritual circle in his basement
+- [[Lord_Neverember|Lord Neverember]] - Imprisoned in ritual circle in his basement
 - [[Cora]] - Fellow cultist, uses same triangular portal method

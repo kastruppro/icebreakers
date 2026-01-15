@@ -16,7 +16,7 @@ tags:
 # Shadows and Elections
 
 **Date:** 2025-09-10
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]]
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar_Starshade|Jaspar Starshade]]
 **Note:** [[Auren]] is no longer part of the campaign as of this session.
 
 ## Quick Summary
@@ -27,13 +27,13 @@ tags:
 ### Returning NPCs
 - **[[Toblen]]** - Human Male - Mayor of [[Phandalin]]. Greeted the party at breakfast; inn still under repairs.
 - **[[Cora]]** - Human Female - Cultist. Found holding [[Arthur_De_Moray|Arthur]] with magic in the forest. Claimed she was "trying to save him." Escaped via teleportation after [[Milo_Swiftclock|Milo]] vortex warped her away.
-- **[[Arthur De Moray]]** - Human Male - [[Modred_De_Moray|Modred]]'s brother. Revealed he investigated a cult with his father, has memory gaps, and feels like he's "asleep" most of the time.
+- **[[Arthur_De_Moray|Arthur De Moray]]** - Human Male - [[Modred_De_Moray|Modred]]'s brother. Revealed he investigated a cult with his father, has memory gaps, and feels like he's "asleep" most of the time.
 - **[[Sebastian]]** - Human Male - Mage. Won re-election by landslide; demonstrated extreme power by raising and restoring [[Neverwinter_Castle]] using chronurgy magic.
 - **[[Liset]]** - Human Female - Politician. Disappointed about losing election; suspects it was rigged. Said only wizards can make change now.
-- **[[Master Tiberius Gearwhistle]]** - Gnome Male - Artificer/Wizard. Agreed to investigate [[Sebastian]] and attempted to remove [[Arthur_De_Moray|Arthur]]'s curse.
-- **[[Elira Moonshadow]]** - High Elf Female - Archivist. Led party to Gearwhistle's private room.
-- **[[Professor Thaddeus Blackthorn]]** - Human Male - Wizard. Seen standing outside Gearwhistle's room looking suspicious.
-- **[[Liora Swiftclock]]** - Harengon Female - [[Milo_Swiftclock|Milo]]'s sister. Shared information about "Godwen" ([[Modred_De_Moray|Modred]]'s father) being corrupted. Received leather armor from [[Milo_Swiftclock|Milo]].
+- **[[Master_Tiberius_Gearwhistle|Master Tiberius Gearwhistle]]** - Gnome Male - Artificer/Wizard. Agreed to investigate [[Sebastian]] and attempted to remove [[Arthur_De_Moray|Arthur]]'s curse.
+- **[[Elira_Moonshadow|Elira Moonshadow]]** - High Elf Female - Archivist. Led party to Gearwhistle's private room.
+- **[[Professor_Thaddeus_Blackthorn|Professor Thaddeus Blackthorn]]** - Human Male - Wizard. Seen standing outside Gearwhistle's room looking suspicious.
+- **[[Liora_Swiftclock|Liora Swiftclock]]** - Harengon Female - [[Milo_Swiftclock|Milo]]'s sister. Shared information about "Godwen" ([[Modred_De_Moray|Modred]]'s father) being corrupted. Received leather armor from [[Milo_Swiftclock|Milo]].
 
 ## Places Visited
 
@@ -63,7 +63,7 @@ tags:
 - First election was a tie; [[Sebastian]] won the re-vote by a landslide
 - Party promised to talk to [[Sebastian]] about involving non-wizards in rebuilding
 
-### [[House of Knowledge]]
+### [[House_of_Knowledge|House of Knowledge]]
 **Gearwhistle's Private Room:**
 - [[Professor_Thaddeus_Blackthorn|Professor]] Blackthorn seen lurking outside suspiciously
 - Gearwhistle magically secured the room at [[Milo_Swiftclock|Milo]]'s request

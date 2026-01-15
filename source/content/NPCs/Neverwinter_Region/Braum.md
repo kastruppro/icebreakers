@@ -43,5 +43,5 @@ Initially suspicious and quick to anger, especially toward harengon after being 
 
 ## Connections
 - [[Axeholm]] - Home fortress, defender
-- [[Liora Swiftclock]] - The actual thief who stole his hammer (unknown to him)
-- [[Healing Hammer]] - His clan's stolen heirloom
+- [[Liora_Swiftclock|Liora Swiftclock]] - The actual thief who stole his hammer (unknown to him)
+- [[Healing_Hammer|Healing Hammer]] - His clan's stolen heirloom

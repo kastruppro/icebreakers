@@ -16,7 +16,7 @@ tags:
 # The [[Dream_Staff]]
 
 **Date:** 2025-12-17
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar_Starshade|Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > The party awoke at the [[Sated_Satyr_Inn]] after the masquerade, compared notes with the [[Daggers_of_the_North]] about their shared cult investigation, learned about the [[Temple_of_Desna]] in [[Daggerford]], traveled there via [[Clover]]'s warhorse form, and met the goddess [[Desna]] herself who granted them the [[Dream_Staff]] to enter [[Thistle]]'s nightmare and free her from [[Tharizdun]]'s spell.
@@ -32,19 +32,19 @@ tags:
 - **[[Desna|Temple Priest]]** - Unknown Female - Priest at [[Temple_of_Desna]]. Purple robes with glowing moon symbol on hands. No hierarchy in the temple.
 
 ### Returning NPCs
-- **[[Raenar Neverember]]** - Still at the Sated Satyr, ate a [[Pepper_Nuts|pepper]] nut and turned invisible. Party promised to return for drinks.
-- **[[Isabella Adabrent]]** - Sent [[Jaspar_Starshade|Jaspar]] a pink perfumed note and [[Pepper_Nuts|pepper nuts]] thanking him for the dance. Guards at [[House_Adabrent]] wouldn't let party in.
+- **[[Raenar_Neverember|Raenar Neverember]]** - Still at the Sated Satyr, ate a [[Pepper_Nuts|pepper]] nut and turned invisible. Party promised to return for drinks.
+- **[[Isabella_Adabrent|Isabella Adabrent]]** - Sent [[Jaspar_Starshade|Jaspar]] a pink perfumed note and [[Pepper_Nuts|pepper nuts]] thanking him for the dance. Guards at [[House_Adabrent]] wouldn't let party in.
 
 ## Places Visited
 
-### [[Sated Satyr Inn]]
+### [[Sated_Satyr_Inn|Sated Satyr Inn]]
 **Morning After the Masquerade:**
 - [[Jaspar_Starshade|Jaspar]] received [[Pepper_Nuts|pepper nuts]] and a note from [[Isabella_Adabrent]]
 - Party experimented with magical [[Pepper_Nuts|pepper nuts]] (various effects: levitation, shouting, shrinking, teleportation)
 - Met with the [[Daggers_of_the_North]] to share information
 - [[Milo_Swiftclock|Milo]] used Detect Thoughts to verify the [[Daggers_of_the_North|Daggers]]' trustworthiness
 
-### [[House Adabrent]]
+### [[House_Adabrent|House Adabrent]]
 **[[Waterdeep]] Docks:**
 - Attempted to visit [[Isabella_Adabrent|Isabella]] to fulfill [[Jaspar_Starshade|Jaspar]]'s promise
 - Guards refused entry without appointment
@@ -56,7 +56,7 @@ tags:
 - Banners and drawings depicting the [[Daggers_of_the_North]] as heroes
 - Festive atmosphere with long feast tables
 
-### [[Temple of Desna]]
+### [[Temple_of_Desna|Temple of Desna]]
 **[[Daggerford]]:**
 - Dim interior with constellation-covered ceiling and walls
 - White cloudy substance floating overhead creating calm atmosphere
@@ -68,7 +68,7 @@ tags:
 
 | Item | Description | Holder |
 |------|-------------|--------|
-| [[Dream Staff]] | Beautiful glass staff that allows entry into dreams/nightmares. If the user fails in the dream, they become trapped. Can also be used as a weapon. | [[Clover]] |
+| [[Dream_Staff|Dream Staff]] | Beautiful glass staff that allows entry into dreams/nightmares. If the user fails in the dream, they become trapped. Can also be used as a weapon. | [[Clover]] |
 | [[Pepper_Nuts]] (5) | Magical treats with random effects (from [[Isabella_Adabrent|Isabella]]) | [[Clover]] |
 
 ## Key Events Timeline

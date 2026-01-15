@@ -16,7 +16,7 @@ tags:
 # The Gauntlets of Tyr
 
 **Date:** 2025-11-12
-**Party Present:** [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]] ([[Milo_Swiftclock|Milo]] absent)
+**Party Present:** [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar_Starshade|Jaspar Starshade]], [[Clover]] ([[Milo_Swiftclock|Milo]] absent)
 
 ## Quick Summary
 > Continuing their exploration of the [[Temple_of_Tharizdun]], the party solved a three-lever sequential puzzle, answered three riddles from a tragic horned statue, and successfully retrieved [[Tyrs_Gauntlets|Tyr's Gauntlets]] from a chamber guarded by the Substance. Tyr appeared as a black hound, granting the entire party his Boon and revealing their next quest: find four [[Tharizdun]] ruins around [[Waterdeep]] and use the gauntlets to push [[The_Chained|the Chained]] One further into imprisonment. Upon exiting the temple, the party found [[Cora]] waiting for them, clapping with excitement.
@@ -32,7 +32,7 @@ tags:
 
 ## Places Visited
 
-### [[Temple of Tharizdun]] - Level 2
+### [[Temple_of_Tharizdun|Temple of Tharizdun]] - Level 2
 **The Lever Room:**
 - Chain entered through hole in wall
 - Two levers on party's side, one lever on elevated platform across gap

@@ -44,4 +44,4 @@ An advocate for the common people of Neverwinter, Liset entered politics to give
 ## Connections
 - [[Sebastian]] - Political rival who defeated her in the election; now holds power in Neverwinter
 - [[Neverwinter]] - Her home city and political base
-- [[Moonstone Mask]] - The establishment she runs
+- [[Moonstone_Mask|Moonstone Mask]] - The establishment she runs

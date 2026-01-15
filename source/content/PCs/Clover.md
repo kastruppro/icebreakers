@@ -78,7 +78,7 @@ Clover has demonstrated mastery over numerous wild shape forms throughout her ad
 
 ## **Divine Items**
 
-### [[Dream Staff]]
+### [[Dream_Staff|Dream Staff]]
 *Obtained from Desna in Session 19*
 
 A beautiful glass staff that emanates warmth and starlight. Blessed by the goddess Desna herself.

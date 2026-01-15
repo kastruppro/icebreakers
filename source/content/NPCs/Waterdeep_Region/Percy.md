@@ -46,8 +46,8 @@ Living life to the fullest with no apparent care for consequences. Hedonistic, s
 - Interested in robbing the rumored necromancer's tower for entertainment
 
 ## Connections
-- [[Modred De Moray]] - Childhood friend, grew up together in noble circles
-- [[House De Moray]] - Connected through Modred's family
+- [[Modred_De_Moray|Modred De Moray]] - Childhood friend, grew up together in noble circles
+- [[House_De_Moray|House De Moray]] - Connected through Modred's family
 - rumored necromancer - Heist target in northern tower
 
 ## The Heist Proposal

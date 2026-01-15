@@ -16,7 +16,7 @@ tags:
 # Sanctuary and Strategy
 
 **Date:** 2026-01-12
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar_Starshade|Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > After escaping [[House_Castellers]] with [[Thistle]] and the children, the party regrouped to plan [[Lord_Neverember]]'s rescue. [[Thistle]] revealed cultists were seeking "Thassa" and spellcasters who could "bind someone." [[Modred_De_Moray|Modred]] received an urgent divine warning from Tyr about [[Tharizdun]]'s acceleration. The party learned [[Godwin_De_Moray]] visited the Temple of Tyr sober, asking for his son. After strategic planning with [[Ammalia_Castellers|Ammalia]] and [[Raenar_Neverember|Raenar]], the party rested and leveled to 6, preparing for a 4am assault on the Castellers basement.
@@ -29,13 +29,13 @@ tags:
 ### Returning NPCs
 - **[[Morgane]]** - Priestess of Tyr, [[Modred_De_Moray|Modred]]'s mother. Examined [[Thistle]] for corruption (found none), revealed [[Godwin_De_Moray|Godwin]]'s sober visit asking for [[Modred_De_Moray|Modred]].
 - **[[Thistle]]** - [[Clover]]'s sister. Freed from magical trance, revealed cultists were seeking "Thassa" and "strong spellcasters that could bind someone."
-- **[[Raenar Neverember]]** - [[Lord_Neverember]]'s son. Learned his father is imprisoned in the Castellers basement; joined rescue planning. Flirted awkwardly with [[Ammalia_Castellers|Ammalia]].
-- **[[Ammalia Castellers]]** - [[Victor_Castellers|Victor]]'s wife. Provided intel about [[Sebastian]]'s black hand, agreed to command house guards for the rescue mission.
+- **[[Raenar_Neverember|Raenar Neverember]]** - [[Lord_Neverember]]'s son. Learned his father is imprisoned in the Castellers basement; joined rescue planning. Flirted awkwardly with [[Ammalia_Castellers|Ammalia]].
+- **[[Ammalia_Castellers|Ammalia Castellers]]** - [[Victor_Castellers|Victor]]'s wife. Provided intel about [[Sebastian]]'s black hand, agreed to command house guards for the rescue mission.
 - **Castellers children** - Stressed and confused, being cared for at Temple of Tyr by priests.
-- **[[Daggers of the North]]** - Assigned to surveil Castellers mansion overnight.
+- **[[Daggers_of_the_North|Daggers of the North]]** - Assigned to surveil Castellers mansion overnight.
 - **[[Pogo]]** - [[Raenar_Neverember|Raenar]]'s golden retriever. Good boy.
 - **[[Tyr]]** - God of Justice. Appeared to [[Modred_De_Moray|Modred]] via black dog vision, warned about [[Tharizdun]]'s acceleration and "great power" in [[Waterdeep]].
-- **[[Godwin De Moray]]** - Mentioned only. Visited Temple of Tyr sober, asking to see [[Modred_De_Moray|Modred]].
+- **[[Godwin_De_Moray|Godwin De Moray]]** - Mentioned only. Visited Temple of Tyr sober, asking to see [[Modred_De_Moray|Modred]].
 
 ## Places Visited
 
@@ -65,7 +65,7 @@ tags:
 - Busy evening crowd with music and dining
 - [[Raenar_Neverember|Raenar]] found in corner with dog [[Pogo]]
 - Party's rented rooms upstairs
-- [[Milo_Swiftclock|Milo]] checked the [[Mysterious Shrine Chest]] (still locked)
+- [[Milo_Swiftclock|Milo]] checked the [[Mysterious_Shrine_Chest|Mysterious Shrine Chest]] (still locked)
 - Owner [[Tibon]] named for first time
 
 **Notable Events:**
@@ -82,7 +82,7 @@ tags:
 
 | Item | Description | Holder |
 |------|-------------|--------|
-| None new this session | [[Mysterious Shrine Chest]] from Session 21 remains unopened | [[Milo_Swiftclock|Milo]] |
+| None new this session | [[Mysterious_Shrine_Chest|Mysterious Shrine Chest]] from Session 21 remains unopened | [[Milo_Swiftclock|Milo]] |
 
 ## Key Events Timeline
 

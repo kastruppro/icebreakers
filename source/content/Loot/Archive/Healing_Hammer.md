@@ -25,7 +25,7 @@ tags:
 
 ## Description
 
-A magical hammer discovered on the frozen mountain where [[Liora Swiftclock]] was found. The hammer had been stolen by Liora and [[Cora]] as part of their activities connected to the cult of [[Tharizdun]].
+A magical hammer discovered on the frozen mountain where [[Liora_Swiftclock|Liora Swiftclock]] was found. The hammer had been stolen by Liora and [[Cora]] as part of their activities connected to the cult of [[Tharizdun]].
 
 ## The Ruby Gem
 
@@ -41,6 +41,6 @@ The gem likely contained the same enchantment as the ruby later placed in Milo's
 
 ## Connections
 
-- [[Liora Swiftclock]] - Stole the hammer with Cora
+- [[Liora_Swiftclock|Liora Swiftclock]] - Stole the hammer with Cora
 - [[Cora]] - Helped steal the hammer
-- [[Milo Swiftclock]] - Kept the gem, uses it for time magic
+- [[Milo_Swiftclock|Milo Swiftclock]] - Kept the gem, uses it for time magic

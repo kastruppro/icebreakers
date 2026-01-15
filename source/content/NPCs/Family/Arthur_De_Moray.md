@@ -33,7 +33,7 @@ Young human noble from House De Moray. Currently in a semi-conscious state due t
 
 ## Current Condition
 - **Shadow Possession**: A shadow entity inhabits his body
-- **Magical Containment**: [[Master Tiberius Gearwhistle]] placed protective wards
+- **Magical Containment**: [[Master_Tiberius_Gearwhistle|Master Tiberius Gearwhistle]] placed protective wards
 - **Location**: Being kept safe at the Swiftclock family home in Neverwinter
 - **The entity threatened**: "He will make a fine vessel for Tharizdun"
 
@@ -47,14 +47,14 @@ Young human noble from House De Moray. Currently in a semi-conscious state due t
 The entity possessing Arthur said "He will make a fine vessel for Tharizdun." It can cast powerful magic including illusions that trap victims in false realities.
 
 ## Secrets/Motivations
-- Arthur and his father [[Godwin De Moray]] investigated a cult and found a ritual in progress
+- Arthur and his father [[Godwin_De_Moray|Godwin De Moray]] investigated a cult and found a ritual in progress
 - He doesn't remember anything after that encounter
 - The shadow entity's full purpose remains unknown
 - His connection to the cult may be deeper than victim
 
 ## Connections
-- [[Modred De Moray]] - Older brother (party member)
-- [[Godwin De Moray]] - Father (estranged, mad)
-- [[Master Tiberius Gearwhistle]] - Placed protective wards
-- [[Liora Swiftclock]] - Currently at same home
+- [[Modred_De_Moray|Modred De Moray]] - Older brother (party member)
+- [[Godwin_De_Moray|Godwin De Moray]] - Father (estranged, mad)
+- [[Master_Tiberius_Gearwhistle|Master Tiberius Gearwhistle]] - Placed protective wards
+- [[Liora_Swiftclock|Liora Swiftclock]] - Currently at same home
 - [[Tharizdun]] - Shadow entity serves him

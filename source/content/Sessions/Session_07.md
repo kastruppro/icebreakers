@@ -18,7 +18,7 @@ tags:
 ![[attachments/session07.png]]
 
 **Date:** 2024-XX-XX
-**Party Present:** [[Milo Swiftclock]], [[Jaspar Starshade]], [[Auren]] (absent: [[Modred_De_Moray|Sir Modred De Moray]])
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Jaspar_Starshade|Jaspar Starshade]], [[Auren]] (absent: [[Modred_De_Moray|Sir Modred De Moray]])
 
 ## Quick Summary
 > The party entered [[Axeholm]], fought ice skeletons and a stone giant, met the dwarf [[Braum]] who accused [[Milo_Swiftclock|Milo]] of theft, and discovered a triangular portal. Using the Luxon fragment and ritual, they passed through [[The_Void|the Void]] where each was tempted by false divine beings showing visions of their deepest fears and desires. They emerged on a [[Mountain_Top|mountain top]] to witness [[Liora_Swiftclock|Liora]] frozen mid-struggle with [[Cora]], and the hammer's power unleashing the wave of ice that had plagued the land.
@@ -30,7 +30,7 @@ tags:
 - **[[Thistle_Feywild|Thistle (Feywild)]]** - Eladrin Male - [[Auren]]'s friend from the [[Feywild]], contacted him during meditation. Warned about an omen: "If a man is released, the forest will burn."
 
 ### Returning NPCs
-- **[[Liora Swiftclock]]** - First seen frozen on the [[Mountain_Top|mountain top]] with [[Cora]]
+- **[[Liora_Swiftclock|Liora Swiftclock]]** - First seen frozen on the [[Mountain_Top|mountain top]] with [[Cora]]
 - **[[Cora]]** - Dark-clothed woman, frozen mid-struggle trying to grab the hammer
 
 ## Places Visited
@@ -55,7 +55,7 @@ tags:
 - Snow coming through wall with triangular symbol
 - Party performed ritual using Luxon fragment and scimitar with [[Mysterious_Shrine_Chest|mysterious]] substance
 
-### [[The Void]]
+### [[The_Void|The Void]]
 **[[Auren]]'s Vision:**
 - Saw his forest home burning
 - His people fleeing, screaming his name
@@ -80,7 +80,7 @@ tags:
 - Claimed he created [[Jaspar_Starshade|Jaspar]] to save the world
 - [[Jaspar_Starshade|Jaspar]] asked for time to think before following
 
-### [[Mountain Top]]
+### [[Mountain_Top|Mountain Top]]
 **The Frozen Scene:**
 - [[Liora_Swiftclock|Liora]] and [[Cora]] frozen mid-struggle over the hammer
 - Hammer embedded in [[Mountain_Top|mountain]] floor
@@ -92,7 +92,7 @@ tags:
 | Item | Description | Holder |
 |------|-------------|--------|
 | Ritual Knowledge | [[Milo_Swiftclock|Milo]] learned the ritual words from [[Auren]] | [[Milo_Swiftclock|Milo]] |
-| [[Healing Hammer]] | Heirloom with crystal, healing powers and strong magic (stolen from [[Braum]]) | Frozen on [[Mountain_Top|mountain]] |
+| [[Healing_Hammer|Healing Hammer]] | Heirloom with crystal, healing powers and strong magic (stolen from [[Braum]]) | Frozen on [[Mountain_Top|mountain]] |
 
 ## Key Events Timeline
 

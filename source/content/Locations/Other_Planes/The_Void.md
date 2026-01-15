@@ -55,7 +55,7 @@ Those who enter feel the worst despair, loss, and nothingness before their perso
 
 ## Connections
 - [[Axeholm]] - Entry point through triangular portal
-- [[Mountain Top]] - Exit point for the party
+- [[Mountain_Top|Mountain Top]] - Exit point for the party
 - [[Tharizdun]] - The Chained One resides here or can be glimpsed from here
-- [[Lord Neverember]] - Used the same triangular portal symbol when he fell
+- [[Lord_Neverember|Lord Neverember]] - Used the same triangular portal symbol when he fell
 - Triangular Portal Magic - The same symbols used by the Chained cult

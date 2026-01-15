@@ -41,6 +41,6 @@ Professional craftsman. Takes pride in his work.
 - Previous client: Raenar Neverember
 
 ## Connections
-- [[Raenar Neverember]] - Previous customer (made his armor)
+- [[Raenar_Neverember|Raenar Neverember]] - Previous customer (made his armor)
 - [[Gigz]] - Neighbor merchant at the square
-- [[Jaspar Starshade]] - Sold armor to him
+- [[Jaspar_Starshade|Jaspar Starshade]] - Sold armor to him

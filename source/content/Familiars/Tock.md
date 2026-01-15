@@ -14,7 +14,7 @@ tags:
 ![[attachments/tock.png]]
 ## Quick Reference
 **Creature:** Owl
-**Owner:** [[Milo Swiftclock]]
+**Owner:** [[Milo_Swiftclock|Milo Swiftclock]]
 **Status:** Active
 
 ## Stat Block

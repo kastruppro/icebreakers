@@ -54,10 +54,10 @@ Morgane performed a thorough magical examination on Thistle, her hands emanating
 She also revealed crucial information about Godwin: he had visited the Temple of Tyr some days earlier, while sober (a rarity), and specifically asked for Modred. She noted he "didn't look good" but was clearly making an effort. She left the decision to meet him up to Modred, acknowledging their complicated history.
 
 ## Connections
-- [[Modred De Moray]] - Son (party member)
-- [[Godwin De Moray]] - Former husband (now reaching out while sober)
-- [[Arthur De Moray]] - Other son (currently possessed)
+- [[Modred_De_Moray|Modred De Moray]] - Son (party member)
+- [[Godwin_De_Moray|Godwin De Moray]] - Former husband (now reaching out while sober)
+- [[Arthur_De_Moray|Arthur De Moray]] - Other son (currently possessed)
 - [[Tyr]] - Serves this god
 - [[Thistle]] - Currently under her care at the temple
-- [[Ammalia Castellers]] - Currently at the temple
+- [[Ammalia_Castellers|Ammalia Castellers]] - Currently at the temple
 - [[House_of_Justice|Temple of Tyr]] - Serves here as priestess

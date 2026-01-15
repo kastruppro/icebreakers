@@ -23,9 +23,9 @@ The organized worship of [[Oghma]], God of Knowledge, Bards, and Inspiration. Th
 | Name | Role | Status |
 |------|------|--------|
 | [[Oghma]] | God of Knowledge | Divine |
-| [[Master Tiberius Gearwhistle]] | High Priest/Inventor | Alive |
-| [[Elira Moonshadow]] | Temple servant | Alive |
-| [[Professor Thaddeus Blackthorn]] | Scholar | Alive (suspicious) |
+| [[Master_Tiberius_Gearwhistle|Master Tiberius Gearwhistle]] | High Priest/Inventor | Alive |
+| [[Elira_Moonshadow|Elira Moonshadow]] | Temple servant | Alive |
+| [[Professor_Thaddeus_Blackthorn|Professor Thaddeus Blackthorn]] | Scholar | Alive (suspicious) |
 
 ## House of Knowledge
 A temple-library in Neverwinter that serves as the center of Oghma's worship. Contains:
@@ -41,9 +41,9 @@ In Session 10, when Milo confronted Oghma's statue in anger, the god answered di
 - Confirmed the party's plan to travel to Waterdeep was correct
 
 ## Suspicious Elements
-[[Professor Thaddeus Blackthorn]] - Noted as suspicious in relation to the cult investigation. His role and potential involvement remain unclear.
+[[Professor_Thaddeus_Blackthorn|Professor Thaddeus Blackthorn]] - Noted as suspicious in relation to the cult investigation. His role and potential involvement remain unclear.
 
 ## Connections
-- [[Milo Swiftclock]] - Apparent chosen champion, granted Fey Touched
+- [[Milo_Swiftclock|Milo Swiftclock]] - Apparent chosen champion, granted Fey Touched
 - [[Tharizdun]] - Opposed deity (knowledge vs chaos/madness)
 - [[Swiftclock_Home|Swiftclock Family]] - Connected through Milo's research into the cult

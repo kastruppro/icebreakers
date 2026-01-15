@@ -48,7 +48,7 @@ A beautiful and serene temple dedicated to Desna, goddess of dreams, stars, trav
 
 ## Connections
 - [[Daggerford]] - Temple located in this town
-- [[House Castellers]] - Dream Staff acquired here was used there to save Thistle
+- [[House_Castellers|House Castellers]] - Dream Staff acquired here was used there to save Thistle
 
 ## Notes
 The Temple of Desna operates without a formal hierarchy, reflecting the goddess's domains of freedom and wandering. The peaceful atmosphere makes it an ideal location for rest and recovery, particularly for those dealing with dream-related threats.

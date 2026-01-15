@@ -16,7 +16,7 @@ tags:
 # [[Waterdeep]] Arrival and Dark Revelations
 
 **Date:** 2025-10-09
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar_Starshade|Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > The party arrives in [[Waterdeep]] with [[Raenar_Neverember]], overwhelmed by the massive city ten times larger than [[Neverwinter]]. After meeting local merchants at [[Statue_Protectors_Square]], [[Modred_De_Moray|Modred]] confronts his broken father [[Godwin_De_Moray|Godwin]] at [[House_De_Moray]], learning his family has fallen apart since he left. At the [[Sated_Satyr_Inn]], the party officially names themselves "The [[The_Icebreakers]]" while discussing the upcoming masquerade. That night, [[Modred_De_Moray|Modred]] discovers his corruption from the portal has spread dramatically, and he races to the temples with [[Clover]] seeking help as [[Milo_Swiftclock|Milo]] and [[Jaspar_Starshade|Jaspar]] sleep.
@@ -27,14 +27,14 @@ tags:
 - **[[Gigz]]** - Gnome Male - Inventor at [[Gigz]] Gears. "When magic doesn't work, then the device would still work!"
 - **[[Savan]]** - Human Male - Mage at [[Sevarnas_Magic_Shop|Sevarna's Magic Shop]]. "You look very competent."
 - **[[Drox]]** - Minotaur Male - Armorsmith at [[The_Peppermint_Minotaur]]. Made [[Raenar_Neverember|Raenar]]'s armor.
-- **[[Godwin De Moray]]** - Human Male - [[Modred_De_Moray|Modred]]'s father, Lord of [[House_De_Moray]]. "I have no son. My son is gone. Leave."
+- **[[Godwin_De_Moray|Godwin De Moray]]** - Human Male - [[Modred_De_Moray|Modred]]'s father, Lord of [[House_De_Moray]]. "I have no son. My son is gone. Leave."
 - **[[Ulrik]]** - Human Male - Guard at [[House_De_Moray]]. "Oh come on, don't you see who it is? This is the son of [[Godwin_De_Moray|Godwin]]."
 - **[[Percy]]** - Human Male - Noble/thief, [[Modred_De_Moray|Modred]]'s childhood friend. "You used to be so fun, you know? You were at parties."
 - **[[Pogo]]** - Golden Retriever - [[Raenar_Neverember|Raenar]]'s dog. "Oh my god, you understand me!"
 - **satyr bartender** - Satyr Male - Innkeeper at Sated Satyr.
 
 ### Returning NPCs
-- **[[Raenar Neverember]]** - Led party through [[Waterdeep]]'s eastern gates and introduced them to the city
+- **[[Raenar_Neverember|Raenar Neverember]]** - Led party through [[Waterdeep]]'s eastern gates and introduced them to the city
 
 ## Places Visited
 
@@ -44,14 +44,14 @@ tags:
 - Overwhelming sensory experience: crowds, merchants, dogs, constant noise
 - Entered through eastern gates
 
-### [[Statue Protectors Square]]
+### [[Statue_Protectors_Square|Statue Protectors Square]]
 **Central Hub:**
 - Two massive protective statues that would animate to defend [[Waterdeep]] in war
 - Forest-Pointing Statue (Elven woman with bow, flowers in hair) gives cryptic riddle about the Pilgrim's Road
 - Sea-Pointing Statue (Human warrior with sword) speaks of treasure and faith
 - Starting point for the Pilgrim's Road - traditional journey for treasure hunting, religious experiences, and coming-of-age trials
 
-### [[House De Moray]]
+### [[House_De_Moray|House De Moray]]
 **[[Modred_De_Moray|Modred]]'s Family Estate:**
 - Located in North Ward noble district
 - Tall, imposing building with blue banners featuring two crossed swords, one aflame
@@ -59,7 +59,7 @@ tags:
 - [[Godwin_De_Moray|Godwin]] sits askew on throne in deplorable state - unkempt beard, unwashed, empty bottles scattered, foul smell
 - Empty throne beside him marks mother's absence
 
-### [[Sated Satyr Inn]]
+### [[Sated_Satyr_Inn|Sated Satyr Inn]]
 **Party Lodging:**
 - Fancy inn comparable to [[Neverwinter]]'s [[Moonstone_Mask]]
 - Satyr bartender with hooves

@@ -47,7 +47,7 @@ After the ice: Hectic, impatient, dismissive of those he considers unimportant. 
 - Elira warned the party about his strange behavior
 
 ## Connections
-- [[House of Knowledge]] - Place of work
+- [[House_of_Knowledge|House of Knowledge]] - Place of work
 - [[Sebastian]] - Advocates for his leadership
-- [[Master Tiberius Gearwhistle]] - Colleague (who confirmed his strange behavior)
-- [[Milo Swiftclock]] - Dismissive toward him specifically
+- [[Master_Tiberius_Gearwhistle|Master Tiberius Gearwhistle]] - Colleague (who confirmed his strange behavior)
+- [[Milo_Swiftclock|Milo Swiftclock]] - Dismissive toward him specifically

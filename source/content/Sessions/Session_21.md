@@ -16,7 +16,7 @@ tags:
 # Dream of Chains
 
 **Date:** 2026-01-07
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar_Starshade|Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > The party defeated the elemental chimera-beast in the [[Dream_Realm|dream realm]] by exploiting its adaptive nature with cold damage. [[Thistle]] was freed from her trance, but the party had to flee [[House_Castellers]] as [[Victor_Castellers|Victor]] arrived. [[Victor_Castellers|Victor]] was claimed by [[Tharizdun]] through a triangular portal, while [[Milo_Swiftclock|Milo]] discovered [[Lord_Neverember]] chained in a basement ritual. The party escaped with the Castellers children and a [[Mysterious_Shrine_Chest|mysterious shrine chest]].
@@ -24,11 +24,11 @@ tags:
 ## Characters Met
 
 ### Returning NPCs
-- **[[Victor Castellers]]** - Pursued party; claimed by [[Tharizdun]] via triangular portal before he could stop them
-- **[[Ammalia Castellers]]** - Revealed [[Victor_Castellers|Victor]]'s deal with "the four princes" of [[Tharizdun]]; helped party escape after witnessing husband's fate
+- **[[Victor_Castellers|Victor Castellers]]** - Pursued party; claimed by [[Tharizdun]] via triangular portal before he could stop them
+- **[[Ammalia_Castellers|Ammalia Castellers]]** - Revealed [[Victor_Castellers|Victor]]'s deal with "the four princes" of [[Tharizdun]]; helped party escape after witnessing husband's fate
 - **[[Thistle]]** - [[Clover]]'s sister, freed from magical trance when the dream-beast was slain
 - **[[Merin]]** - Tabaxi Rogue from [[Daggers_of_the_North]], assisted with infiltration and escape
-- **[[Lord Neverember]]** - Discovered chained in basement ritual circle, surrounded by cultists
+- **[[Lord_Neverember|Lord Neverember]]** - Discovered chained in basement ritual circle, surrounded by cultists
 
 ## Places Visited
 
@@ -61,7 +61,7 @@ tags:
 
 | Item | Description | Holder |
 |------|-------------|--------|
-| [[Mysterious Shrine Chest]] | Small but heavy chest from secret room behind painting | [[Milo_Swiftclock|Milo]] |
+| [[Mysterious_Shrine_Chest|Mysterious Shrine Chest]] | Small but heavy chest from secret room behind painting | [[Milo_Swiftclock|Milo]] |
 
 ## Key Events Timeline
 

@@ -44,16 +44,16 @@ Tharizdun is bound by eight chains. [[Tyr]]'s Gauntlets can destroy these chains
 An extensive network of followers seeks to free him:
 - [[Cora]] - Agent who escapes via triangular portals
 - [[Sebastian]] - Severely corrupted (fully black hands)
-- [[Victor Castellers]] - Made demon deal, working with cult
+- [[Victor_Castellers|Victor Castellers]] - Made demon deal, working with cult
 - Unknown others infiltrating noble houses
 
 ## Connections to Party
 - [[Thistle]] - Directly cursed by Tharizdun
-- [[Modred De Moray]] - Corruption spreading in fingers
-- [[Arthur De Moray]] - Shadow possession linked to him
-- [[Jaspar Starshade]] - Prophetic dreams may show his influence
+- [[Modred_De_Moray|Modred De Moray]] - Corruption spreading in fingers
+- [[Arthur_De_Moray|Arthur De Moray]] - Shadow possession linked to him
+- [[Jaspar_Starshade|Jaspar Starshade]] - Prophetic dreams may show his influence
 
 ## Connections
 - [[Tyr]] - Opposed; gauntlets can destroy chains
 - [[Desna]] - Opposed; provided Dream Staff to counter curse
-- [[Cora]], [[Sebastian]], [[Victor Castellers]] - Servants
+- [[Cora]], [[Sebastian]], [[Victor_Castellers|Victor Castellers]] - Servants

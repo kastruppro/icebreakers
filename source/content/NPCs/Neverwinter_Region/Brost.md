@@ -23,7 +23,7 @@ tags:
 **Race/Gender:** Human Male
 **Role:** Owner of The Thirsty Goat tavern
 **Status:** Alive
-**Current Location:** [[Neverwinter]] ([[The Thirsty Goat]])
+**Current Location:** [[Neverwinter]] ([[The_Thirsty_Goat|The Thirsty Goat]])
 
 ## Description
 A friendly tavern keeper who owns The Thirsty Goat in Neverwinter. He has been hospitable to the party, offering rooms and serving as a reliable innkeeper.
@@ -36,5 +36,5 @@ Hospitable and business-minded. Provides good service without asking too many qu
 - Session 10: Received rum bottles as a gift from the party
 
 ## Connections
-- [[The Thirsty Goat]] - Owns and operates the tavern
+- [[The_Thirsty_Goat|The Thirsty Goat]] - Owns and operates the tavern
 - [[Neverwinter]] - Business location

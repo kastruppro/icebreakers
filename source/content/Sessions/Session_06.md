@@ -16,7 +16,7 @@ tags:
 # Pirates and Dragons
 
 **Date:** unknown
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Auren]]
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar_Starshade|Jaspar Starshade]], [[Auren]]
 
 ## Quick Summary
 > The party looted a [[Frozen_Pirate_Ship|frozen pirate ship]] in [[Neverwinter]] harbor, finding gold, a treasure map, and moonstones. After selling their finds and purchasing a horse and carriage, they headed to [[Axeholm]] but witnessed the [[White_Dragon|white dragon]] fleeing a massive ring of frost expanding from the mountains. Their carriage was destroyed by ice spikes, forcing them to proceed on foot. At [[Axeholm]]'s entrance, they encountered the dragon eating a goat and had to sneak past it to reach safety inside.
@@ -29,11 +29,11 @@ tags:
 ### NPCs Mentioned
 - **Aron** - Human male, stable worker who sold the party a draft horse and carriage
 - **dwarf armorer** - Owner of Dependable Defenses, bought the [[Moonstone_Mask|moonstone]] for 190 gp after [[Modred_De_Moray|Modred]]'s "persuasion"
-- **[[White Dragon]]** - Ancient [[White_Dragon|white dragon]], seen fleeing the freeze wave and later blocking [[Axeholm]]'s entrance
+- **[[White_Dragon|White Dragon]]** - Ancient [[White_Dragon|white dragon]], seen fleeing the freeze wave and later blocking [[Axeholm]]'s entrance
 
 ## Places Visited
 
-### [[The Thirsty Goat]]
+### [[The_Thirsty_Goat|The Thirsty Goat]]
 **Morning:**
 - [[Brost]] made the party breakfast
 - Discussion about the election happening that day

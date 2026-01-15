@@ -18,7 +18,7 @@ tags:
 ## Quick Reference
 **Status:** Completed (Found)
 **Priority:** Low (Resolved)
-**Quest Giver:** [[Milo Swiftclock]] (Personal Quest)
+**Quest Giver:** [[Milo_Swiftclock|Milo Swiftclock]] (Personal Quest)
 **Started:** Session 01
 
 ## Objective
@@ -48,8 +48,8 @@ Liora Swiftclock, Milo's sister, possessed prophetic visions that troubled her d
 - Closure on Milo's primary personal quest
 
 ## NPCs Involved
-- [[Milo Swiftclock]] - Quest giver, Liora's brother
-- [[Liora Swiftclock]] - The missing sister, now found
+- [[Milo_Swiftclock|Milo Swiftclock]] - Quest giver, Liora's brother
+- [[Liora_Swiftclock|Liora Swiftclock]] - The missing sister, now found
 - [[Cora]] - Was frozen alongside Liora, antagonist
 
 ## Locations

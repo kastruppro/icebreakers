@@ -25,10 +25,10 @@ tags:
 **Race/Gender:** Harengon Male
 **Role:** Milo's Father / Master Horologist
 **Status:** Alive
-**Current Location:** [[Swiftclock Home]], [[Neverwinter]]
+**Current Location:** [[Swiftclock_Home|Swiftclock Home]], [[Neverwinter]]
 
 ## Description
-Father of [[Milo Swiftclock]] and [[Liora Swiftclock]]. Husband of [[Serina Swiftclock]]. Runs a prestigious clock workshop in Neverwinter. His own father disappeared through a void portal.
+Father of [[Milo_Swiftclock|Milo Swiftclock]] and [[Liora_Swiftclock|Liora Swiftclock]]. Husband of [[Serina_Swiftclock|Serina Swiftclock]]. Runs a prestigious clock workshop in Neverwinter. His own father disappeared through a void portal.
 
 ## Personality
 Supportive of Serina in family decisions. When Serina was reluctant to reveal family secrets, his look of agreement convinced her it was time. Less vocal than Serina but clearly in agreement about the importance of finally sharing the truth with Milo.
@@ -45,8 +45,8 @@ Supportive of Serina in family decisions. When Serina was reluctant to reveal fa
 - May know more about the family's chronurgy/time magic connection
 
 ## Connections
-- [[Serina Swiftclock]] - Wife
-- [[Milo Swiftclock]] - Son
-- [[Liora Swiftclock]] - Daughter
-- [[Swiftclock Home]] - Residence and workshop
+- [[Serina_Swiftclock|Serina Swiftclock]] - Wife
+- [[Milo_Swiftclock|Milo Swiftclock]] - Son
+- [[Liora_Swiftclock|Liora Swiftclock]] - Daughter
+- [[Swiftclock_Home|Swiftclock Home]] - Residence and workshop
 - Milo's Grandfather (unnamed) - Father who disappeared through portal

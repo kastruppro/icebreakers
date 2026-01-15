@@ -43,5 +43,5 @@ Runs a busy establishment that caters to adventurers and travelers. The Sated Sa
 
 ## Connections
 - [[Sated_Satyr_Inn|Sated Satyr]] - Owns this establishment
-- [[Raenar Neverember]] - Regular patron
+- [[Raenar_Neverember|Raenar Neverember]] - Regular patron
 - [[The_Icebreakers|The Icebreakers]] - Rents rooms to the party

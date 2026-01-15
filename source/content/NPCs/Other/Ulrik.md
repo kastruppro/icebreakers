@@ -52,7 +52,7 @@ Timeline of De Moray family tragedy:
 9. Modred's mother left and joined House of Justice as priestess of Tyr
 
 ## Connections
-- [[Godwin De Moray]] - His lord/employer
-- [[Modred De Moray]] - Recognized him as Godwin's son
-- [[Arthur De Moray]] - Witnessed his transformation
+- [[Godwin_De_Moray|Godwin De Moray]] - His lord/employer
+- [[Modred_De_Moray|Modred De Moray]] - Recognized him as Godwin's son
+- [[Arthur_De_Moray|Arthur De Moray]] - Witnessed his transformation
 - [[Morgane]] - Knew she left for the House of Justice

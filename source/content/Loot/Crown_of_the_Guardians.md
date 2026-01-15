@@ -18,7 +18,7 @@ tags:
 *Wondrous item, legendary*
 
 ## Quick Reference
-**Holder:** [[Modred De Moray]]
+**Holder:** [[Modred_De_Moray|Modred De Moray]]
 **Acquired:** Session 4 (Neverwinter Castle)
 **Rarity:** Legendary
 
@@ -30,7 +30,7 @@ A crown containing the spirits of seven ghosts - the royal guard of [[Neverwinte
 
 In the dungeons of Neverwinter Castle, the party discovered a ghost chamber with ice formations and seven graves. One ghost was impaled by ice and in pain. When they helped it, seven ghosts manifested and spoke in unison.
 
-The ghosts warned Jaspar about his cursed sword - the same power that killed them. They offered the crown to [[Modred De Moray]], who accepted it without hesitation. The ghosts performed a ritual around the crown before departing into it.
+The ghosts warned Jaspar about his cursed sword - the same power that killed them. They offered the crown to [[Modred_De_Moray|Modred De Moray]], who accepted it without hesitation. The ghosts performed a ritual around the crown before departing into it.
 
 ## Properties
 
@@ -44,7 +44,7 @@ The ghosts were Neverwinter's royal guard across generations, killed by the cult
 
 ## Connections
 
-- [[Modred De Moray]] - Current holder
-- [[Lord Neverember]] - The ghosts served his predecessors
+- [[Modred_De_Moray|Modred De Moray]] - Current holder
+- [[Lord_Neverember|Lord Neverember]] - The ghosts served his predecessors
 - [[Neverwinter]] - Castle where it was found
 - Jaspar's cursed sword - Same power that killed the ghosts

@@ -113,7 +113,7 @@ An ancient underground temple dedicated to Tharizdun, the Chained One, an impris
 
 ## Connections
 - [[Waterdeep]] - Forest path leads to city
-- [[Statue Protectors Square]] - Guard post at forest entrance
+- [[Statue_Protectors_Square|Statue Protectors Square]] - Guard post at forest entrance
 - [[Tyr]] - Divine quest to retrieve gauntlets from this location
 - [[Godwin_De_Moray|Modred's Father]] - Previous failed expedition to this location with Arthur
 

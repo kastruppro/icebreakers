@@ -16,7 +16,7 @@ tags:
 # Divine Quests and Arena Glory
 
 **Date:** 2025-10-16
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar_Starshade|Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > The party split their morning activities in [[Waterdeep]]. [[Modred_De_Moray|Modred]] and [[Clover]] visited the [[House_of_Justice]] where they learned about [[Modred_De_Moray|Modred]]'s spreading corruption, reunited with his mother [[Morgane]], and received a divine vision from Tyr tasking them with retrieving his stolen gauntlets. Meanwhile, [[Milo_Swiftclock|Milo]] and [[Jaspar_Starshade|Jaspar]] went shopping and praying. After capturing a cultist in the forest and acquiring Swift Flower herbs, the party reunited and entered the [[Field_of_Triumph]] arena, winning their match with spectacular showmanship and earning tickets to [[House_Castellers]]' masquerade ball.
@@ -35,11 +35,11 @@ tags:
 - **[[Savan]]** - Runs [[Sevarnas_Magic_Shop|Sevarna's Magic Shop]]. Sold items to [[Milo_Swiftclock|Milo]].
 - **[[Gigz]]** - Gnome inventor at [[Gigz]] Gears. Created ball bearing device for [[Jaspar_Starshade|Jaspar]].
 - **[[Drox]]** - Minotaur armorsmith at [[The_Peppermint_Minotaur]]. Sold splint armor to [[Jaspar_Starshade|Jaspar]].
-- **[[Victor Castellers]]** - Leader of [[House_Castellers]]. Attended the arena match in upper pavilion. Did not clap for the party's victory.
+- **[[Victor_Castellers|Victor Castellers]]** - Leader of [[House_Castellers]]. Attended the arena match in upper pavilion. Did not clap for the party's victory.
 
 ## Places Visited
 
-### [[House of Justice]]
+### [[House_of_Justice|House of Justice]]
 **Temple of Tyr (10:30 PM):**
 - Old priest examined [[Modred_De_Moray|Modred]]'s blackened fingers
 - Corruption spread from fingertips to halfway up hands in one day
@@ -89,12 +89,12 @@ tags:
 - Opens after few seconds, spreads ball bearings
 - [[Gigz]] added small door for Light spell access
 
-### [[The Peppermint Minotaur]]
+### [[The_Peppermint_Minotaur|The Peppermint Minotaur]]
 - [[Jaspar_Starshade|Jaspar]] purchased splint armor from [[Drox]]
 - 200 gold for armor (New AC: 17)
 - Sold chain mail for 50 gold
 
-### [[Field of Triumph]]
+### [[Field_of_Triumph|Field of Triumph]]
 **Arena Registration:**
 - Registered as "The [[The_Icebreakers]]"
 - 4v4 non-lethal combat
@@ -111,7 +111,7 @@ tags:
 
 | Item | Description | Holder |
 |------|-------------|--------|
-| [[Sending Stones]] | Pair of communication stones | [[Milo_Swiftclock|Milo]] |
+| [[Sending_Stones|Sending Stones]] | Pair of communication stones | [[Milo_Swiftclock|Milo]] |
 | black mask with horns | Red eyes, socket for gem, +2 intimidation, with gem: 3 charges Wither & Bloom per long rest | [[Milo_Swiftclock|Milo]] |
 | ball bearing device | Opens after delay, spreads ball bearings, door for Light spell | [[Jaspar_Starshade|Jaspar]] |
 | splint armor | AC 17, purchased for 200g | [[Jaspar_Starshade|Jaspar]] |

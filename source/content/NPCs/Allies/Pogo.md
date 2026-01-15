@@ -45,5 +45,5 @@ Pogo's dreams are filled with:
 - A good boy's contentment
 
 ## Connections
-- [[Raenar Neverember]] - Owner and beloved master
+- [[Raenar_Neverember|Raenar Neverember]] - Owner and beloved master
 - [[Clover]] - Can communicate with via magic

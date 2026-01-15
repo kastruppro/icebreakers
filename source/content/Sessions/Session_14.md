@@ -16,7 +16,7 @@ tags:
 # Masquerade Preparations
 
 **Date:** 2025-10-23
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar Starshade]], [[Clover]]
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar_Starshade|Jaspar Starshade]], [[Clover]]
 
 ## Quick Summary
 > Following their arena victory, the [[The_Icebreakers]] received tickets to the Castellers Masquerade. They spent the day gathering intelligence about [[House_Castellers]]' suspicious rise to power, shopping for magical items and formal attire, and developing a strategic plan for infiltrating the party. [[Jaspar_Starshade|Jaspar]] began an apprenticeship with [[Erik_Phandalin|Erik]] the Dwarf to learn conduit magic, while the party learned critical information about the Castellers' missing children and their unexplained wealth.
@@ -29,14 +29,14 @@ tags:
 
 ### Returning NPCs
 - **[[Gigz]]** - Created improved ball bearing device; provided intel on [[House_Castellers]]' rapid rise to power and their missing children
-- **[[Raenar Neverember]]** - Directed party to Cece's shop; showed trust by letting [[Clover]] walk [[Pogo]]
+- **[[Raenar_Neverember|Raenar Neverember]]** - Directed party to Cece's shop; showed trust by letting [[Clover]] walk [[Pogo]]
 - **[[Pogo]]** - Rolled natural 20 on handstand trick; went for walk with [[Clover]]
 - **[[Savan]]** - Confirmed spellbook can function as arcane focus; sold magic items to [[Clover]]
-- **[[Victor Castellers]]** - Observed in announcer's box; notably did NOT clap for party's victory and left immediately
+- **[[Victor_Castellers|Victor Castellers]]** - Observed in announcer's box; notably did NOT clap for party's victory and left immediately
 
 ## Places Visited
 
-### [[Field of Triumph]]
+### [[Field_of_Triumph|Field of Triumph]]
 **Post-Arena Victory:**
 - [[Modred_De_Moray|Modred]] addressed crowd: "I am [[Modred_De_Moray|Modred]] Demore of the House of Demore. I'm back in the city. Remember this."
 - [[Victor_Castellers]] observed from announcer's box, refused to clap, left immediately
@@ -85,7 +85,7 @@ tags:
 - [[Modred_De_Moray|Modred]] (7g): Purple silk with golden threads, floral patterns (fleur-de-lis)
 - [[Clover]] (6g): Green/leafy nature-themed, red/green colors, sticks incorporated
 
-### [[Sated Satyr Inn]]
+### [[Sated_Satyr_Inn|Sated Satyr Inn]]
 **Strategic Planning:**
 - Party debated priorities: ruins vs masquerade first
 - [[Jaspar_Starshade|Jaspar]] argued masquerade first - may find cult connections, better intel
@@ -95,8 +95,8 @@ tags:
 
 | Item | Description | Holder |
 |------|-------------|--------|
-| [[Staff of the Python]] | Transforms to poisonous snake for 1 minute | [[Clover]] |
-| [[Hat of Vermin]] | Summons bat/frog/rat, 3 charges/day | [[Clover]] |
+| [[Staff_of_the_Python|Staff of the Python]] | Transforms to poisonous snake for 1 minute | [[Clover]] |
+| [[Hat_of_Vermin|Hat of Vermin]] | Summons bat/frog/rat, 3 charges/day | [[Clover]] |
 | Gleaming Hide Armor | Never dirty, +2 persuasion | [[Clover]] |
 | improved ball bearing device | Faster deployment mechanism | [[Jaspar_Starshade|Jaspar]] |
 

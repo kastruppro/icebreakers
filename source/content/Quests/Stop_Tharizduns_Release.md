@@ -110,7 +110,7 @@ Tharizdun's influence manifests as physical corruption:
 - [[Tyr]] - God of Justice, guiding the party against Tharizdun
 - [[Tharizdun]] - The Chained God, the ultimate threat
 - [[Sebastian]] - Corrupted cult member
-- [[Victor Castellers]] - Claimed by Tharizdun
+- [[Victor_Castellers|Victor Castellers]] - Claimed by Tharizdun
 - "The Four Princes" - Unknown entities connected to Tharizdun
 - Unknown Druids (2) - Participating in rituals
 - Cloaked Cultists - Foot soldiers of the cult

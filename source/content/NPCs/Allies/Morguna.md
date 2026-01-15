@@ -39,11 +39,11 @@ Trusting and open, perhaps to a fault according to her companion Leena. Morguna 
 > "Rafael our friend had a lot of nightmares about chains and some weird demon." - Session 19
 
 ## History with Party
-- Session 17: First encountered the The Icebreakers; suggested they visit the [[Temple of Desna]]
+- Session 17: First encountered the The Icebreakers; suggested they visit the [[Temple_of_Desna|Temple of Desna]]
 - Session 19-20: Shared critical intelligence about cult ruins located in the marsh; showed the party the vial of corruption substance her group had collected
 - Session 20: Last seen in Waterdeep, continuing Daggers of the North operations
 
 ## Connections
 - [[Leena]] - Fellow Daggers of the North member, who thinks Morguna is too naive and trusting
 - [[Merin]] - Fellow Daggers of the North member, positioned as lookout at House Castellers
-- [[Daggers of the North]] - Organization she leads, investigating cult activity
+- [[Daggers_of_the_North|Daggers of the North]] - Organization she leads, investigating cult activity

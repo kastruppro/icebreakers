@@ -16,7 +16,7 @@ tags:
 # [[Neverwinter]] Lockdown
 
 **Date:** 2024-02-07
-**Party Present:** [[Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Auren]] (former party member), [[Jaspar Starshade]] (first meeting)
+**Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Auren]] (former party member), [[Jaspar_Starshade|Jaspar Starshade]] (first meeting)
 
 ## Quick Summary
 > The party arrived at [[Neverwinter]] to find the city in crisis - the ice dragon had frozen citizens in time. After meeting the silver-haired rogue [[Jaspar_Starshade]] at the [[Moonstone_Mask]], they joined a search party for the missing [[Lord_Neverember]]. At [[Neverwinter_Castle]], they battled ice skeletons to protect the partially-frozen lord, only to watch helplessly as he fell through a collapsing floor and was swallowed by a [[Mysterious_Shrine_Chest|mysterious]] portal. In the castle's basement, they discovered the screaming ghosts of the Guardians of Nine.
@@ -26,8 +26,8 @@ tags:
 ### New NPCs
 - **Lucas** - Human Male - [[Neverwinter]] city guard who escorted the party through the frozen city to the [[Moonstone_Mask]]
 - **[[Liset]]** - Human Female - Proprietor of the [[Moonstone_Mask]]. "The ice happened when the dragon came by yesterday."
-- **[[Jaspar Starshade]]** - Aasimar Male - Silver-haired rogue with dark eyes wearing black leather. First met trying to sell fake "unfreezing potion." Steals from the rich to help street children.
-- **[[Lord Neverember]]** - Human Male - Ruler of [[Neverwinter]], found frozen on his throne
+- **[[Jaspar_Starshade|Jaspar Starshade]]** - Aasimar Male - Silver-haired rogue with dark eyes wearing black leather. First met trying to sell fake "unfreezing potion." Steals from the rich to help street children.
+- **[[Lord_Neverember|Lord Neverember]]** - Human Male - Ruler of [[Neverwinter]], found frozen on his throne
 - **loyal guard** - Human Male - Neverember's personal guard who cut off his own arm to protect his lord
 
 ### Returning NPCs
@@ -41,7 +41,7 @@ tags:
 - [[Milo_Swiftclock|Milo]] presented himself as a citizen to gain entry
 - Party warned the city is dangerous at night
 
-### [[Moonstone Mask]]
+### [[Moonstone_Mask|Moonstone Mask]]
 **The Floating Inn:**
 - A magical building that floats above [[Neverwinter]]
 - Moon illuminates it from behind at night
@@ -50,7 +50,7 @@ tags:
 - Met [[Jaspar_Starshade|Jaspar]] trying to sell fake unfreeze potion
 - Quest board available with city tasks
 
-### [[Neverwinter Castle]]
+### [[Neverwinter_Castle|Neverwinter Castle]]
 **The Frozen Throne:**
 - Castle lifted high by ice spikes
 - Bridges to the castle destroyed

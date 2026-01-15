@@ -54,8 +54,8 @@ The Jewel of the North, Neverwinter is a major city on the Sword Coast and the p
 ## NPCs Found Here
 - [[Sebastian]] - New leader of Neverwinter, corrupted by Tharizdun (fully black hands)
 - [[Liset]] - Party contact
-- [[Master Tiberius Gearwhistle]] - Ally
-- [[Elira Moonshadow]] - Contact
+- [[Master_Tiberius_Gearwhistle|Master Tiberius Gearwhistle]] - Ally
+- [[Elira_Moonshadow|Elira Moonshadow]] - Contact
 - [[Swiftclock_Home|Milo's Family]] - The Swiftclock family
 
 ## Events at This Location
