@@ -48,15 +48,15 @@ The overarching plot involves [[The_Chained|the Chained cult]] attempting to fre
 | 12 | [[Session_12_Waterdeep_Arrival\|Waterdeep Arrival]] |
 | 11 | [[Session_11_Through_the_Void_to_Waterdeep\|Through the Void to Waterdeep]] |
 | 10 | [[Session_10_Divine_Intervention\|Divine Intervention]] |
-| 9 | [[Session_09_Shadows_and_Elections\|Session 09: Shadows and Elections]] |
-| 8 | [[Session_08_The_Chained_Released\|Session 08: The Chained Released]] |
-| 7 | [[Session_07_Through_the_Void\|Session 07: Through the Void]] |
-| 6 | [[Session_06_Pirates_and_Dragons\|Session 06: Pirates and Dragons]] |
-| 5 | [[Session_05_Politics_and_Prophecy\|Session 05: Politics and Prophecy]] |
-| 4 | [[Session_04_Ghosts_of_the_Crown\|Session 04: Ghosts of the Crown]] |
-| 3 | [[Session_03_Neverwinter_Lockdown\|Session 03: Neverwinter Lockdown]] |
-| 2 | [[Session_02_Frozen_Forest_Frozen_Sea\|Session 02: Frozen Forest Frozen Sea]] |
-| 1 | [[Session_01_The_Dragons_First_Pass\|Session 01: The Dragons First Pass]] |
+| 9 | [[Session_09_Shadows_and_Elections\|Shadows and Elections]] |
+| 8 | [[Session_08_The_Chained_Released\|The Chained Released]] |
+| 7 | [[Session_07_Through_the_Void\|Through the Void]] |
+| 6 | [[Session_06_Pirates_and_Dragons\|Pirates and Dragons]] |
+| 5 | [[Session_05_Politics_and_Prophecy\|Politics and Prophecy]] |
+| 4 | [[Session_04_Ghosts_of_the_Crown\|Ghosts of the Crown]] |
+| 3 | [[Session_03_Neverwinter_Lockdown\|Neverwinter Lockdown]] |
+| 2 | [[Session_02_Frozen_Forest_Frozen_Sea\|Frozen Forest Frozen Sea]] |
+| 1 | [[Session_01_The_Dragons_First_Pass\|The Dragons First Pass]] |
 
 ---
 

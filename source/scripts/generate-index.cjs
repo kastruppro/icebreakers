@@ -62,7 +62,10 @@ function generateSessions() {
   let table = '| # | Session |\n|---|---------|';
   for (const s of sessions) {
     const num = getSessionNum(s);
-    const title = displayName(s).replace(`Session ${num}: `, '');
+    // Remove "Session XX: " prefix (handles both "Session 1:" and "Session 01:")
+    const title = displayName(s)
+      .replace(/^Session \d+: /, '')
+      .replace(/^Session \d+/, '');
     table += `\n| ${num} | [[${s}\\|${title}]] |`;
   }
   return table;
