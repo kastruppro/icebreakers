@@ -35,6 +35,10 @@ jobs:
         run: chmod +x ./quartz/bootstrap-cli.mjs
         working-directory: ./source
 
+      - name: Generate index
+        run: node scripts/generate-index.cjs
+        working-directory: ./source
+
       - name: Ensure Quartz builds
         run: npx quartz build --bundleInfo
         working-directory: ./source
@@ -58,6 +62,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+
+      - name: Generate index
+        run: node scripts/generate-index.cjs
+        working-directory: ./source
 
       - name: Build Quartz
         run: |
