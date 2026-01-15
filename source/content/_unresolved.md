@@ -16,10 +16,10 @@
 - [ ] **Stop [[Tharizdun]]'s Release** - Main campaign objective
 
 ### Personal Quests
-- [x] **[[Milo_Swiftclock|Milo]]**: ~~Find sister [[Liora_Swiftclock|Liora]]~~ (Found [[Session_07|Session 7-8]], freed, now in [[Neverwinter]] with [[Arthur_De_Moray|Arthur]])
-- [ ] **[[Modred_De_Moray|Modred]]**: Reconcile with/confront father [[Godwin_De_Moray|Godwin]] (Met him broken in [[Session_12|Session 12]]; he asked to see [[Modred_De_Moray|Modred]] at temple in [[Session_22|Session 22]])
-- [ ] **[[Jaspar_Starshade|Jaspar]]**: Explore prophetic dreams (Connected to something even [[Desna]] cannot control)
-- [x] **[[Clover]]**: ~~Rescue sister [[Thistle]]~~ (Completed [[Session_21|Session 21]], now safe at [[House_of_Justice|Temple of Tyr]])
+- [x] **[[Milo_Swiftclock|Milo]]**: ~~[[Find_Liora|Find sister Liora]]~~ (Found [[Session_07|Session 7-8]], freed, now in [[Neverwinter]] with [[Arthur_De_Moray|Arthur]])
+- [ ] **[[Modred_De_Moray|Modred]]**: [[Modred_Father_Reconciliation|Reconcile with father Godwin]] (Met him broken in [[Session_12|Session 12]]; he asked to see [[Modred_De_Moray|Modred]] at temple in [[Session_22|Session 22]])
+- [ ] **[[Jaspar_Starshade|Jaspar]]**: [[Jaspar_Prophetic_Dreams|Explore prophetic dreams]] (Connected to something even [[Desna]] cannot control)
+- [x] **[[Clover]]**: ~~[[Rescue_Thistle|Rescue sister Thistle]]~~ (Completed [[Session_21|Session 21]], now safe at [[House_of_Justice|Temple of Tyr]])
 
 ### Optional Quests
 - [ ] **[[Percys_Heist|Percy's Heist]]** - Rob the "necromancer" in Waterdeep's northern tower (Offered [[Session_12|Session 12]], declined)
