@@ -36,15 +36,25 @@ The ghosts warned Jaspar about his cursed sword - the same power that killed the
 
 **Ghostly Aid.** When worn, the spirits of the Seven Ghosts can provide aid to the wearer.
 
+**Dispel Possession.** The Crown can temporarily break through Tharizdun's possession. In Session 24, Modred showed the Crown to possessed [[Lord_Neverember|Lord Neverember]] in [[The_Depths|The Depths]], and Neverember's eyes returned to normal. He briefly regained control, reached toward the crown, and said **"Run!"** before the entity reclaimed him. The extent of this power - whether it could permanently free someone with sustained exposure or ritual use - remains unknown.
+
 ==**Draining Effect Unknown.**==
 
 ## The Seven Ghosts
 
 The ghosts were Neverwinter's royal guard across generations, killed by the cult using the same power contained in Jaspar's sword.
 
+## Session History
+
+| Session | Event |
+|---------|-------|
+| 4 | Found in Neverwinter Castle. Seven Ghosts offered it to Modred, who accepted. |
+| 24 | Used against possessed Lord Neverember in The Depths. Briefly broke through Tharizdun's possession - Neverember regained control and said "Run!" before the entity seized him again. |
+
 ## Connections
 
 - [[Modred_De_Moray|Modred De Moray]] - Current holder
-- [[Lord_Neverember|Lord Neverember]] - The ghosts served his predecessors
+- [[Lord_Neverember|Lord Neverember]] - The ghosts served his predecessors; the Crown briefly freed him from Tharizdun's possession (Session 24)
 - [[Neverwinter]] - Castle where it was found
+- [[Tharizdun]] - The Crown can counter his possession magic, at least temporarily
 - Jaspar's cursed sword - Same power that killed the ghosts

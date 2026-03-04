@@ -2,27 +2,30 @@
 type: quest
 name: Investigate House Castellers
 campaign: neverwinter-icebreakers
-status: active
-priority: high
+status: completed
+priority: low
 quest_giver: Party Initiative
 started: Session 15
-last_updated: Session 22
+completed: Session 23
+last_updated: Session 23
 tags:
   - quest
   - campaign/icebreakers
   - investigation
   - corruption
   - tharizdun
+  - completed
 ---
 
 # Investigate House Castellers
 
 ## Quick Reference
-**Status:** Active (Assault Imminent)
-**Priority:** High (Ritual in Progress)
+**Status:** COMPLETED (Investigation Concluded)
+**Priority:** Low (Resolved)
 **Quest Giver:** Party Initiative
 **Started:** Session 15
-**Last Updated:** Session 22
+**Completed:** Session 23
+**Last Updated:** Session 23
 
 ## Objective
 Uncover House Castellers' connection to the cult and stop their ritual.
@@ -132,21 +135,65 @@ The party has completed planning for a 4am assault on the Castellers basement:
 - Ammalia may command house guards for access
 - Party is rested and at full strength (Level 6)
 
-## Next Steps
-1. Execute 4am assault on basement ritual chamber
-2. Rescue Lord Neverember
-3. Neutralize remaining cultists
-4. Examine the mysterious shrine/chest (Milo has it)
-5. Identify the two druids with flowers in hair
-6. Learn more about "the four princes" of Tharizdun
-7. Determine Sebastian's current status and location
+## Session 23 - Investigation Concluded
+
+### The 4am Assault
+
+The party executed the assault as planned:
+- Ammalia dismissed all house guards
+- Daggers of the North confirmed no one left overnight
+- Party descended with Ammalia and Raenar
+
+### Basement Cleared
+
+**Ritual Chamber (Empty):**
+- Massive Tharizdun statue depicted **unchained** (free) holding a chain going into a whirlpool
+- Pool identical to Clover's family's Moonlit Pool
+- Ritual circle with runes, altar tables with wine/daggers/candles
+- **No cultists, no Lord Neverember** - they had been moved
+
+**Sleeping Quarters:**
+- 6 cultists found sleeping
+- Milo cast Fireball (36 damage) - all killed
+- Hidden passage revealed behind burned wardrobe
+
+**Hidden Shrine:**
+- Small prayer room with Tharizdun statue
+- Triangular burn marks (portal escape route)
+- Modred destroyed the statue with Gauntlets of Tyr
+
+**Castellers Mausoleum:**
+- Family tombs with Sunfire Mace (claimed by Modred)
+
+### Investigation Complete
+
+All mysteries resolved:
+- [x] Cult operations exposed and disrupted
+- [x] Six cultists eliminated
+- [x] Hidden shrine discovered and destroyed
+- [x] Triangular portal network confirmed
+- [x] The Princes of Tharizdun book acquired (details four princes and four hideouts)
+- [x] Pool connection to Tharizdun worship confirmed
+- [x] Victor Castellers' fate confirmed (claimed by Tharizdun)
+- [x] Sebastian's involvement confirmed (whereabouts still unknown)
+
+### Remaining Threads (Transferred to Other Quests)
+
+These threads continue in other quests:
+- **Lord Neverember's rescue** - See [[Find_Lord_Neverember]] (location now unknown)
+- **Sebastian's location** - Unknown, may appear later
+- **The Four Princes identity** - Research needed from book
+- **The druids with flowers** - Not found in basement
+
+### Current Situation
+
+The party fell through the whirlpool into **The Depths** - a pocket dimension filled with dead adventurers and controlled by a Water Sphere Entity. Ammalia and Raenar remain above.
 
 ## Notes
-- The conspiracy is far deeper than initially suspected
-- An active ritual is being performed on Lord Neverember RIGHT NOW
-- Victor's removal may destabilize the cult's operations but the ritual continues
-- The connection to Thistle's captivity has been resolved
-- Ammalia is cooperating fully and may provide house guard access
-- The house's rapid rise to power was fueled by demonic pacts with "the four princes"
-- This investigation is now critical to saving Lord Neverember and stopping Tharizdun's plans
-- Tyr warned that "great power" is emanating from somewhere in Waterdeep - may be connected to Castellers
+- The conspiracy was fully exposed
+- House Castellers' cult operations in Waterdeep have been dismantled
+- Victor is gone (claimed by Tharizdun)
+- Sebastian's location remains unknown
+- Ammalia is cooperating and innocent of the cult activities
+- The investigation succeeded but Lord Neverember was already moved
+- This quest is COMPLETE - remaining threads moved to other quests

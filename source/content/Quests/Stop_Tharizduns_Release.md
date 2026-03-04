@@ -6,7 +6,7 @@ status: active
 priority: critical
 quest_giver: Tyr
 first_mentioned: Session 13
-last_updated: Session 22
+last_updated: Session 24
 tags:
   - quest
   - campaign/icebreakers
@@ -23,7 +23,7 @@ tags:
 **Priority:** WORLD-ENDING THREAT
 **Quest Giver:** [[Tyr]] (God of Justice)
 **First Mentioned:** Session 13
-**Last Updated:** Session 22
+**Last Updated:** Session 24
 
 ## Objective
 Prevent the cult of Tharizdun from freeing the Chained God and destroying the world.
@@ -60,7 +60,16 @@ Tyr appeared to Modred at the Temple of Tyr with an urgent warning:
 - [x] Discovered Lord Neverember in active Tharizdun ritual (Session 21)
 - [x] Victor Castellers claimed by Tharizdun - removed as cult agent (Session 21)
 - [x] Received urgent warning from Tyr about accelerating timeline (Session 22)
-- [ ] Rescue Lord Neverember from basement ritual
+- [x] Killed 6 cultists at House Castellers basement (Session 23)
+- [x] Destroyed hidden Tharizdun prayer shrine (Session 23)
+- [x] Acquired **The Princes of Tharizdun** book (Session 23)
+- [x] Found Lord Neverember in The Depths, possessed via necromancy by Tharizdun entity (Session 24)
+- [x] Learned new title for Tharizdun: **"the Maw"** (Session 24)
+- [x] Learned Clover unwittingly delivered "a prince of Tharizdun" to the cult (Session 24)
+- [x] Confirmed Clover's parents were killed deliberately by the cult (Session 24)
+- [ ] Defeat possessed Neverember + Water Elemental (boss fight imminent)
+- [ ] Free Lord Neverember from Tharizdun possession
+- [ ] Escape The Depths (party currently trapped)
 - [ ] Destroy chains at temple ruins south of Daggerford
 - [ ] Find and destroy chains at 3 other ruin locations
 - [ ] Identify "the four princes" of Tharizdun
@@ -100,6 +109,10 @@ Tharizdun's influence manifests as physical corruption:
 - Who are "the four princes" of Tharizdun?
 - What is the source of "great power" Tyr sensed in Waterdeep?
 - What is the cult's ultimate endgame?
+- What is the significance of Tharizdun being called **"the Maw"**? (new title, Session 24)
+- What "prince of Tharizdun" did Clover unwittingly deliver to the cult?
+- How does the necromancy-based possession of Lord Neverember serve Tharizdun's release?
+- Is the Water Sphere Entity in The Depths a servant of Tharizdun or something else?
 
 ## Related Quests
 - [[Tyrs_Gauntlets_Quest]] - Destroy chains at four ruins
@@ -115,15 +128,69 @@ Tharizdun's influence manifests as physical corruption:
 - Unknown Druids (2) - Participating in rituals
 - Cloaked Cultists - Foot soldiers of the cult
 
+## Session 23 - Major Progress and Setbacks
+
+### Cult Cells Destroyed
+The party raided the House Castellers basement and achieved significant victories:
+- **6 cultists killed** via Milo's Fireball (36 damage, sleeping cultists auto-failed saves)
+- **Hidden prayer shrine discovered and destroyed** - Modred shattered the Tharizdun statue with Gauntlets of Tyr
+- **Triangular portal burn marks found** - confirming cult uses these portals for escape/transport
+
+### The Princes of Tharizdun Book
+The party acquired a black book titled **The Princes of Tharizdun** from the hidden shrine they looted in Session 22. It contains:
+- Chapters about Tharizdun and his "Princes"
+- Names including "Bull Hydra" and other strange titles
+- References to **four princes** and **four hideouts**
+- This confirms earlier mentions and provides crucial intelligence about cult structure
+
+### The Pool Connection
+Clover discovered that the ritual pool in the Castellers basement is **identical** to the Moonlit Pool his family protected:
+- Same markings, same earthly feel with vines
+- Same protective magic setup
+- The corruption liquid (released by Modred) was drawn directly into the pool
+- This suggests a network of connected pools tied to divine/dark entities
+
+### Current Complication: The Depths
+The party fell through the whirlpool into a pocket dimension called **The Depths**:
+- Filled with dead adventurers in various states of decay
+- Controlled by a sentient **Water Sphere Entity** that splits into three parts
+- Currently trapped in a room filling with blood
+- Milo and Jaspar pulled underwater by unknown creature
+- Must escape before continuing other objectives
+
+### The Statue Symbolism
+The Tharizdun statue in the ritual chamber depicted him **unchained** - FREE, not bound. This is different from earlier depictions showing him in chains. The cult believes their victory is imminent.
+
 ## Urgency Assessment
 
 **CRITICAL** - Tyr has explicitly warned that Tharizdun is "moving fast in the shadows" and the party must "act swiftly" or face world destruction. This is not a slow-burn threat - the timeline is actively accelerating.
 
-### Immediate Priorities (Session 23+)
-1. Rescue Lord Neverember from basement ritual
-2. Travel to temple ruins south of Daggerford
-3. Destroy the chains using Gauntlets of Tyr
-4. Investigate source of power in Waterdeep
+### Immediate Priorities (Session 25+)
+1. **DEFEAT POSSESSED NEVEREMBER** + Water Elemental (boss fight imminent)
+2. **FREE LORD NEVEREMBER** from Tharizdun possession (necromancy/exorcism)
+3. **ESCAPE THE DEPTHS** (party trapped in pocket dimension)
+4. Travel to temple ruins south of Daggerford
+5. Destroy the chains using Gauntlets of Tyr
+6. Investigate source of power in Waterdeep
+7. Research The Princes of Tharizdun book for hideout locations and prince identities
+
+## Session 24 - New Intel on Tharizdun's Operations
+
+### Necromancy as a Tool
+The entity possessing Lord Neverember was detected using **necromancy** magic. This is the first confirmed instance of the cult using necromancy to directly control a powerful political figure. The possession allows the entity to speak through Neverember, use his body, and potentially access his authority.
+
+### "The Maw"
+The entity referred to Tharizdun as **"the Maw"** -- a new title not previously encountered. This may refer to Tharizdun's destructive, all-consuming nature.
+
+### The Prince of Tharizdun and Clover
+The entity claimed Clover unwittingly brought **"a prince of Tharizdun"** to the cult. Combined with The Princes of Tharizdun book found in Session 23, this confirms:
+- "Princes" are tangible things/entities that can be transported
+- Clover's family (Protectors of the Moonlit Pool) may have been guarding one
+- The parents were killed because they were "in the way" of obtaining it
+- The cult is actively collecting these princes as part of their plan
+
+### Modred's Corruption Targeted
+The entity tried to recruit Modred by appealing to his corrupted black fingers: *"I think you like it. I think you want the powers that he can give."* Modred firmly refused. The corruption continues to be a vector for Tharizdun's influence.
 
 ## Notes
 - This is the overarching campaign threat
@@ -131,3 +198,9 @@ Tharizdun's influence manifests as physical corruption:
 - The party has divine backing from Tyr but faces a god-level threat
 - Time is explicitly stated to be running out
 - Session 22 marked a turning point where urgency escalated significantly
+- Session 23: Party made progress (6 cultists, shrine destroyed, book acquired) but is now trapped in The Depths
+- Session 24: Found Neverember possessed, learned about "the Maw," princes of Tharizdun, and deliberate murder of Clover's parents
+- The unchained Tharizdun statue suggests the cult believes they are close to freeing him
+- The pool network may be key to understanding cult operations
+- The necromancy possession of Neverember shows the cult can control powerful individuals
+- Collecting "princes" appears to be central to Tharizdun's release plan

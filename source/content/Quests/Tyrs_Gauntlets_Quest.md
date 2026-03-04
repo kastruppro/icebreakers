@@ -6,7 +6,7 @@ status: active
 priority: critical
 quest_giver: Tyr
 started: Session 13
-last_updated: Session 22
+last_updated: Session 23
 tags:
   - quest
   - campaign/icebreakers
@@ -86,12 +86,24 @@ Tyr specifically reminded Modred about the temple ruins south of Daggerford:
 ### Current Party Decision
 The party chose to deal with the Lord Neverember rescue first (Session 22-23), then travel to the temple ruins south of Daggerford. This mission cannot be delayed much longer.
 
+## Session 23 - New Intelligence
+
+### The Princes of Tharizdun Book
+The party acquired a black book containing information about Tharizdun's "Princes" - entities including one called "Bull Hydra." Critically, the book mentions **four princes** and **four hideouts**. This may correspond to the four ruin locations.
+
+### Quest Delayed
+The party is currently trapped in The Depths (a pocket dimension beneath House Castellers). The journey to Daggerford must wait until they escape.
+
+### Gauntlets Used
+Modred used the Gauntlets of Tyr to punch and shatter a Tharizdun statue in the hidden shrine - demonstrating the gauntlets' power against Tharizdun-related artifacts.
+
 ## Notes
 - This is a divine quest with world-altering stakes
 - The gauntlets being sized for Clover suggests she is meant to wield them (Note: Session 22 says Modred has the gauntlets)
 - The Boon of Tyr adds tactical options for party healing
 - Destroying all chains is critical to stopping Tharizdun's return
 - Expect heavy cult resistance at each ruin
-- May need to investigate or gather information to locate the remaining three ruins
+- **The Princes of Tharizdun book may reveal the four ruin locations** - party should study it
 - **Session 22:** Tyr explicitly warned that time is running out - this quest is now CRITICAL priority
-- The party must address the Daggerford ruins immediately after the Neverember rescue
+- **Session 23:** Party trapped in The Depths - must escape before traveling to Daggerford
+- The party must address the Daggerford ruins as soon as they escape The Depths
