@@ -63,7 +63,9 @@ An owl familiar that exists outside normal time. Milo first noticed Tock appeari
 
 **[[Master_Tiberius_Gearwhistle|Master Tiberius Gearwhistle]]** *(Gnome Artificer/Wizard)*: Milo's former mentor. Their relationship fractured over Milo's experiments with the Luxon fragment, but Milo hopes to reconcile someday.
 
-**[[Elira_Moonshadow|Elira Moonshadow]]** *(High Elf Divination Wizard)*: An archivist at the House of Knowledge who has supported Milo's research.
+**[[Elira_Moonshadow|Elira Moonshadow]]** *(High Elf Divination Wizard)*: An archivist at the House of Knowledge who has supported Milo's research. Introduced Milo to Iliyasha Guidingstar, which led to his year at Sharandar.
+
+**[[Varek]]** *(Satyr Mason)*: Milo's main working partner during the Sharandar restoration. A satyr stonemason who works entirely by instinct and gut feeling - the opposite of Milo's diagramming and measuring approach. They annoyed each other constantly and got surprisingly good results together. Varek's advice to "stop treating the ruins like a patient on a table and start listening to them like music" turned out to be the breakthrough that let Milo actually learn chronomancy - he stopped trying to chart the stasis-wards analytically and started feeling the temporal rhythms through his Luxon fragment instead. Still at Sharandar as far as Milo knows.
 
 ## **Key Moments**
 

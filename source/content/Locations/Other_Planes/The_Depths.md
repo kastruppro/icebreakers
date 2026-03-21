@@ -6,7 +6,7 @@ region: Other Planes
 parent_location: House_Castellers
 location_type: plane
 first_visited: 23
-last_visited: 24
+last_visited: 25
 status: active
 tags:
   - location
@@ -50,8 +50,9 @@ The atmosphere is oppressive and ominous. The Water Sphere Entity's mocking laug
 - Three stairways lead to different rooms/challenges (right: Fountain Room, center: Illusion Room, left: Brazier Room)
 - The Water Sphere Entity splits into three smaller spheres, each taking a different path
 - **THREE-PILLAR MECHANISM:** Each stone pillar lights up when its corresponding room's challenge is completed and its water sphere returns
-- **FINAL TRIGGER:** When all three pillars are lit, the three water spheres create a massive vortex of water spinning between the pillars, summoning a Water Elemental. [[Lord Neverember]] (possessed, with red/purple corruption goo) emerged from within the Water Elemental. Necromancy magic detected on him.
-- This is where the boss fight will begin in Session 25
+- **FINAL TRIGGER:** When all three pillars are lit, the three water spheres create a massive vortex of water spinning between the pillars, summoning a Water Elemental called [[Old Hydra]] ("Bullhydra"). [[Lord Neverember]] (possessed, with red/purple corruption goo) emerged from within the Water Elemental. Necromancy magic detected on him.
+- **BOSS ARENA (Session 25):** The chamber served as the arena for the fight against Old Hydra and possessed Lord Neverember. The three stone pillars generated environmental hazards during combat -- first a thunderstorm (lightning damage in a circle, DC 17 Con save) and then blizzard zones (flat cold damage, no save). The blizzard nearly caused a TPK, knocking out Milo and Modred simultaneously while forcing Clover out of his Wild Shape.
+- **POST-COMBAT:** After Modred destroyed Old Hydra with the [[Sunfire Mace]] and Jaspar landed the final blow on Neverember, the Tharizdun corruption (purple/red goo) left Neverember's body and swirled into the air, forming a triangular portal to [[The Void]]. Through the portal, a massive chain hangs from the air ending at the floor, with screams echoing from within.
 
 ### Fountain Room (Right Path - Completed Session 24)
 - Oval-shaped room accessed via the right stairway
@@ -94,7 +95,8 @@ The atmosphere is oppressive and ominous. The Water Sphere Entity's mocking laug
 ## NPCs Found Here
 
 - [[Water Sphere Entity]] - Sentient water being that controls this realm, splits into three forms, fills rooms with blood, and treats adventurers as prey in a deadly game. *"More adventurers has come to die. Well, let the games begin."* / *"I guess I underestimated you all."*
-- [[Lord Neverember]] - Found possessed in The Depths after all three challenges were completed. Red/purple corruption goo emanates from him. An entity connected to [[Tharizdun]] speaks through him with a layered voice. Briefly broke free when shown the [[Crown of the Guardians]] and said *"Run!"*
+- [[Lord Neverember]] - Found possessed in The Depths after all three challenges were completed. Red/purple corruption goo emanated from him. An entity connected to [[Tharizdun]] spoke through him with a layered voice. Freed from possession in Session 25 after the party defeated him in combat. The corruption left his body and he regained consciousness disoriented, with fragmented memories.
+- [[Old Hydra]] (Bullhydra) - Water Elemental summoned by possessed Neverember. Had an acid body cycling mechanic (alternating blue/green forms; green form dealt acid damage to melee attackers). Could generate environmental weather hazards through the stone pillars. Destroyed by Modred's [[Sunfire Mace]] in Session 25.
 - Tentacle Creatures - Appendages emerging from the Fountain Room's floor drains, grappling and pulling victims underwater
 
 ## Items Found Here
@@ -119,18 +121,27 @@ The atmosphere is oppressive and ominous. The Water Sphere Entity's mocking laug
 - **Brazier Room completed:** Five braziers doused by ceiling rain. Modred climbed walls naked with daggers, found hidden brick button. Jaspar found second button. Milo used Mage Hand for the third. Sliding wooden planks covered four braziers; Modred's cloak covered the fifth. Third pillar lit.
 - **Final confrontation triggered:** All three pillars lit, water vortex formed, Water Elemental summoned. Possessed Lord Neverember emerged with red/purple corruption goo. Entity addressed Clover about his parents and the "prince of Tharizdun." Tempted Modred with Tharizdun's power. Modred showed the Crown of the Guardians - Neverember briefly broke free and said "Run!" Milo used Prestidigitation on Neverember. Entity screamed "ENOUGH!" - session ended before combat began (waiting for Clover's player).
 
+### Session 25
+- **Boss fight:** Possessed [[Lord Neverember]] commanded [[Old Hydra]] ("Bullhydra, I guess we will teach them a lesson") and combat began in the Water Sphere Chamber
+- **Old Hydra mechanics:** Alternated between blue (normal) and acid green (melee attackers take acid damage) body forms. Stone pillars generated thunderstorm and blizzard environmental hazards
+- **Near-TPK:** The blizzard dealt 24 flat cold damage to everyone in range -- Milo went down (despite Ring of Cold Resistance), Modred went down (exactly 24 HP remaining), and Clover lost his snake Wild Shape form. Only Jaspar remained standing
+- **Modred's heroic kill:** Destroyed Old Hydra with the [[Sunfire Mace]], its blinding light evaporating the elemental, but the acid retort from the killing blow knocked him unconscious at the same moment
+- **Neverember freed:** Jaspar landed the final blow on Neverember. The Tharizdun corruption (purple/red goo) crunched out of his chest, swirled into the air, and formed a triangular portal to [[The Void]]. Tharizdun's voice said *"Come to the Void."* Neverember collapsed, alive but unconscious
+- **Parents revelation:** Before going down, the entity through Neverember told Clover *"Parents are still alive"* -- Clover called for a ceasefire but Jaspar struck the final blow anyway
+- **Neverember woke:** Clover healed and then kicked him awake. He was disoriented, thought weeks had passed. Revealed hearing a vile voice talking about *"resurrecting the Four Princes"* / *"Champions of the Four Princes."* Recognized the chain visible through the Void portal: *"Is that a chain? It looks like this weird place that I went to."*
+- **Session ended** with the party preparing to rest on the underground coast and interrogate Neverember further
+
 ## Secrets/Hidden Areas
 - Hidden brick buttons in the Brazier Room walls controlling ceiling plank mechanisms (discovered Session 24)
 - Water slide tube connecting Fountain Room ceiling door back to Water Sphere Chamber (discovered Session 24)
-- The nature and location of Clover's parents' voices (trap or real?)
-- The true nature of the Water Sphere Entity and its connection to the possessed Neverember
+- The entity referenced "The Druid of the Forest" in connection with Clover's parents, suggesting they held a specific title or role
 - How this dimension connects to Tharizdun's cult activities - the entity referred to Tharizdun as "the Maw"
-- Possible escape routes back to House Castellers (still unknown after defeating all three rooms)
-- How to free Lord Neverember from the necromancy possession
-- Whether the Crown of the Guardians can permanently break through the possession
+- Possible escape routes back to House Castellers (still unknown -- only the challenge rooms, the Void portal, and an underground coast remain as options)
 - What the entity meant by Clover bringing "a prince of Tharizdun" to them
+- Whether the triangular Void portal will remain open or close
 
 ## Connections
 - [[House Castellers]] - Accessed through the whirlpool pool in the basement ritual chamber
 - [[Moonlit Pool]] - The Castellers pool has identical magic to Clover's family's protected relic
 - [[Tharizdun]] - The dimension appears connected to the chained god's cult
+- [[The Void]] - Triangular portal opened in the Water Sphere Chamber after the Tharizdun corruption left Lord Neverember's body (Session 25). A chain of Tharizdun is visible through the portal.

@@ -2,7 +2,7 @@
 type: loot
 name: Ring of Cold Resistance
 campaign: neverwinter-icebreakers
-holder: Unassigned
+holder: Milo Swiftclock
 session_acquired: 23
 rarity: uncommon
 attunement: true
@@ -18,7 +18,7 @@ tags:
 *Ring, uncommon (requires attunement)*
 
 ## Quick Reference
-**Holder:** Unassigned (party possession)
+**Holder:** [[Milo_Swiftclock|Milo Swiftclock]]
 **Acquired:** Session 23
 **Rarity:** Uncommon
 **Attunement:** Required
@@ -41,17 +41,8 @@ The chest contained:
 - [[The_Princes_of_Tharizdun|The Princes of Tharizdun]] (black book about Tharizdun's princes)
 
 ## Notes
-- Current holder is unspecified - the party has not yet assigned this ring
-- Would be particularly useful in cold environments or against creatures with cold attacks
-- Given the party name "The Icebreakers" and their adventures in the Neverwinter region, cold resistance could prove valuable
-- May be useful if the party returns to Icespire Peak or other northern locations
-
-## Potential Holders
-The ring should be assigned to a party member. Considerations:
-- [[Clover]] - As a druid who can wild shape, may have natural resistances already
-- [[Sir_Modred_De_Moray|Modred]] - Front-line fighter who takes the most damage
-- [[Jaspar_Starshade|Jaspar]] - Rogue who may need extra protection
-- [[Milo_Swiftclock|Milo]] - Wizard with lower HP who benefits from damage reduction
+- Worn by [[Milo_Swiftclock|Milo Swiftclock]], whose low wizard HP makes cold resistance especially valuable
+- **Session 25:** The ring proved critical during the [[Old_Hydra|Old Hydra]] boss fight in [[The_Depths|The Depths]]. When the stone pillars generated a blizzard dealing 24 flat cold damage with no save, the Ring of Cold Resistance halved Milo's damage to 12. He still went down to 0 HP, but without the ring he would have taken the full 24 and likely died outright. A second blizzard later dealt 18 cold damage -- again halved for Milo thanks to the ring. The ring was the difference between life and death in this fight
 
 ## Connections
 - [[House_Castellers_Estate|House Castellers]] - Found in their hidden shrine

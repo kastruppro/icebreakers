@@ -6,9 +6,9 @@ gender: Male
 role: Former Open Lord of Waterdeep
 campaign: neverwinter-icebreakers
 first_met: 21
-last_seen: 24
-status: alive (possessed)
-location: The Depths (beneath House Castellers)
+last_seen: 26
+status: alive
+location: Waterdeep (Temple of Tyr)
 faction: Waterdeep Nobility
 relationship: ally
 tags:
@@ -16,32 +16,25 @@ tags:
   - campaign/icebreakers
   - ally
   - noble
-  - rescue-target
-  - imprisoned
 ---
 # Lord Neverember
 
 ## Quick Reference
 **Race/Gender:** Human Male
-**Role:** Former Open Lord of Waterdeep, Raenar's Father
-**Status:** Alive (Possessed by Tharizdun entity)
-**Current Location:** [[The Depths]] (beneath [[House_Castellers_Estate|House Castellers]])
+**Role:** Ruler of Neverwinter, Raenar's Father
+**Status:** Alive (recovered, preparing to reclaim Neverwinter)
+**Current Location:** [[Waterdeep]] (Temple of Tyr)
 
 ## Description
 Powerful noble who previously held significant political power in Waterdeep. Father to Raenar Neverember. Was reported missing after falling through a triangular portal. Now discovered chained in a Tharizdun cult ritual circle.
 
-## Current Situation (Session 24 Update)
-Lord Neverember has been fully possessed by a Tharizdun-connected entity. He was found in [[The Depths]] beneath [[House_Castellers_Estate|House Castellers]], emerging from within a summoned Water Elemental after the party completed three challenge rooms. He is:
-- **Possessed** - an entity speaks through him with a layered voice (a second presence audible beneath his normal speech)
-- **Red/purple corruption goo** emanates from his body; his eyes are unnatural
-- **Necromancy magic** detected on him by Milo's Detect Magic
-- The entity refers to itself/Tharizdun as **"the Maw"**
-- The entity tried to **recruit the party** to serve Tharizdun, specifically targeting [[Sir_Modred_De_Moray|Modred]]'s corruption
+## Current Situation (Session 26 Update)
+Lord Neverember has **fully recovered** after a long rest at the [[Temple_of_Tyr|Temple of Tyr]] in Waterdeep. He has learned that [[Sebastian]] seized power in Neverwinter through an election and is allied with Tharizdun's cult. He is determined to return to Neverwinter immediately and reclaim his city. He has promised the party a reward for rescuing him and plans to travel with them to Neverwinter.
 
-### The Crown Moment
-When [[Sir_Modred_De_Moray|Modred]] showed him the **Crown of the Guardians** (the heirloom from the Seven Ghosts), Neverember briefly broke free from possession. His eyes became normal, his posture shifted, he reached toward the crown and said in his own voice: **"Run!"** Then the entity seized control again, laughing: "He's mine. It's now with Tharizdun."
+He is a good friend of [[Godwin_De_Moray|Sir Goodwin De Moray]] and accompanied the party to visit House De Moray in Session 26.
 
-This confirms Neverember is **still alive and conscious** inside the possession, and the Crown may be key to freeing him.
+### Previous Situation (Session 24)
+Was fully possessed by a Tharizdun-connected entity. Emerging from within a summoned Water Elemental, the entity spoke through him, taunted [[Clover]] about his parents, and tried to recruit [[Sir_Modred_De_Moray|Modred]]. When Modred showed him the **Crown of the Guardians**, Neverember briefly broke free to say **"Run!"** before the entity regained control.
 
 ### Previous Situation (Session 21 Discovery)
 Milo's owl familiar first discovered Lord Neverember chained in a summoning circle in the ritual chamber beneath House Castellers, surrounded by 8-10 cloaked cultists chanting "Tharizdun," with two individuals in earthy clothes casting spells on him, and a giant statue of Tharizdun in chains looming over the room.
@@ -62,35 +55,42 @@ Milo's owl familiar first discovered Lord Neverember chained in a summoning circ
 
 > "I think you like it. I think you want the powers that he can give. This massive power." - Session 24, the entity taunting [[Sir_Modred_De_Moray|Modred]] about his corruption
 
+> "I should thank you for bringing Old Hydra back to us. You know, when I took The Druid of the Forest's life." - Session 25, the entity taunting [[Clover]] before combat
+
+> "I see you. I see you for who you really are. There's so much more power to you." - Session 25, the entity addressing [[Sir_Modred_De_Moray|Modred]]'s corruption
+
+> "Parents are still alive." - Session 25, to [[Clover]] just before falling (unclear if Neverember or the entity speaking)
+
+> "It was a very vile voice that talked about the Four Princes. Something about resurrecting the Four Princes." - Session 25, after being freed, describing his time possessed
+
+> "Is that a chain? It looks like this weird place that I went to." - Session 25, recognizing the Void portal
+
 ## History with Party
 - **Earlier sessions**: Mentioned as missing, fell through triangular portal. [[Raenar_Neverember|Raenar]] searching for him.
 - **Session 21**: DISCOVERED. Milo's owl familiar found him chained in the ritual chamber beneath House Castellers. Party did not rescue him due to combat depletion and need to escape.
 - **Session 24**: Found possessed in [[The Depths]], emerging from within a Water Elemental. Necromancy magic detected. The entity controlling him tried to recruit the party and taunted them about [[Clover]]'s parents. [[Sir_Modred_De_Moray|Modred]] showed him the Crown of the Guardians, and Neverember briefly broke free to say "Run!" Session ended on a cliffhanger with combat about to begin.
-
-## Rescue Priority
-Lord Neverember's rescue is now a critical quest objective and has escalated to an **exorcism/combat situation**. The party knows:
-- He is in [[The Depths]] beneath House Castellers, possessed by a Tharizdun entity
-- **Necromancy magic** is involved in the possession
-- He is still **conscious inside** - the Crown of the Guardians can briefly break through
-- The entity commands a **Water Elemental** as a guardian
-- A boss fight is imminent (Session 24 cliffhanger)
-- The entity claims [[Clover]] unwittingly brought "a prince of Tharizdun" to them
+- **Session 25**: Boss fight against possessed Neverember and [[Old_Hydra|Old Hydra]]. The entity taunted [[Clover]] about killing "The Druid of the Forest" and his parents, and taunted [[Sir_Modred_De_Moray|Modred]] about his corruption. After a brutal fight (near TPK from blizzard environmental hazards), [[Jaspar_Starshade|Jaspar]] landed the killing blow. The corruption left his body as purple/red goo, forming a triangular Void portal. [[Clover]] stabilized him. Upon waking, he was disoriented, revealed intel about "the Four Princes," and recognized the Void chain visible through the portal. Session ended as the party demanded he tell them everything.
+- **Session 26**: Recovered after a long rest at the [[Temple_of_Tyr|Temple of Tyr]] in Waterdeep. Learned that [[Sebastian]] won the election and now leads Neverwinter, allied with Tharizdun's cult. Shocked and determined to return to Neverwinter immediately to reclaim power. Promised the party a reward for rescuing him. Revealed he is a good friend of [[Godwin_De_Moray|Sir Goodwin De Moray]]. Accompanied Modred and Milo to visit House De Moray, where he joked about Goodwin's appearance. Plans to travel with the party to Neverwinter.
 
 ## Connections
-- [[Raenar_Neverember|Raenar Neverember]] - Son (party ally, wants to rescue him; currently stranded above The Depths)
-- [[House_Castellers_Estate|House Castellers]] - Imprisoned beneath this estate
-- [[Victor_Castellers|Victor Castellers]] - Lord of the house where he's imprisoned (now claimed by Tharizdun)
-- [[Tharizdun]] - Possessed by entity connected to the Chained God; entity calls Tharizdun "the Maw"
+- [[Raenar_Neverember|Raenar Neverember]] - Son (reunited in Session 26)
+- [[House_Castellers_Estate|House Castellers]] - Was imprisoned beneath this estate
+- [[Victor_Castellers|Victor Castellers]] - Lord of the house where he was imprisoned
+- [[Tharizdun]] - Was possessed by entity connected to the Chained God; now freed
 - [[Cora]] - Uses same triangular portals that took him
-- [[The Depths]] - Current location, guarded by the [[Water_Sphere_Entity|Water Sphere Entity]]
-- [[Sir_Modred_De_Moray|Modred]] - Holds the Crown of the Guardians that can break through the possession
-- [[Clover]] - Entity claims he unwittingly delivered "a prince of Tharizdun"; entity also dismissed his parents' deaths
+- [[Old_Hydra]] - Water Elemental that guarded him during possession; destroyed in Session 25
+- [[Sir_Modred_De_Moray|Modred]] - Holds the Crown of the Guardians; fought to free him
+- [[Jaspar_Starshade|Jaspar]] - Landed the final blow that freed him from possession
+- [[Clover]] - Entity taunted him about his parents; stabilized Neverember after the fight
+- [[Milo_Swiftclock|Milo]] - Used Temporal Stasis to incapacitate him during the fight
+- [[Godwin_De_Moray|Sir Goodwin De Moray]] - Good friend; visited together in Session 26
+- [[Sebastian]] - Usurped his rule of Neverwinter; allied with Tharizdun's cult
+- [[Ammalia_Castellers|Ammalia Castellers]] - Present during rescue; asked about Victor
 
 ## Unanswered Questions
-- How can the possession be permanently broken? (Crown of the Guardians can briefly break through)
-- What is "the Maw" - a new title for Tharizdun or something else?
+- What are the "Four Princes" / "Champions of the Four Princes" that Tharizdun wants to resurrect?
+- What is "the Maw" - a title for Tharizdun or something else?
 - What did the entity mean about Clover bringing "a prince of Tharizdun"?
-- Is the necromancy magic the mechanism of possession, or something layered on top?
 - Why was Lord Neverember specifically targeted for possession?
-- How long has he been possessed vs. imprisoned?
-- What happens if the party defeats the Water Elemental but can't exorcise the entity?
+- Who/what is "The Druid of the Forest" referenced by the entity?
+- How will Neverember reclaim power from Sebastian in Neverwinter?

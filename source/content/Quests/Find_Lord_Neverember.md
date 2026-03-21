@@ -2,28 +2,31 @@
 type: quest
 name: Rescue Lord Neverember
 campaign: neverwinter-icebreakers
-status: active
-priority: critical
+status: completed
+priority: low
 quest_giver: Daggers of the North
 started: Session 18
-last_updated: Session 24
+completed: Session 25
+last_updated: Session 26
 tags:
   - quest
   - campaign/icebreakers
   - rescue
   - tharizdun
-  - urgent
-  - complicated
+  - completed
 ---
 
 # Rescue Lord Neverember
 
 ## Quick Reference
-**Status:** FOUND - Possessed by Tharizdun Entity (Rescue + Exorcism Required)
-**Priority:** CRITICAL (In Active Danger)
+**Status:** COMPLETED (Session 25)
+**Priority:** Resolved
 **Quest Giver:** [[Daggers_of_the_North|Daggers of the North]]
 **Started:** Session 18
-**Last Updated:** Session 24
+**Completed:** Session 25
+**Last Updated:** Session 25
+
+> **This quest has been completed and archived.** See [[Archive/Find_Lord_Neverember|archived version]] for full details.
 
 ## Objective
 Rescue Lord Neverember from possession by a Tharizdun entity in The Depths. This is now an exorcism/combat situation, not just a rescue.

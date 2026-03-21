@@ -6,7 +6,7 @@ status: active
 priority: critical
 quest_giver: Tyr
 first_mentioned: Session 13
-last_updated: Session 24
+last_updated: Session 26
 tags:
   - quest
   - campaign/icebreakers
@@ -19,11 +19,11 @@ tags:
 # Stop Tharizdun's Release
 
 ## Quick Reference
-**Status:** Active (CRITICAL - Time Running Out)
+**Status:** Active (CRITICAL - Elemental Eye Opened)
 **Priority:** WORLD-ENDING THREAT
 **Quest Giver:** [[Tyr]] (God of Justice)
 **First Mentioned:** Session 13
-**Last Updated:** Session 24
+**Last Updated:** Session 26
 
 ## Objective
 Prevent the cult of Tharizdun from freeing the Chained God and destroying the world.
@@ -67,13 +67,20 @@ Tyr appeared to Modred at the Temple of Tyr with an urgent warning:
 - [x] Learned new title for Tharizdun: **"the Maw"** (Session 24)
 - [x] Learned Clover unwittingly delivered "a prince of Tharizdun" to the cult (Session 24)
 - [x] Confirmed Clover's parents were killed deliberately by the cult (Session 24)
-- [ ] Defeat possessed Neverember + Water Elemental (boss fight imminent)
-- [ ] Free Lord Neverember from Tharizdun possession
-- [ ] Escape The Depths (party currently trapped)
-- [ ] Destroy chains at temple ruins south of Daggerford
-- [ ] Find and destroy chains at 3 other ruin locations
-- [ ] Identify "the four princes" of Tharizdun
+- [x] Defeated Old Hydra + possessed Neverember in boss fight (Session 25)
+- [x] Freed Lord Neverember from Tharizdun possession (Session 25)
+- [x] Learned about "resurrecting the Four Princes" / "Champions of the Four Princes" from Neverember (Session 25)
+- [x] Discovered a Void portal containing one of Tharizdun's chains (Session 25)
+- [x] Escaped The Depths (Session 26)
+- [x] **FIRST CHAIN DESTROYED** -- Modred struck chain with Gauntlets of Tyr (Session 26)
+- [x] Elemental Eye opened as consequence -- Tharizdun is aware of the party (Session 26)
+- [x] Major Void lore obtained from Sabrina (Session 26)
+- [ ] Destroy three remaining chains
+- [ ] Identify remaining Princes of Tharizdun (Sabrina to provide names)
+- [ ] Investigate cult activity in Neverwinter Forest (likely signals a Prince dungeon)
 - [ ] Locate source of "great power" in Waterdeep
+- [ ] Deal with Sebastian's cult alliance in Neverwinter
+- [ ] Investigate Edward Hamel's grave/house in Waterdeep for intel
 - [ ] Stop the cult's ultimate plan
 
 ## Known Cult Operations
@@ -106,18 +113,22 @@ Tharizdun's influence manifests as physical corruption:
 ## Key Questions
 - What is "Thassa" that the cultists were seeking?
 - What binding ritual requires "strong spellcasters"?
-- Who are "the four princes" of Tharizdun?
+- Who are "the four princes" of Tharizdun? (Sabrina to provide names)
 - What is the source of "great power" Tyr sensed in Waterdeep?
 - What is the cult's ultimate endgame?
 - What is the significance of Tharizdun being called **"the Maw"**? (new title, Session 24)
 - What "prince of Tharizdun" did Clover unwittingly deliver to the cult?
-- How does the necromancy-based possession of Lord Neverember serve Tharizdun's release?
-- Is the Water Sphere Entity in The Depths a servant of Tharizdun or something else?
+- What will be the consequences of each subsequent chain destruction? (The Elemental Eye was the first escalation)
+- Can the Boatman of the Void be killed to free trapped souls?
+- What is the Elemental Eye, and what does Tharizdun being aware of the party mean?
+- What information can [[Edward_Hamel|Edward Hamel]] (Sabrina's last party member) provide about the Princes?
 
 ## Related Quests
-- [[Tyrs_Gauntlets_Quest]] - Destroy chains at four ruins
-- [[Find_Lord_Neverember]] - Rescue from cult ritual (now renamed Rescue Lord Neverember)
-- [[Investigate_House_Castellers]] - Expose cult operations in Waterdeep
+- [[Tyrs_Gauntlets_Quest]] - Destroy chains at four locations (1 of 4 destroyed)
+- [[Archive/Find_Lord_Neverember|Rescue Lord Neverember]] - COMPLETED (Session 25-26)
+- [[Investigate_House_Castellers]] - Expose cult operations in Waterdeep (COMPLETED)
+- [[Investigate_Edward_Hamel]] - Research Sabrina's party member for intel on Princes
+- [[Protect_Swiftclock_Family]] - Cora hunting the Swiftclocks, tied to cult activity
 
 ## NPCs Involved
 - [[Tyr]] - God of Justice, guiding the party against Tharizdun
@@ -192,6 +203,37 @@ The entity claimed Clover unwittingly brought **"a prince of Tharizdun"** to the
 ### Modred's Corruption Targeted
 The entity tried to recruit Modred by appealing to his corrupted black fingers: *"I think you like it. I think you want the powers that he can give."* Modred firmly refused. The corruption continues to be a vector for Tharizdun's influence.
 
+## Session 25 - Major Breakthroughs
+
+### Neverember Freed and Debriefed
+The party defeated Old Hydra and freed [[Lord_Neverember|Lord Neverember]] from Tharizdun's possession. Once conscious, Neverember provided critical intelligence:
+
+- **"Resurrecting the Four Princes":** Neverember heard a "very vile voice" (Tharizdun) talking about resurrecting the Four Princes, also referred to as **"Champions of the Four Princes."** This directly connects to the Princes of Tharizdun book found in Session 23.
+- **Neverember visited the Void:** He recognized the chain visible through the portal: **"Is that a chain? It looks like this weird place that I went to."** He was about to share more when the session ended.
+
+### The Void Portal and Chain Discovered
+When the Tharizdun corruption left Neverember's body, it formed a **triangular portal to the Void**. Through it, the party can see:
+- A massive chain hanging from the air, ending at the floor
+- Screams echoing from within
+
+**DM post-session clarification:** This space is one of the locations containing a chain of Tharizdun that must be struck with the [[Tyrs_Gauntlets_Quest|Gauntlets of Tyr]]. The DM will no longer refer to these locations as "Ruins" going forward.
+
+### Clover's Parents Alive in the Void
+The entity confirmed Clover's parents are alive and in the Void. This means the Void serves as both a prison for living beings and a location for Tharizdun's chains.
+
+### Updated Threat Assessment
+- The cult's plan involves **"resurrecting"** the Four Princes / Champions -- this is an active process, not just collection
+- The Void is a physical space that can be entered via triangular portals
+- Tharizdun's chains are located in the Void (at least one)
+- The party now has direct access to a chain location but is too exhausted to act
+
+### Immediate Priorities (Session 26+)
+1. **REST** -- party has 2 points of exhaustion, nearly all resources spent
+2. **DEBRIEF NEVEREMBER** -- he was about to reveal more about the Void when the session ended
+3. **DECIDE ON VOID ENTRY** -- opportunity to strike a chain, but extremely dangerous
+4. **ESCAPE THE DEPTHS** -- return to surface
+5. Travel to temple ruins south of Daggerford (if the Void chain is struck first, this changes the count)
+
 ## Notes
 - This is the overarching campaign threat
 - All other quests (Thistle rescue, Neverember rescue, House Castellers investigation) are connected to this main storyline
@@ -200,7 +242,63 @@ The entity tried to recruit Modred by appealing to his corrupted black fingers: 
 - Session 22 marked a turning point where urgency escalated significantly
 - Session 23: Party made progress (6 cultists, shrine destroyed, book acquired) but is now trapped in The Depths
 - Session 24: Found Neverember possessed, learned about "the Maw," princes of Tharizdun, and deliberate murder of Clover's parents
+- Session 25: Neverember freed, learned about "Four Princes" / "Champions," discovered Void chain location
 - The unchained Tharizdun statue suggests the cult believes they are close to freeing him
 - The pool network may be key to understanding cult operations
 - The necromancy possession of Neverember shows the cult can control powerful individuals
-- Collecting "princes" appears to be central to Tharizdun's release plan
+- Collecting/resurrecting "princes" or "champions" appears to be central to Tharizdun's release plan
+- The Void portal presents an immediate opportunity to strike one of Tharizdun's chains
+- Neverember is now a key intelligence asset -- he visited the Void during his possession
+
+## Session 26 - Major Breakthroughs and Escalation
+
+### First Chain Destroyed
+[[Sir_Modred_De_Moray|Modred]] used the [[Tyrs_Gauntlets_Quest|Gauntlets of Tyr]] to destroy the first of Tharizdun's four chains. Blue fire engulfed Tharizdun's lower body, pushing him further into imprisonment. See [[Tyrs_Gauntlets_Quest]] for full details.
+
+### The Elemental Eye
+As a direct consequence of destroying the first chain, a **red eye called the Elemental Eye** opened above Tharizdun's head. It scanned downward and fixated on the party. [[Sabrina_Nightgale|Sabrina]] described this as "the first phase of getting rid of Tharizdun" -- each chain destroyed triggers escalating consequences. She warned: **"The Elemental Eye has opened. Your friends don't have that much time."**
+
+### The Void Revealed as the Afterlife
+Sabrina provided transformative lore about the cosmology:
+- **The Void is the afterlife** -- where all dead souls go to be judged
+- **The Boatman of the Void** is a massive cloaked entity that serves as the Judge of the dead
+- **Tharizdun controls the Boatman**, causing all soul traffic to halt -- no one reaches their final destination (higher planes or Nine Hells)
+- **Killing the Boatman** could set all trapped souls free (including [[Sabrina_Nightgale|Sabrina]] and Clover's parents)
+- Millions of small boats carrying numb-faced souls drift toward the Boatman
+
+### Sabrina's Party History
+- Sabrina's party killed **3 of the 4 Princes of Tharizdun** but failed on the fourth
+- **[[Edward_Hamel|Edward Hamel]]** was the last surviving member -- buried in Waterdeep, may have useful items/info at his grave or house
+- The party can use **Speak with Dead** to question Edward Hamel via the Waterdeep cemetery necromancer
+
+### Prince Dungeon Mechanics
+- The dungeons containing the Princes **change locations over time**
+- **Cult activity near a location signals a nearby Prince dungeon** -- this is confirmed by both [[Sir_Goodwin_De_Moray|Sir Goodwin's]] spies and [[Liora_Swiftclock|Liora's]] messages about cult activity in Neverwinter Forest
+- Sabrina will provide the names of the remaining Princes (DM to share outside session)
+
+### Void Portal Mechanics
+- From inside the Void, drawing a triangle and specifying a destination creates a **targeted portal** (Milo demonstrated this)
+- The boat's rudder/steering wheel exits the Void to a **random destination**
+- Triangular portals go specifically between the material plane and the Void
+
+### Corruption Escalation
+Both Milo and Modred gained corruption effects from destroying the chain:
+- **Milo:** +5 permanent HP, blackened cheek fur, 12-hour temp HP restriction
+- **Modred:** Entire hand now black, gained Corrupted Second Wind ability
+
+### Cult Activity Convergence
+Multiple sources confirm cult activity in Neverwinter Forest:
+- [[Sir_Goodwin_De_Moray|Sir Goodwin's]] spies
+- [[Liora_Swiftclock|Liora's]] telepathic messages
+- [[Sabrina_Nightgale|Sabrina's]] intel about cult proximity to Prince dungeons
+- The Shadow ([[Arthur_De_Moray|Arthur]]) is also roaming Neverwinter Forest
+
+### Sebastian's Takeover
+[[Lord_Neverember|Lord Neverember]] learned that [[Sebastian]] won an election and now leads Neverwinter, allied with Tharizdun's cult. Neverember is determined to return and reclaim his city.
+
+### Immediate Priorities (Session 27+)
+1. **Travel to Neverwinter** -- multiple urgent threads converge there
+2. **Protect the Swiftclock family** at New Sharandar from Cora
+3. **Investigate Neverwinter Forest** -- cult activity, Shadow/Arthur, possible Prince dungeon
+4. **Return Lord Neverember** to confront Sebastian
+5. **Research Edward Hamel** in Waterdeep (can be done later)

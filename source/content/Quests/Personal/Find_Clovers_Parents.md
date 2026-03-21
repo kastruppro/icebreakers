@@ -3,10 +3,10 @@ type: quest
 name: Find Clover's Parents
 campaign: neverwinter-icebreakers
 status: active
-priority: medium
+priority: high
 quest_giver: Clover
 started: Session 23
-last_updated: Session 24
+last_updated: Session 26
 tags:
   - quest
   - campaign/icebreakers
@@ -14,19 +14,21 @@ tags:
   - clover
   - mystery
   - family
+  - void
+  - urgent
 ---
 
 # Find Clover's Parents
 
 ## Quick Reference
-**Status:** Active (Deaths Confirmed Deliberate)
-**Priority:** Medium (Personal Quest - New Revelations)
+**Status:** Active (PARENTS SIGHTED - Trapped in Void Soul Procession)
+**Priority:** HIGH
 **Quest Giver:** [[Clover]] (Personal Discovery)
 **Started:** Session 23
-**Last Updated:** Session 24
+**Last Updated:** Session 26
 
 ## Objective
-Investigate the voices Clover heard in the Tharizdun pool and determine if her parents are truly in The Depths.
+Rescue Clover's parents from the Void. The entity possessing Lord Neverember confirmed they are alive and imprisoned there. A triangular portal to the Void is currently open in The Depths.
 
 ## Background
 
@@ -48,14 +50,14 @@ While meditating by the Castellers pool, Clover heard:
 
 > **"Save us! We're down here! Please save us!"**
 
-The voices belonged to her parents. On an Insight check of 7, they sounded exactly like them.
+The voices belonged to his parents. On an Insight check of 7, they sounded exactly like them.
 
 Clover told the party: **"Guys, you will not believe this. I'm 99% sure that my parents are down in that pool."**
 
 ## Key Questions
 
 ### Is This Real or a Trap?
-- Clover saw her parents' spirits departing - how could they be alive?
+- Clover saw his parents' spirits departing - how could they be alive?
 - The Depths is controlled by an evil Water Sphere Entity that enjoys killing adventurers
 - Could this be a lure to draw victims deeper?
 - Does Tharizdun's corruption allow mimicking voices?
@@ -82,11 +84,18 @@ Clover told the party: **"Guys, you will not believe this. I'm 99% sure that my 
 - [x] Completed all three challenge rooms (Session 24)
 - [x] Entity confirmed parents' deaths were deliberate: "They were just in the way" (Session 24)
 - [x] Entity revealed Clover brought "a prince of Tharizdun" to the cult (Session 24)
-- [ ] Inform Clover of the entity's revelations (he was absent)
-- [ ] Explore The Depths for signs of parents
-- [ ] Determine if voices were real or a lure
+- [x] Entity (through possessed Neverember) told Clover: **"Parents are still alive"** (Session 25)
+- [x] Entity said **"Come to the Void"** as corruption left Neverember (Session 25)
+- [x] Triangular portal to the Void opened in the Water Sphere Chamber (Session 25)
+- [x] Clover heard the revelation firsthand and nearly entered the portal immediately (Session 25)
+- [x] Modred convinced Clover to rest first before attempting anything (Session 25)
+- [x] Modred sighted Clover's parents in the Void soul procession (Session 26)
+- [x] Learned the Void is the afterlife -- souls are judged by the Boatman (Session 26)
+- [x] Learned Tharizdun controls the Boatman, trapping all souls (Session 26)
+- [x] Learned killing the Boatman could free all trapped souls (Session 26)
+- [ ] Determine how to rescue parents from the Void (kill the Boatman? other method?)
 - [ ] Investigate what "prince of Tharizdun" Clover delivered
-- [ ] Determine full truth of parents' fate
+- [ ] Investigate "The Druid of the Forest" -- entity referenced killing them in connection with Clover's parents
 
 ## Session 24 Revelations
 
@@ -113,9 +122,36 @@ This suggests Clover **unwittingly delivered** something important to the cult -
 - The voices Clover heard in the pool may have been a deliberate lure connected to this manipulation
 - Clover was not present to hear any of this -- the party will need to tell him
 
+## Session 25 - PARENTS CONFIRMED ALIVE
+
+### The Revelation
+During the boss fight against possessed [[Lord_Neverember|Lord Neverember]] and Old Hydra in The Depths, the entity addressed [[Clover]] directly:
+
+> **Possessed Neverember to Clover:** "I should thank you for bringing Old Hydra back to us. You know, when I took The Druid of the Forest's life. I slit all of these people's throats and took what was ours. It felt good. It's all because of you. Because of your parents."
+
+Clover retorted: **"You know what else is gonna feel good? When I yank your head off."**
+
+### The Ceasefire
+Near the end of the fight, as Neverember was badly wounded, he spoke in a faint voice: **"Parents are still alive."** Then: **"You should come with me."**
+
+Clover dismissed his Giant Elk form, raised his hand, and called out: **"Everyone, we need to stop. He says my parents are alive."** He chose not to attack.
+
+### The Void Portal
+When [[Jaspar_Starshade|Jaspar]] landed the final blow on Neverember (not trusting him with a sword still raised), the corruption left Neverember's body with Tharizdun's voice saying **"Come to the Void."** The dark substance formed a **triangular portal to the Void**. Through it, screams can be heard.
+
+Clover walked to the portal and stared into it. [[Sir_Modred_De_Moray|Modred]] put a hand on his shoulder and convinced him to rest before jumping in.
+
+Clover: **"They're in there, you know, my parents. He said that. I don't think it was Neverember or what was possessing him, but they said my parents were in there, in the Void."**
+
+### "The Druid of the Forest"
+The entity referenced killing **"The Druid of the Forest"** in connection with Clover's parents. This may be a title for one or both of Clover's parents, given their role as Protectors of the Moonlit Pool.
+
+### Emotional Impact
+After the fight, Clover healed Neverember, then kicked him in the ribs: **"Wake up, you lazy bastard!"** He is clearly torn between rage and desperate hope. The revelation that his parents are alive -- after he already told [[Thistle]] they were dead -- changes everything.
+
 ## Current Situation
 
-The party is about to fight possessed Lord Neverember and a Water Elemental in The Depths. Clover's player was absent for Session 24, and the fight was specifically delayed so he could be present -- the entity's words were directly aimed at him. This will be deeply personal when Clover learns what was said.
+The party is in the Water Sphere Chamber of The Depths with a triangular portal to the Void open nearby. Clover knows his parents are in the Void. The party plans to rest on the underground coast before making any decisions. The portal's permanence is unknown -- it may close.
 
 ## NPCs Involved
 
@@ -149,35 +185,69 @@ This quest is deeply personal for Clover:
 
 ## Rewards (Potential)
 
-- Closure about her parents' fate
-- Possible rescue of parents (if alive/trapped)
-- Understanding of the pool network
-- Insight into Tharizdun's soul-trapping abilities
-- Emotional resolution for Clover
+- Rescue of Clover's parents from the Void
+- Understanding of the pool network and the Void
+- Insight into Tharizdun's imprisonment abilities
+- Emotional resolution for Clover and Thistle
+- Possible strike on Tharizdun's chain while in the Void (dual objective with [[Tyrs_Gauntlets_Quest]])
 
 ## Key Questions (Updated)
 
 ### Original Questions
-- ~~Is this real or a trap?~~ The voices may have been a lure, but the entity's confirmation of deliberate murder is new intel regardless
-- Could their souls be trapped in The Depths rather than resting peacefully?
+- ~~Is this real or a trap?~~ Entity confirmed parents are alive and in the Void (Session 25)
+- ~~Could their souls be trapped?~~ Yes -- they are in the Void, not the afterlife
 - Did Tharizdun's cult corrupt the Moonlit Pool network?
 
-### New Questions from Session 24
+### Questions from Session 24
 - What "prince of Tharizdun" did Clover unknowingly deliver to the cult?
 - Were the parents killed specifically to remove them as guardians of the Moonlit Pool?
 - Is there a connection between the "prince" and The Princes of Tharizdun book?
-- How will Clover react when he learns what the entity said?
-- Can the entity be trusted -- or is it manipulating the truth to destabilize Clover before the fight?
+
+### New Questions from Session 25
+- Can the entity's claim be trusted, or is this a manipulation to lure the party into the Void?
+- Who or what is "The Druid of the Forest" that the entity killed in connection with the parents?
+- Will the Void portal remain open long enough for the party to rest and enter?
+- How will the party survive the Void -- screams echo from within, and one of Tharizdun's chains is there
+- Can the parents be physically rescued, or are they trapped in some other way?
+- How will Thistle react if Clover tells him their parents may be alive?
 
 ## Notes
 - This quest began as a mystery during Session 23
-- The low Insight roll (7) means Clover couldn't determine if the voices were genuine
-- The Depths being full of dead adventurers is ominous - many have tried and failed
-- The Water Sphere Entity enjoys "games" with adventurers - could be toying with Clover
-- Must balance hope with caution - this could be manipulation
-- Clover's promise to Thistle ("I will teach you the ways") shows his commitment to family
 - Session 24: Entity confirmed parents' deaths were deliberate, not collateral
 - Session 24: Entity claims Clover brought "a prince of Tharizdun" to the cult
-- Clover was NOT present for these revelations - this will be a devastating moment when he learns
-- The entity specifically addressing absent Clover suggests these words are meant to destabilize him for the coming fight
-- The fight was delayed so Clover's player could be present - this is deeply personal for him
+- Session 25: Entity (through Neverember) confirmed parents are ALIVE and in the Void
+- Session 25: Clover heard this firsthand and nearly entered the Void portal immediately
+- Session 25: Modred convinced Clover to rest first -- the party is exhausted
+- Session 25: "The Druid of the Forest" may be a title for one of Clover's parents
+- The Void portal is currently open but may not remain so
+- Entering the Void could serve dual purposes: rescue parents AND strike Tharizdun's chain
+- Clover's promise to Thistle ("I will teach you the ways") shows his commitment to family
+- Clover already told Thistle their parents are dead -- if they're alive, that conversation must happen
+- Must balance hope with caution -- the entity may be using the parents as bait to lure the party into the Void
+- This quest has escalated from "medium" to "high" priority given the open portal and confirmed status
+
+## Session 26 - Void Cosmology Revealed
+
+### Parents Sighted
+While in the Void on [[Sabrina_Nightgale|Sabrina's]] boat, [[Sir_Modred_De_Moray|Modred]] spotted Clover's parents in the soul procession -- millions of small boats carrying numb-faced souls drifting toward the Boatman. They were further ahead in the procession than last time but not by much. Modred screamed "Clover's parents!" but got no response -- all souls had blank, numb faces.
+
+### The Boatman of the Void
+[[Sabrina_Nightgale|Sabrina]] explained the cosmology:
+- The Void is the afterlife where all dead souls go
+- **The Boatman of the Void** is a massive cloaked, floating entity that serves as the Judge of the dead
+- Souls are supposed to be judged and sent to the higher planes or the Nine Hells
+- **Tharizdun now controls the Boatman**, causing all soul traffic to halt
+- No one reaches their final destination -- everything is at a standstill
+- **Killing the Boatman could free all trapped souls**, including Clover's parents and Sabrina herself
+
+### Rescue Path
+The situation has shifted. The parents cannot simply be pulled from the Void -- they are trapped in the soul procession controlled by the Boatman, who is controlled by Tharizdun. Potential rescue approaches:
+1. **Kill the Boatman** -- frees ALL trapped souls (most impactful but likely the hardest)
+2. **Destroy all of Tharizdun's chains** -- may weaken his control over the Boatman
+3. **Find another way to break the Boatman's control** -- unknown options
+
+### Updated Key Questions
+- Can the Boatman be killed? What would that require?
+- Would destroying more of Tharizdun's chains weaken his control over the Boatman?
+- Are the parents aware of their situation, or are they truly numb like the other souls?
+- Is there a way to individually extract souls from the procession without killing the Boatman?
