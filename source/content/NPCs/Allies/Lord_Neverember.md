@@ -6,9 +6,9 @@ gender: Male
 role: Former Open Lord of Waterdeep
 campaign: neverwinter-icebreakers
 first_met: 21
-last_seen: 26
+last_seen: 27
 status: alive
-location: Waterdeep (Temple of Tyr)
+location: Neverwinter (docks area, in disguise)
 faction: Waterdeep Nobility
 relationship: ally
 tags:
@@ -22,16 +22,21 @@ tags:
 ## Quick Reference
 **Race/Gender:** Human Male
 **Role:** Ruler of Neverwinter, Raenar's Father
-**Status:** Alive (recovered, preparing to reclaim Neverwinter)
-**Current Location:** [[Waterdeep]] (Temple of Tyr)
+**Status:** Alive (in Neverwinter, unrecognized, in disguise)
+**Current Location:** [[Neverwinter]] (docks area, heading to Thirsty Goat)
 
 ## Description
 Powerful noble who previously held significant political power in Waterdeep. Father to Raenar Neverember. Was reported missing after falling through a triangular portal. Now discovered chained in a Tharizdun cult ritual circle.
 
-## Current Situation (Session 26 Update)
-Lord Neverember has **fully recovered** after a long rest at the [[Temple_of_Tyr|Temple of Tyr]] in Waterdeep. He has learned that [[Sebastian]] seized power in Neverwinter through an election and is allied with Tharizdun's cult. He is determined to return to Neverwinter immediately and reclaim his city. He has promised the party a reward for rescuing him and plans to travel with them to Neverwinter.
+## Current Situation (Session 27 Update)
+Lord Neverember has arrived in [[Neverwinter]] via [[Jaspar_Starshade|Jaspar]]'s portal, but discovered that [[Sebastian]] has cast a **mass memory enchantment** on the populace. City guards genuinely believe Sebastian has always been their lord and do not recognize Neverember at all. Propaganda banners with Sebastian's face and an eye symbol are everywhere. Neverember is traveling in disguise with the party toward the docks / [[The_Thirsty_Goat|Thirsty Goat]] tavern, hoping to find allies not under the enchantment.
 
-He is a good friend of [[Godwin_De_Moray|Sir Goodwin De Moray]] and accompanied the party to visit House De Moray in Session 26.
+Before departing Waterdeep, he provided key intel on the **cursed Crown of Neverwinter** — it was intentionally cursed by the crypt guardians to prevent theft, and wearing it grants a feeling of power but slowly kills the wearer. He also suggested [[House_Timore]] could lend soldiers and mentioned [[Liset]] as a useful intelligence ally in Neverwinter.
+
+He argued with his son [[Raenar_Neverember|Raenar]] about being absent during Raenar's childhood, though both are now traveling together.
+
+### Previous Situation (Session 26)
+Fully recovered after a long rest at the [[Temple_of_Tyr|Temple of Tyr]] in Waterdeep. Learned that [[Sebastian]] seized power in Neverwinter. Determined to return immediately. Good friend of [[Godwin_De_Moray|Sir Goodwin De Moray]] and accompanied the party to visit House De Moray.
 
 ### Previous Situation (Session 24)
 Was fully possessed by a Tharizdun-connected entity. Emerging from within a summoned Water Elemental, the entity spoke through him, taunted [[Clover]] about his parents, and tried to recruit [[Sir_Modred_De_Moray|Modred]]. When Modred showed him the **Crown of the Guardians**, Neverember briefly broke free to say **"Run!"** before the entity regained control.
@@ -65,12 +70,17 @@ Milo's owl familiar first discovered Lord Neverember chained in a summoning circ
 
 > "Is that a chain? It looks like this weird place that I went to." - Session 25, recognizing the Void portal
 
+> "You would feel very powerful, but you would also die slow." - Session 27, warning the party about the cursed Crown of Neverwinter
+
+> "I don't want to go in there again." - Session 27, after traveling through Jaspar's portal
+
 ## History with Party
 - **Earlier sessions**: Mentioned as missing, fell through triangular portal. [[Raenar_Neverember|Raenar]] searching for him.
 - **Session 21**: DISCOVERED. Milo's owl familiar found him chained in the ritual chamber beneath House Castellers. Party did not rescue him due to combat depletion and need to escape.
 - **Session 24**: Found possessed in [[The Depths]], emerging from within a Water Elemental. Necromancy magic detected. The entity controlling him tried to recruit the party and taunted them about [[Clover]]'s parents. [[Sir_Modred_De_Moray|Modred]] showed him the Crown of the Guardians, and Neverember briefly broke free to say "Run!" Session ended on a cliffhanger with combat about to begin.
 - **Session 25**: Boss fight against possessed Neverember and [[Old_Hydra|Old Hydra]]. The entity taunted [[Clover]] about killing "The Druid of the Forest" and his parents, and taunted [[Sir_Modred_De_Moray|Modred]] about his corruption. After a brutal fight (near TPK from blizzard environmental hazards), [[Jaspar_Starshade|Jaspar]] landed the killing blow. The corruption left his body as purple/red goo, forming a triangular Void portal. [[Clover]] stabilized him. Upon waking, he was disoriented, revealed intel about "the Four Princes," and recognized the Void chain visible through the portal. Session ended as the party demanded he tell them everything.
 - **Session 26**: Recovered after a long rest at the [[Temple_of_Tyr|Temple of Tyr]] in Waterdeep. Learned that [[Sebastian]] won the election and now leads Neverwinter, allied with Tharizdun's cult. Shocked and determined to return to Neverwinter immediately to reclaim power. Promised the party a reward for rescuing him. Revealed he is a good friend of [[Godwin_De_Moray|Sir Goodwin De Moray]]. Accompanied Modred and Milo to visit House De Moray, where he joked about Goodwin's appearance. Plans to travel with the party to Neverwinter.
+- **Session 27**: Provided intel on the cursed Crown of Neverwinter — intentionally cursed by guardians, wearing it grants power but slowly kills the wearer. Suggested [[House_Timore]] and [[Liset]] as potential allies. Argued with [[Raenar_Neverember|Raenar]] about being absent during his childhood (Modred encouraged him to reconnect). Traveled through [[Jaspar_Starshade|Jaspar]]'s portal to [[Neverwinter]] — screamed in pain but suffered no corruption. Approached the city gates expecting recognition, but guards had no memory of him, believing [[Sebastian]] has always been lord. Entered the city in disguise. [[Jaspar_Starshade|Jaspar]] pitched him a business proposal for control of the Neverwinter docks; Neverember seemed cautiously interested.
 
 ## Connections
 - [[Raenar_Neverember|Raenar Neverember]] - Son (reunited in Session 26)
@@ -86,6 +96,8 @@ Milo's owl familiar first discovered Lord Neverember chained in a summoning circ
 - [[Godwin_De_Moray|Sir Goodwin De Moray]] - Good friend; visited together in Session 26
 - [[Sebastian]] - Usurped his rule of Neverwinter; allied with Tharizdun's cult
 - [[Ammalia_Castellers|Ammalia Castellers]] - Present during rescue; asked about Victor
+- [[House_Timore]] - Potential military ally; could lend soldiers
+- [[Liset]] - Intelligence ally in Neverwinter; runs the floating bar
 
 ## Unanswered Questions
 - What are the "Four Princes" / "Champions of the Four Princes" that Tharizdun wants to resurrect?
@@ -93,4 +105,6 @@ Milo's owl familiar first discovered Lord Neverember chained in a summoning circ
 - What did the entity mean about Clover bringing "a prince of Tharizdun"?
 - Why was Lord Neverember specifically targeted for possession?
 - Who/what is "The Druid of the Forest" referenced by the entity?
-- How will Neverember reclaim power from Sebastian in Neverwinter?
+- How will Neverember reclaim power from Sebastian given the mass memory enchantment?
+- Can allies at the docks / Thirsty Goat be found who remember the real Lord Neverember?
+- Will Jaspar's docks business proposal materialize?

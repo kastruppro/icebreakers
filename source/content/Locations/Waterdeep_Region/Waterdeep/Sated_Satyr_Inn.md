@@ -9,7 +9,7 @@ region: Waterdeep
 parent_location: Waterdeep
 location_type: building
 first_visited: 12
-last_visited: 22
+last_visited: 27
 status: active
 tags:
   - location
@@ -44,6 +44,7 @@ A fancy inn in Waterdeep, comparable in quality to Neverwinter's Moonstone Mask.
 - Includes meal, bath, and room
 - Considered "bloody expensive"
 - Party has rooms rented here
+- [[Jaspar_Starshade|Jaspar]] keeps tinkering equipment in his rented room (used for building his gauntlet/Sithagonids)
 
 ### Staff
 - [[Tibon]] - Human male, bartender/owner (despite the establishment's satyr theming)
@@ -57,6 +58,7 @@ A fancy inn in Waterdeep, comparable in quality to Neverwinter's Moonstone Mask.
 ## Events at This Location
 - **Session 12:** Party stayed here after leaving House De Moray. Met Percy. Clover spoke with Pogo. Party officially named themselves "The The Icebreakers." Modred discovered corruption spreading at night.
 - **Session 22:** Milo brought Ammalia here after escaping House Castellers. The entire tavern noticed their entrance - music stopped, patrons looked with mixed disgust and excitement at the notorious noblewoman. Milo found Raenar in a corner with Pogo. Raenar awkwardly flirted with Ammalia upon meeting her. Milo checked the party's rented rooms and examined the mysterious shrine/chest from House Castellers. Jaspar chose to sleep here rather than the temple for the comfortable bed.
+- **Session 27:** [[Jaspar_Starshade|Jaspar]] conducted a dangerous corruption experiment in his upstairs room, transferring Tharizdun's purple substance into his light battery. The experiment triggered a massive time stop that froze the entire inn -- patrons caught mid-drink, mid-laugh, mid-conversation, with glowing light and dark substance floating through the air creating electrical effects. [[Milo_Swiftclock|Milo]] and [[Sir_Modred_De_Moray|Modred]] arrived to find dead silence in the normally busy tavern. Milo used his Chronal Shift to crush the temporal distortions and break the time stop. Jaspar was found unconscious on his room floor with both arms blackened to the shoulders. Patrons downstairs were completely unaware anything had happened.
 
 ## Services
 - Lodging (5 gold/night)

@@ -5,7 +5,7 @@ campaign: neverwinter-icebreakers
 region: Sword Coast
 location_type: city
 first_visited: 11
-last_visited: 22
+last_visited: 27
 status: active
 tags:
   - location
@@ -57,6 +57,7 @@ The Crown of the North, Waterdeep is a massive metropolis approximately ten time
 - Sessions 17-18: Masquerade ball infiltration at House Castellers
 - Session 20: Dream Staff used to enter Thistle's dream
 - Session 22: Party sought sanctuary at Temple of Tyr with rescued captives. Public sentiment against House Castellers evident - mob threw bottle and shouted "Child killer!" Tyr warned that "great power is coming from somewhere" within the city walls. Party planned rescue operation for Lord Neverember.
+- Session 27: Jaspar's corruption experiment at the [[Sated_Satyr_Inn|Sated Satyr]] caused a time stop across the inn. Party visited the [[Waterdeep_Cemetery|Waterdeep Cemetery]] to scout [[Edward_Hamel|Edward Hamel's]] grave for future Speak with Dead. Milo learned Pulse Wave and Fog Cloud at a spell shop. Party departed Waterdeep via portal to Neverwinter.
 
 ## Connections
 - [[Neverwinter]] - Major city to the north

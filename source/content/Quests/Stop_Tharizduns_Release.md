@@ -6,7 +6,7 @@ status: active
 priority: critical
 quest_giver: Tyr
 first_mentioned: Session 13
-last_updated: Session 26
+last_updated: 29
 tags:
   - quest
   - campaign/icebreakers
@@ -23,7 +23,7 @@ tags:
 **Priority:** WORLD-ENDING THREAT
 **Quest Giver:** [[Tyr]] (God of Justice)
 **First Mentioned:** Session 13
-**Last Updated:** Session 26
+**Last Updated:** Session 29
 
 ## Objective
 Prevent the cult of Tharizdun from freeing the Chained God and destroying the world.
@@ -75,9 +75,12 @@ Tyr appeared to Modred at the Temple of Tyr with an urgent warning:
 - [x] **FIRST CHAIN DESTROYED** -- Modred struck chain with Gauntlets of Tyr (Session 26)
 - [x] Elemental Eye opened as consequence -- Tharizdun is aware of the party (Session 26)
 - [x] Major Void lore obtained from Sabrina (Session 26)
+- [x] **SECOND PRINCE OF THARIZDUN KILLED** -- Confirmed by Corellon Larethian during Lateu'quor ceremony (Session 28)
+- [x] **Feywild origin of cult confirmed** -- cultists observed emerging from the oak portal tree during the Session 29 fight
+- [x] **Party crossed into the Feywild** in pursuit of Cora and the cult (Session 29)
+- [ ] Kill three remaining Princes of Tharizdun (2 of 5 slain)
 - [ ] Destroy three remaining chains
-- [ ] Identify remaining Princes of Tharizdun (Sabrina to provide names)
-- [ ] Investigate cult activity in Neverwinter Forest (likely signals a Prince dungeon)
+- [ ] Locate the Feywild-side source of the cult incursion
 - [ ] Locate source of "great power" in Waterdeep
 - [ ] Deal with Sebastian's cult alliance in Neverwinter
 - [ ] Investigate Edward Hamel's grave/house in Waterdeep for intel
@@ -113,7 +116,7 @@ Tharizdun's influence manifests as physical corruption:
 ## Key Questions
 - What is "Thassa" that the cultists were seeking?
 - What binding ritual requires "strong spellcasters"?
-- Who are "the four princes" of Tharizdun? (Sabrina to provide names)
+- Who are the remaining three Princes of Tharizdun? (Corellon cannot locate them in this land; Sabrina to provide names)
 - What is the source of "great power" Tyr sensed in Waterdeep?
 - What is the cult's ultimate endgame?
 - What is the significance of Tharizdun being called **"the Maw"**? (new title, Session 24)
@@ -132,10 +135,11 @@ Tharizdun's influence manifests as physical corruption:
 
 ## NPCs Involved
 - [[Tyr]] - God of Justice, guiding the party against Tharizdun
+- [[Corellon_Larethian|Corellon Larethian]] - God of Elves; confirmed second Prince slain; warned that remaining Princes cannot be sensed in this land and that the cult is entering from the Feywild (Session 28)
 - [[Tharizdun]] - The Chained God, the ultimate threat
 - [[Sebastian]] - Corrupted cult member
 - [[Victor_Castellers|Victor Castellers]] - Claimed by Tharizdun
-- "The Four Princes" - Unknown entities connected to Tharizdun
+- "The Princes of Tharizdun" - Five total; two slain (one implied earlier, one confirmed Session 28); three remain unlocated
 - Unknown Druids (2) - Participating in rituals
 - Cloaked Cultists - Foot soldiers of the cult
 
@@ -296,9 +300,93 @@ Multiple sources confirm cult activity in Neverwinter Forest:
 ### Sebastian's Takeover
 [[Lord_Neverember|Lord Neverember]] learned that [[Sebastian]] won an election and now leads Neverwinter, allied with Tharizdun's cult. Neverember is determined to return and reclaim his city.
 
-### Immediate Priorities (Session 27+)
-1. **Travel to Neverwinter** -- multiple urgent threads converge there
+### Immediate Priorities (Session 28+)
+1. **Find allies in Neverwinter** -- Thirsty Goat tavern, Jaspar's docks contacts
 2. **Protect the Swiftclock family** at New Sharandar from Cora
 3. **Investigate Neverwinter Forest** -- cult activity, Shadow/Arthur, possible Prince dungeon
-4. **Return Lord Neverember** to confront Sebastian
-5. **Research Edward Hamel** in Waterdeep (can be done later)
+4. **Reclaim Neverwinter from Sebastian** -- break his memory enchantment
+5. **Research Edward Hamel** in Waterdeep (postponed -- grave located but not excavated)
+
+## Session 27 - Corruption Containment and Sebastian's True Power
+
+### Jaspar's Corruption Battery Experiment
+[[Jaspar_Starshade|Jaspar]] transferred Tharizdun's purple corruption substance from a dagger into his light battery -- the energy cell powering his gauntlet's spell effects. The experiment was reckless but produced results:
+
+**Gains:**
+- Battery now contains a mix of Jaspar's light energy and Tharizdun's corruption, coexisting in tension
+- 4 spells corrupted (Cure Wounds, Fire Bolt, Faerie Fire, Mending) -- each can be cast in normal or corrupted form
+- +5 max HP, +2 to a saving throw of choice, one-time saving throw swap ability
+- Proof of concept that Tharizdun's energy can be contained in a device
+
+**Costs:**
+- Both arms blackened to the shoulders (massive corruption advance)
+- -5 permanent initiative
+- Tharizdun appeared in a vision during the experiment: *"Yes, join us, more power"*
+- The experiment caused a **time stop** affecting the entire [[Sated_Satyr_Inn|Sated Satyr inn]] -- all patrons frozen in time
+
+[[Milo_Swiftclock|Milo's]] beacon watch detected the chronomancy disturbance. He and [[Sir_Modred_De_Moray|Modred]] found the inn frozen and Jaspar unconscious. Milo used Chronal Shift to crush the temporal walls and break the time stop.
+
+**Shadow Containment Theory:** Jaspar believes the battery could absorb the Shadow possessing [[Arthur_De_Moray|Arthur De Moray]]. The corruption substance and the Shadow may be the same type of Tharizdun energy. This remains unproven.
+
+### Modred's Apocalyptic Vision
+When Modred touched the corrupted battery, he experienced a vision: fields of destruction, meteors falling, a demon's face in the sky, rain of fire. He also saw yellow temporal walls around the room -- the same kind Milo encounters in his Dunamancy studies.
+
+### Portal Innovation
+Jaspar reconfigured his gauntlet's 3 lenses into a triangular alignment, allowing portal creation using light instead of knife-carving. The corrupted battery powered a direct material-plane-to-material-plane portal to [[Neverwinter]] -- **no Void passage required**. This is faster and more precise than previous methods, though it still causes corruption and pain.
+
+### Sebastian's Memory Magic Revealed
+Upon arriving in Neverwinter, the party discovered [[Sebastian|Sebastian's]] control is far deeper than expected:
+- City guards have had their memories magically rewritten -- they believe Sebastian has always been lord
+- Propaganda banners with Sebastian's face and an eye symbol are posted throughout the city
+- [[Lord_Neverember|Lord Neverember]] is unrecognized in his own city
+- The enchantment may extend to the entire population
+
+This is not simple mind control but full memory alteration, making the political situation in Neverwinter significantly more dangerous. See [[Reclaim_Neverwinter]] for the ongoing effort to break Sebastian's hold.
+
+## Session 28 - Second Prince Confirmed, Feywild Origin Revealed
+
+### Second Prince of Tharizdun Killed
+During the Lateu'quor crescent moon ceremony at New Sharandar, [[Corellon_Larethian|Corellon Larethian]] appeared to the party and explicitly confirmed that a second Prince of Tharizdun had been killed. The current tally: **1 chain destroyed, 2 of 5 Princes slain**.
+
+> "Travelers, I thank you all for the gifts that you bring with you on this night. And I also congratulate you on killing one of the Princes of Tharizdun."
+
+### Corellon Cannot Locate the Remaining Princes
+Corellon warned that he can no longer sense any of the three remaining Princes in this land. Their locations are unknown even to a deity. This represents a significant intelligence gap -- previous patterns (cult activity signaling proximity to a Prince dungeon) may no longer be reliable.
+
+### Cult Infiltration from the Feywild
+Corellon suspects the Tharizdun cult besieging Neverwinter Wood is entering from the Feywild itself. This is confirmed by the cultists the party ambushed outside the Mythal -- they had halted at the ward unsure whether to push through, which is consistent with an origin outside the material plane. Neither Corellon nor the eladrin understand how or why the cult is operating through the Feywild. The party must investigate the oak tree fey crossing in Neverwinter Wood.
+
+### Cultists Ambushed Outside New Sharandar
+The party ambushed and killed eleven eye-symbol cultists probing the Mythal perimeter -- eight killed almost instantly by Milo's Fireball and three eladrin from the trees, the remainder finished in the following round. Three appeared to be leaders. This represents continued attrition of cult foot soldiers in the forest.
+
+### Temple of Leaves Burned -- Session Ended Mid-Combat
+At the close of the ceremony, the cult launched a coordinated assault on New Sharandar itself. The Temple of Leaves was set ablaze. Multiple eladrin were killed. The party was dropped back into combat at the base of the burning tree as cultists closed in. [[Cora]] used the chaos to seize [[Liora_Swiftclock|Liora Swiftclock]] and flee. Session ended before initiative was rolled.
+
+### Corellon's Gift
+Corellon gifted the party a Moonlight Longbow, given to [[Jaspar_Starshade|Jaspar]]. The bow reveals shapechangers and illusions and has a once-per-day guaranteed-hit shot to 5,000 feet. Corellon directed the party to the oak tree fey crossing as their next step.
+
+## Session 29 - Feywild Route Confirmed, Party Crosses Over
+
+### New Sharandar Overrun, Party Chases Cora to the Oak Portal
+The cult's assault on New Sharandar escalated overnight. The [[Mythal]] was breached and visibly failed in the sky during the chase; the [[Temple of Leaves]] burned; many eladrin were killed or wounded. [[Cora]] seized [[Liora_Swiftclock|Liora]] and fled north through the forest. The party pursued her through burning New Sharandar to the oak portal tree -- the same Fey Crossing [[Corellon_Larethian|Corellon]] pointed out in Session 28.
+
+Cultists emerged from the portal tree during the fight to intercept the party. This directly confirms Corellon's warning: the cult is entering Neverwinter Wood from the Feywild, and the oak tree is their crossing point. The portal does not visibly flicker like other portals the party has seen, which is why it went undetected until Corellon identified it.
+
+### New Cult Capabilities Observed
+- **Forehead-eye casting:** Every cultist fighting at the portal had a physical eye open in the forehead. It lit up when they cast. [[Eldritch_Blast|Eldritch Blast]] came out as a direct beam from the forehead-eye with no somatic or verbal component -- a glare, not a cantrip-cast. This is a shared physical marking, suggesting bound/conditioned channels, not ordinary robed cultists.
+- **Spirit Weapon (purple-black, gooey):** At least one cultist (the "yellow" caster) summoned a purple-black gooey sword via Spirit Weapon, which hit with extra "explosion" damage on bite. This is a new cult spell in the party's experience.
+- **Purple energy bolt through obscuration:** A cultist fired a bolt of purple energy out of Milo's Fog Cloud and dropped him from 0 -- implying either no sight needed or magical perception through obscurement.
+- **Capture preference:** Cultists chose to knock Milo unconscious with the flat of their swords rather than kill him. Same pattern Cora has shown with Liora -- the cult wants Swiftclocks alive.
+
+### Cora's Flash-Teleport
+Cora has a personal short-range flash-teleport beyond her triangular portal exits. She cleared a 100-foot [[Plant Growth]] spell in a single move to stay ahead of the party. This is new documented movement and makes running her down significantly harder.
+
+### Party Entered the Feywild
+The party went through the oak portal tree after Cora at session's end. [[Merrisara_Winterwhite|Merrisara]] held the position and was shouting something -- a warning, advice, or instruction -- at the party as they crossed. They did not stop to hear it. They are now in the Feywild without a guide.
+
+### Immediate Priorities (Session 30+)
+1. Catch Cora in the Feywild before she hands Liora off
+2. Survive the Feywild -- Corellon's partial warnings ("it might change you, it might scare you, it might make you different"; don't give fey your real name) are the operational guidance; Merrisara's final warning was cut off
+3. Locate the Feywild-side source of the cult incursion -- this is where the Princes may now be hiding (Corellon can no longer sense them in the material plane)
+4. Find a way back to the material plane once the rescue is complete
+5. Longer term: destroy three remaining chains, kill three remaining Princes

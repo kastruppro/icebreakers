@@ -6,9 +6,9 @@ gender: Female
 role: Cult Agent
 campaign: neverwinter-icebreakers
 first_met: 7
-last_seen: 17
+last_seen: 29
 status: alive
-location: Unknown (escapes via portal)
+location: Feywild (entered portal tree)
 faction: Tharizdun_Cult
 relationship: enemy
 tags:
@@ -25,7 +25,7 @@ tags:
 **Race/Gender:** Human Female
 **Role:** Tharizdun Cultist / Primary Antagonist
 **Status:** Alive
-**Current Location:** Unknown (uses triangular portals to escape)
+**Current Location:** Feywild (entered portal tree)
 
 ## Description
 Dark-cloaked cultist who serves Tharizdun. Known for her acrobatic escapes.
@@ -45,11 +45,13 @@ Mocking, confident, taunting. Takes pleasure in the party's struggles. Dreams fu
 ## History with Party
 - **Session 7**: Freed the Chained One (Tharizdun)
 - **Session 17**: Waiting outside Tharizdun temple after party emerged. Fought party with four cultists. Escaped through triangular portal despite taking Spike Growth damage.
+- **Session 29**: Recaptured [[Liora_Swiftclock|Liora]] during the cult attack on [[New_Sharandar|New Sharandar]]; shook off Clover's staff DC effect on a nat-18 Wisdom save; flash-teleported clean over Clover's 100-ft [[Plant Growth]] in a single move rather than walk the difficult terrain; ran through the Feywild portal tree with Liora squirming under her arm.
 
 ## Signature Moves
 - Escapes via **triangular portals**
 - **Backflips** during escapes (hence nickname)
 - Commands cultist minions
+- **Short-range flash teleport** (clears difficult terrain in one move)
 
 ## Party Nickname
 **"Backflipping Bitch"** - Officially canonized when Modred included it in a Sending spell to Arthur

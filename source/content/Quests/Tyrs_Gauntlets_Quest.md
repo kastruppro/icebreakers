@@ -6,7 +6,7 @@ status: active
 priority: critical
 quest_giver: Tyr
 started: Session 13
-last_updated: Session 26
+last_updated: 27
 tags:
   - quest
   - campaign/icebreakers
@@ -22,7 +22,7 @@ tags:
 **Priority:** CRITICAL
 **Quest Giver:** [[Tyr]] (God of Justice)
 **Started:** Session 13
-**Last Updated:** Session 26
+**Last Updated:** Session 27
 
 ## Objective
 Use Tyr's Gauntlets to destroy Tharizdun's four chains, pushing him further into imprisonment.
@@ -172,8 +172,13 @@ As a consequence of destroying the first chain, a **red eye called the Elemental
 - Prince dungeons **change locations over time** -- cult activity nearby signals their current position
 - Sabrina will provide the **names of the remaining Princes** (DM to share outside session)
 
-### Updated Priorities (Session 27+)
-1. Travel to Neverwinter area -- cult activity in Neverwinter Forest likely signals a chain/Prince location
-2. Investigate Neverwinter Forest for the second chain location
-3. Obtain names of remaining Princes from Sabrina (DM intel)
-4. Continue destroying chains while managing escalating corruption consequences
+### Updated Priorities (Session 28+)
+1. Investigate Neverwinter Forest for the second chain location -- party has arrived in [[Neverwinter]] (Session 27)
+2. Obtain names of remaining Princes from Sabrina (DM intel)
+3. Continue destroying chains while managing escalating corruption consequences
+
+## Session 27 - Arrived in Neverwinter
+
+The party traveled to [[Neverwinter]] via [[Jaspar_Starshade|Jaspar's]] gauntlet portal. They are now in the area where cult activity in Neverwinter Forest likely signals a nearby chain/Prince dungeon location. However, they are currently dealing with [[Sebastian|Sebastian's]] mass memory enchantment over the city (see [[Reclaim_Neverwinter]]) and must establish a safe base before venturing into the forest.
+
+Jaspar's corruption from portal use continues to advance -- his left shoulder burned with pain after opening the portal, and he rolled d100: 71, d4: 4 (gaining +2 to a saving throw of choice, stackable with his previous +2).

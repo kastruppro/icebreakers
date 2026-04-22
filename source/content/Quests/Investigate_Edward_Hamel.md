@@ -6,7 +6,7 @@ status: active
 priority: medium
 quest_giver: Sabrina Nightgale
 started: Session 26
-last_updated: Session 26
+last_updated: 27
 tags:
   - quest
   - campaign/icebreakers
@@ -23,7 +23,7 @@ tags:
 **Priority:** MEDIUM (Not Time-Sensitive, but Valuable)
 **Quest Giver:** [[Sabrina_Nightgale|Sabrina Nightgale]]
 **Started:** Session 26
-**Last Updated:** Session 26
+**Last Updated:** Session 27
 
 ## Objective
 Investigate [[Edward_Hamel|Edward Hamel's]] grave and/or house in Waterdeep to recover information and items that could help the party fight Tharizdun's Princes.
@@ -62,19 +62,33 @@ Sabrina suggested that Edward:
 ## Progress
 - [x] Learned about Edward Hamel from Sabrina (Session 26)
 - [x] Learned he is buried in Waterdeep (Session 26)
-- [ ] Locate Edward Hamel's grave in Waterdeep cemetery
+- [x] Located Edward Hamel's grave in Waterdeep cemetery (Session 27)
+- [x] Scouted guard patrol patterns -- 10-minute window between passes (Session 27)
+- [x] Purchased a spade for grave-digging (Modred, 2 silver) (Session 27)
+- [ ] Dig up Edward Hamel's head (need longer window or distraction)
 - [ ] Find a Speak with Dead caster (cemetery necromancer?)
 - [ ] Question Edward Hamel's corpse
 - [ ] Locate Edward Hamel's house in Waterdeep
 - [ ] Search house for useful items/information
 
+## Session 27 - Grave Located
+
+[[Jaspar_Starshade|Jaspar]] scouted the Waterdeep cemetery and identified guard patrol patterns using his Rogue expertise (no roll needed). He found a corner with a **10-minute window** between guard passes where Edward Hamel's gravestone is located.
+
+The party considered digging up the body immediately -- they only need the head for Speak with Dead -- but determined they could not dig, extract the head, and rebury within the 10-minute patrol window. [[Sir_Modred_De_Moray|Modred]] purchased a spade (2 silver) for a future attempt.
+
+The party then left Waterdeep for [[Neverwinter]] via portal. This investigation is postponed until their next visit to Waterdeep.
+
+> "Grave digging is our favorite hobby, but it can wait." -- The party
+
 ## Key Questions
-- Where exactly is Edward buried in Waterdeep?
+- ~~Where exactly is Edward buried in Waterdeep?~~ FOUND (Session 27)
 - Does the Waterdeep cemetery necromancer have access to Speak with Dead?
 - What items was Edward buried with?
 - Where is Edward's house in Waterdeep?
 - Which three Princes did Sabrina's party kill? What was the fourth?
 - What went wrong when they tried to kill the fourth Prince?
+- Can the party create a distraction to extend the patrol window?
 
 ## Related Quests
 - [[Stop_Tharizduns_Release]] - Edward's intel could be critical for fighting the remaining Princes
@@ -90,10 +104,13 @@ Sabrina suggested that Edward:
 - Edward Hamel's House - Somewhere in Waterdeep (location unknown)
 
 ## Urgency Assessment
-**MEDIUM** -- This quest is not time-sensitive and can be pursued when the party is next in Waterdeep. However, the intelligence Edward could provide about the Princes of Tharizdun may prove invaluable for the party's primary mission. The party is currently leaving Waterdeep for Neverwinter, so this will likely wait.
+**MEDIUM** -- The grave has been located and scouted, but the party is now in [[Neverwinter]]. This investigation will resume on the next visit to Waterdeep. The intelligence Edward could provide about the Princes of Tharizdun remains invaluable.
 
 ## Notes
-- The party is currently departing Waterdeep for Neverwinter -- this investigation will likely be picked up on a return trip
+- The party is now in Neverwinter (as of Session 27) -- this investigation will be picked up on a return trip to Waterdeep
+- The grave is in a corner of the cemetery with a 10-minute guard rotation
+- The party only needs the head for Speak with Dead, not the full body
+- Modred has a spade ready for the attempt
 - Speak with Dead is a 3rd-level spell (necromancy) -- the party may not have access to it themselves
 - [[Clover]] as a druid may eventually gain access to Speak with Dead, or the party can hire the cemetery necromancer
 - Sabrina's party's experience fighting 3 of the 4 Princes makes Edward potentially the most valuable intelligence source available

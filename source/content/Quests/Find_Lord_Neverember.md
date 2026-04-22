@@ -7,7 +7,7 @@ priority: low
 quest_giver: Daggers of the North
 started: Session 18
 completed: Session 25
-last_updated: Session 26
+last_updated: 27
 tags:
   - quest
   - campaign/icebreakers
@@ -24,7 +24,7 @@ tags:
 **Quest Giver:** [[Daggers_of_the_North|Daggers of the North]]
 **Started:** Session 18
 **Completed:** Session 25
-**Last Updated:** Session 25
+**Last Updated:** Session 27
 
 > **This quest has been completed and archived.** See [[Archive/Find_Lord_Neverember|archived version]] for full details.
 
@@ -246,3 +246,28 @@ Boss fight against possessed Neverember + Water Elemental begins next session. F
 - The Crown of the Guardians is a key tool for breaking through the possession
 - Necromancy magic suggests Dispel Magic or similar countermeasures may help
 - Modred's defiance of the entity was powerful: "You shall have no forgiveness. And you shall perish!"
+
+## Session 27 - Return to Neverwinter
+
+### Neverember Returns Home
+[[Lord_Neverember|Lord Neverember]] traveled through [[Jaspar_Starshade|Jaspar's]] gauntlet-based portal to [[Neverwinter]], accompanied by [[Raenar_Neverember|Raenar]] and the party. Both Neverember and Raenar screamed in pain during transit but emerged without visible corruption.
+
+### Sebastian's Memory Magic
+Upon arriving at Neverwinter's front gates, the party discovered the extent of [[Sebastian|Sebastian's]] control:
+- Guards did not recognize Lord Neverember as their lord
+- One guard said: *"The Lord of Neverember is the best"* -- referring to Sebastian
+- When asked how long Sebastian has been lord, a guard replied: *"As long as I've been born, I think"*
+- The populace's memories have been magically rewritten -- they genuinely believe Sebastian has always ruled
+- Propaganda banners with Sebastian's face and an eye symbol are posted throughout the city
+
+### Neverember's Intel Before Departure
+Before leaving Waterdeep, Neverember shared information about the cursed crown from Session 26:
+- The crown was intentionally cursed by crypt guardians to prevent theft
+- If worn, it grants a feeling of power but slowly kills the wearer
+- The guardians only gave it away because "something is very wrong"
+- Neverember also identified potential allies: [[House_Timore|House Timore]] (soldiers) and the masked woman [[Liset]] (intelligence)
+
+### Current Status
+**Quest is COMPLETED** -- Lord Neverember has been returned to Neverwinter. However, reclaiming the city from Sebastian is now a separate active quest: [[Reclaim_Neverwinter]].
+
+The party entered the city disguised as merchants and is heading to the Thirsty Goat tavern in the docks, hoping to find contacts not under Sebastian's enchantment.
