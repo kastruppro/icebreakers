@@ -193,7 +193,7 @@ The overarching plot involves [[The_Chained|the Chained cult]] attempting to fre
 
 | Location |
 |----------|
-| [[Axeholm\|Axeholm]] |
+| [[Axelholm\|Axelholm]] |
 | [[Dream_Realm_Desna\|Dream Realm Desna]] |
 | [[Frozen_Pirate_Ship\|Frozen Pirate Ship]] |
 | [[Mountain_Top\|Mountain Top]] |

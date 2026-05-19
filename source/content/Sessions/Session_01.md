@@ -26,7 +26,7 @@ tags:
 ### New NPCs
 - **[[Toblen]]** - Human Male - Mayor of [[Phandalin]], runs the tavern. Offered the party lodging and wine.
 - **[[Sister_Gale|Sister Gale]]** - Half-Elf Female - Cleric of [[Tymora]] at the Shrine of Luck. Attempted to dispel the ice magic but failed.
-- **[[Norbus]]** - Dwarf Male - Friend of [[Toblen]] who works at the digging site. Wanted to check on [[Axeholm]].
+- **[[Norbus]]** - Dwarf Male - Friend of [[Toblen]] who works at the digging site. Wanted to check on [[Axelholm]].
 - **Grom** - Dwarf Male - Leader of the Digging Site. Negotiating with orcs over territory.
 - **Krikk** - Orc Male - Leader of the Gundrak orc settlement. Made peace with dwarves; mentioned thunderbear ritual to [[Talos]].
 - **[[Erik_Phandalin|Erik]]** - Human Male - [[Toblen]]'s nephew. Delivered [[Milo_Swiftclock|Milo]]'s letters to [[Neverwinter]].

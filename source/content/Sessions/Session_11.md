@@ -31,7 +31,7 @@ tags:
 - **[[Liora_Swiftclock|Liora Swiftclock]]** - Delivered prophecy to [[Clover]]; agreed to stay in [[Neverwinter]] with [[Arthur_De_Moray|Arthur]]
 - **[[Arthur_De_Moray|Arthur De Moray]]** - Doesn't remember being possessed; staying at [[Swiftclock_Home|Swiftclock home]] under protection
 - **[[Serina_Swiftclock|Serina Swiftclock]]** - Revealed the truth about [[Liora_Swiftclock|Liora]]'s visions and the ritual incident
-- **[[Elira_Moonshadow|Elira Moonshadow]]** - Found information about gem-crafting; dwarves in [[Waterdeep]] and [[Axeholm]] know most
+- **[[Elira_Moonshadow|Elira Moonshadow]]** - Found information about gem-crafting; dwarves in [[Waterdeep]] and [[Axelholm]] know most
 - **[[Master_Tiberius_Gearwhistle|Master Tiberius Gearwhistle]]** - Offered to place protective wards on the [[Swiftclock_Home|Swiftclock home]] for [[Arthur_De_Moray|Arthur]]
 
 ## Places Visited

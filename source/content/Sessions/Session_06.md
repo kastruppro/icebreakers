@@ -4,7 +4,7 @@ session: 6
 campaign: neverwinter-icebreakers
 date:
 party: [Milo, Modred, Jaspar, Auren]
-locations: [The Thirsty Goat, Pirate Ship, Dependable Defenses, Neverwinter Stables, Road to Axeholm, Axeholm]
+locations: [The Thirsty Goat, Pirate Ship, Dependable Defenses, Neverwinter Stables, Road to Axelholm, Axelholm]
 npcs: [Brost, Dwarf Armorer, Aron, White Dragon]
 items_acquired: [Pirate Hat, Treasure Map, Moonstones, Rum Bottles, Draft Horse, Carriage]
 status: published
@@ -19,7 +19,7 @@ tags:
 **Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Modred_De_Moray|Sir Modred De Moray]], [[Jaspar_Starshade|Jaspar Starshade]], [[Auren]]
 
 ## Quick Summary
-> The party looted a [[Frozen_Pirate_Ship|frozen pirate ship]] in [[Neverwinter]] harbor, finding gold, a treasure map, and moonstones. After selling their finds and purchasing a horse and carriage, they headed to [[Axeholm]] but witnessed the [[White_Dragon|white dragon]] fleeing a massive ring of frost expanding from the mountains. Their carriage was destroyed by ice spikes, forcing them to proceed on foot. At [[Axeholm]]'s entrance, they encountered the dragon eating a goat and had to sneak past it to reach safety inside.
+> The party looted a [[Frozen_Pirate_Ship|frozen pirate ship]] in [[Neverwinter]] harbor, finding gold, a treasure map, and moonstones. After selling their finds and purchasing a horse and carriage, they headed to [[Axelholm]] but witnessed the [[White_Dragon|white dragon]] fleeing a massive ring of frost expanding from the mountains. Their carriage was destroyed by ice spikes, forcing them to proceed on foot. At [[Axelholm]]'s entrance, they encountered the dragon eating a goat and had to sneak past it to reach safety inside.
 
 ## Characters Met
 
@@ -29,7 +29,7 @@ tags:
 ### NPCs Mentioned
 - **Aron** - Human male, stable worker who sold the party a draft horse and carriage
 - **dwarf armorer** - Owner of Dependable Defenses, bought the [[Moonstone_Mask|moonstone]] for 190 gp after [[Modred_De_Moray|Modred]]'s "persuasion"
-- **[[White_Dragon|White Dragon]]** - Ancient [[White_Dragon|white dragon]], seen fleeing the freeze wave and later blocking [[Axeholm]]'s entrance
+- **[[White_Dragon|White Dragon]]** - Ancient [[White_Dragon|white dragon]], seen fleeing the freeze wave and later blocking [[Axelholm]]'s entrance
 
 ## Places Visited
 
@@ -57,7 +57,7 @@ tags:
 - Rain had turned to hail
 - Purchased a draft horse and carriage from Aron
 
-### road to [[Axeholm]]
+### road to [[Axelholm]]
 **Travel Interrupted:**
 - Witnessed a ring of frost expanding from the [[Mountain_Top|mountain]], chasing the [[White_Dragon|white dragon]]
 - Dragon did a loop and flew under the ring back toward the [[Mountain_Top|mountain]]
@@ -65,7 +65,7 @@ tags:
 - Horse fled in terror
 - Party continued on foot
 
-### [[Axeholm]]
+### [[Axelholm]]
 **Entrance:**
 - Dwarves encased in ice around the entrance
 - [[White_Dragon|White dragon]] sitting over entrance eating a goat
@@ -104,38 +104,38 @@ tags:
 11. **Horse and Carriage Purchase** - Bought transport at southern stables as rain turned to hail
 12. **The Freeze Wave** - Witnessed ring of frost expanding from [[Mountain_Top|mountain]], chasing the dragon
 13. **Carriage Destroyed** - Ice spikes broke the carriage, horse fled
-14. **On Foot to [[Axeholm]]** - Continued journey without transport
-15. **Dragon Encounter** - Found [[White_Dragon|white dragon]] blocking [[Axeholm]] entrance, eating a goat
+14. **On Foot to [[Axelholm]]** - Continued journey without transport
+15. **Dragon Encounter** - Found [[White_Dragon|white dragon]] blocking [[Axelholm]] entrance, eating a goat
 16. **Stealth Entry** - Party snuck past dragon to reach safety inside
 
 ## Important Quotes
 
-> "You need to get past a dragon to get into [[Axeholm]]? Just run really fast." - [[Auren]]'s philosophy, apparently
+> "You need to get past a dragon to get into [[Axelholm]]? Just run really fast." - [[Auren]]'s philosophy, apparently
 
 ## Revelations & Lore
 
 - The pirate ship was frozen mid-harbor by the same supernatural cold affecting the region
 - A treasure map exists showing multiple islands - one unmarked island caught [[Milo_Swiftclock|Milo]]'s attention
 - The [[White_Dragon|white dragon]] is fleeing the freeze wave, not causing it
-- [[Axeholm]]'s dwarven defenders have been frozen in ice
-- The dragon has claimed [[Axeholm]]'s entrance as its feeding ground
+- [[Axelholm]]'s dwarven defenders have been frozen in ice
+- The dragon has claimed [[Axelholm]]'s entrance as its feeding ground
 
 ## Unresolved Threads
 
 - [ ] What's on the unmarked island on the treasure map?
 - [ ] Who or what is causing the freeze waves from the [[Mountain_Top|mountain]]?
-- [ ] What happened to the dwarves of [[Axeholm]]?
+- [ ] What happened to the dwarves of [[Axelholm]]?
 - [ ] What's the connection between the freeze waves and the larger plot?
 - [ ] Will the frozen pirates ever thaw?
 - [ ] Who won the election?
 
 ## Party Status at End
 
-**Location:** Inside [[Axeholm]], just past the entrance gate
+**Location:** Inside [[Axelholm]], just past the entrance gate
 **Condition:**
 - [[Jaspar_Starshade|Jaspar]] took damage from the dragon but survived
 - Lost their transportation (horse fled, carriage destroyed)
-**Next Steps:** Explore [[Axeholm]] and find out what's causing the freeze waves
+**Next Steps:** Explore [[Axelholm]] and find out what's causing the freeze waves
 
 ## Session Metadata
 

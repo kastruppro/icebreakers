@@ -54,7 +54,7 @@ The House of Knowledge is the temple of Oghma in Neverwinter, serving as both a 
 ## Events at This Location
 - Session 4: Party first visited; met Gearwhistle and Elira
 - Session 5: Irena researched cults for Milo
-- Session 9: Debriefed Gearwhistle on Axeholm events; curse removal attempted on Arthur; shadow entity emerged
+- Session 9: Debriefed Gearwhistle on Axelholm events; curse removal attempted on Arthur; shadow entity emerged
 - Session 10: Shadow entity battle; Arthur climbed Oghma statue; Clover joined party here
 - Session 11: Gearwhistle offered to place protective wards on Arthur
 

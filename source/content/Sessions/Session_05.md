@@ -29,7 +29,7 @@ tags:
 - **Svend** - Human Male - Cemetery administrator. Informed [[Milo_Swiftclock|Milo]] that Edward Hammel died 200 years ago.
 
 ### Returning NPCs
-- **[[Sebastian]]** - Gave election speech promising magic for everyone; secretly asked [[Jaspar_Starshade|Jaspar]] to retrieve the Erloom hammer from [[Axeholm]].
+- **[[Sebastian]]** - Gave election speech promising magic for everyone; secretly asked [[Jaspar_Starshade|Jaspar]] to retrieve the Erloom hammer from [[Axelholm]].
 - **[[Liset]]** - Gave election speech advocating for common people; speaks Celestial; offered [[Auren]] a job after hearing him sing.
 - **Selune** - Appeared in [[Jaspar_Starshade|Jaspar]]'s prophetic dream.
 
@@ -93,7 +93,7 @@ tags:
 - [[Sebastian]] laughed, wanted [[Jaspar_Starshade|Jaspar]] to "fetch something" instead
 - At his residence, [[Sebastian]] revealed he entered the castle and saw the portal [[Lord_Neverember]] fell through
 - [[Sebastian]] seemed unconcerned about [[Lord_Neverember]]'s fate
-- Fetch quest: Retrieve powerful Erloom hammer lost at [[Axeholm]]
+- Fetch quest: Retrieve powerful Erloom hammer lost at [[Axelholm]]
 - A dwarf reported it was stolen at night by someone with "long ears and long hair"
 - [[Sebastian]] warned [[Jaspar_Starshade|Jaspar]] not to tell others about [[Lord_Neverember]]'s disappearance
 
@@ -119,7 +119,7 @@ tags:
 3. **[[House_of_Knowledge]] (First Visit)** - Irena reveals cult books are missing/defaced, lends [[Milo_Swiftclock|Milo]] a partial cult book
 4. **Election Speeches** - [[Sebastian]] and [[Liset]] campaign; party observes and notices suspicious elements
 5. **Party Splits** - Each member pursues different leads
-6. **[[Jaspar_Starshade|Jaspar]]'s Path** - Approaches [[Sebastian]], offered fetch quest for Erloom hammer at [[Axeholm]]
+6. **[[Jaspar_Starshade|Jaspar]]'s Path** - Approaches [[Sebastian]], offered fetch quest for Erloom hammer at [[Axelholm]]
 7. **[[Milo_Swiftclock|Milo]]'s Path** - Researches dragons at [[House_of_Knowledge]], learns about white dragons
 8. **[[Modred_De_Moray|Modred]] & [[Auren]]'s Path** - Infiltrate [[Moonstone_Mask]], [[Auren]]'s singing creates distraction
 9. **[[Liset]] Interaction** - [[Modred_De_Moray|Modred]] questions her about [[Lord_Neverember]]; she deflects but reveals she speaks Celestial
@@ -140,7 +140,7 @@ tags:
 - Cult books at the [[House_of_Knowledge]] have been systematically stolen or defaced - someone is covering tracks
 - Only remaining cult information mentions "[[The_Chained]]" with a partial symbol
 - [[Sebastian]] knows [[Lord_Neverember]] fell through a portal and doesn't seem concerned
-- The Erloom hammer was stolen from [[Axeholm]] by someone with "long ears and long hair" (likely a harengon - possibly [[Liora_Swiftclock|Liora]]?)
+- The Erloom hammer was stolen from [[Axelholm]] by someone with "long ears and long hair" (likely a harengon - possibly [[Liora_Swiftclock|Liora]]?)
 - White dragons are intelligent and have kept servants; they live in [[Mountain_Top|mountain]] caves and are vulnerable to fire
 - Edward Hammel died 200 years ago - timeline connects to ancient events
 - [[Jaspar_Starshade|Jaspar]]'s prophetic dreams show fire, divine wings, and an ominous voice claiming "we will conquer the world"
@@ -160,7 +160,7 @@ tags:
 
 **Location:** [[The_Thirsty_Goat]] Tavern (sleeping)
 **Condition:** Healthy, well-rested
-**Next Steps:** Potentially travel to [[Axeholm]] to retrieve the Erloom hammer
+**Next Steps:** Potentially travel to [[Axelholm]] to retrieve the Erloom hammer
 
 ## Session Metadata
 
@@ -173,5 +173,5 @@ tags:
 **Mechanical Notes:**
 - Party is operating in [[Neverwinter]] during the election period
 - Information gathering through social encounters
-- First mention of [[Axeholm]] as destination
+- First mention of [[Axelholm]] as destination
 - First appearance of [[Jaspar_Starshade|Jaspar]]'s prophetic dream ability

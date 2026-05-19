@@ -6,7 +6,7 @@ status: active
 priority: critical
 quest_giver: Liora Swiftclock
 started: Session 26
-last_updated: 29
+last_updated: 30
 tags:
   - quest
   - campaign/icebreakers
@@ -24,7 +24,7 @@ tags:
 **Priority:** CRITICAL
 **Quest Giver:** [[Liora_Swiftclock|Liora Swiftclock]] (Telepathic Message)
 **Started:** Session 26
-**Last Updated:** Session 29
+**Last Updated:** Session 30
 
 ## Objective
 Recover Liora from [[Cora]] and keep the Swiftclock family safe from the cult.
@@ -138,6 +138,17 @@ Cora reached the oak portal tree first and vanished through it carrying Liora. T
 
 ### Prophecy Progress
 The first clause of Liora's Session 26 prophecy -- *"The forest will burn in the destruction of Tharizdun"* -- is fully realized: New Sharandar and the Temple of Leaves burned to the ground in Sessions 28-29. The second clause -- *"The chains will wither all you hold"* -- remains ominous and pending.
+
+## Session 30 - No Updates on Either Swiftclock
+
+### Liora -- Still Missing
+The party reached [[The Moonlit Pool]] in the Feywild via wine-fueled emotion travel but did not see [[Liora_Swiftclock|Liora]] at the camp. [[Cora]] was there with [[House Castellers]] cultists and Clover's parents, but not Liora. The [[Queen of Darkness]] manifested a shadow-puppet of Liora earlier in the session pleading *"They have captured me. Please, you need to find me."* Milo tested it by asking about a conversation outside their house -- the shadow glitched. It was an illusion, not real contact. Liora's current location remains unknown; most likely she was moved below the dry pool with Clover's parents, or held elsewhere in the Queen's domain. See [[Find_Liora]] for full detail.
+
+### Arthur -- Still No Update
+[[Arthur_De_Moray|Arthur]]'s fate is unchanged from Session 29. He was last seen in the quarantine tent outside the Mythal when the Session 28 attack began. The party is in the Feywild and cannot check on him. The Queen of Darkness's shadow-puppet of Arthur (*"Brother, come to me. The place is burning. I've been here for a while. Why haven't you come?"*) was tested with Modred's favorite-dish question and failed. The real Arthur was not contacted. His status: unknown.
+
+### New Dimension to the Threat
+The party now knows [[Cora]] is the **daughter of the Queen of the Unseelie Court** -- the crown princess of the Winter Court. This means every Swiftclock kidnapping since Session 01 has been an operation run by (or at least known to) the Queen of Darkness herself. The Queen explicitly claimed Milo's loved ones are *"in my care"* and threatened that the party would never find them. This dramatically escalates the threat level against the Swiftclock family from "ambitious rogue cultist" to "foreign crown princess with the full backing of the Winter Court."
 
 ## Urgency Assessment
 **CRITICAL** -- Liora is now in the [[Feywild]] in Cora's hands. Arthur's status is unknown. The eladrin refuge at New Sharandar is destroyed; the family no longer has a safe location. The party must catch Cora in the Feywild and, eventually, return to determine what happened to Arthur.

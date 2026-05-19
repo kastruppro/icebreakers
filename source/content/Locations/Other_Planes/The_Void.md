@@ -104,7 +104,7 @@ The Void also contains **chain locations** -- spaces where [[Tharizdun]]'s chain
 - [[Sabrina Nightgale]]'s party killed 3 of 4 Princes; the last Prince remains
 
 ## Connections
-- [[Axeholm]] - Entry point through triangular portal (Session 7)
+- [[Axelholm]] - Entry point through triangular portal (Session 7)
 - [[Mountain_Top|Mountain Top]] - Exit point for the party (Session 7)
 - [[The Depths]] - Triangular portal opened in the Water Sphere Chamber (Sessions 25-26)
 - [[Castellers Mansion]] - Exit point via Milo's self-drawn portal (Session 26)

@@ -78,7 +78,7 @@ His dreams exist in a crossover between the dream realm and something else, maki
 **Quick Thinking:**
 - Showed compassion by placing flotation devices on frozen pirates (in case they're unfrozen later)
 - Trusts in luck - solved the jester puzzle by flipping coins to let Tymora decide (Session 20)
-- Carved the triangular portal in [[Axeholm]] after the corrupted scimitar responded to him (Session 7)
+- Carved the triangular portal in [[Axelholm]] after the corrupted scimitar responded to him (Session 7)
 
 ## **Romantic Interest**
 
@@ -102,7 +102,7 @@ His dreams exist in a crossover between the dream realm and something else, maki
 ## **Equipment of Note**
 
 ### Jaspar's Rapier
-His blade reacts to the mysterious alien slime/substance connected to the [[Tharizdun]] cult. When he discovered the substance on [[Neverwinter]]'s harbor walls (Session 3), his sword responded to it. The corrupted scimitar and "the substance" were also drawn to him during the [[Axeholm]] ritual (Session 7).
+His blade reacts to the mysterious alien slime/substance connected to the [[Tharizdun]] cult. When he discovered the substance on [[Neverwinter]]'s harbor walls (Session 3), his sword responded to it. The corrupted scimitar and "the substance" were also drawn to him during the [[Axelholm]] ritual (Session 7).
 
 ## **Personal Side Quests**
 1. **Discover His True Origins:** Uncover the truth about his "Father" and his purpose as an Aasimar

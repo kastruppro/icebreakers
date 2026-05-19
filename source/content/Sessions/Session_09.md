@@ -67,7 +67,7 @@ tags:
 **Gearwhistle's Private Room:**
 - [[Professor_Thaddeus_Blackthorn|Professor]] Blackthorn seen lurking outside suspiciously
 - Gearwhistle magically secured the room at [[Milo_Swiftclock|Milo]]'s request
-- Full debriefing on [[Axeholm]], the [[Mountain_Top|mountain top]], and releasing "something worse"
+- Full debriefing on [[Axelholm]], the [[Mountain_Top|mountain top]], and releasing "something worse"
 - Discussed [[Sebastian]]'s suspicious election win and power display
 - Gearwhistle offered to investigate if [[Sebastian]] is under influence
 - Attempted curse removal on [[Arthur_De_Moray|Arthur]]
@@ -95,7 +95,7 @@ tags:
 13. **Castle Restoration** - Witnessed [[Sebastian]]'s display of chronurgy power
 14. **[[Liset]]'s Concerns** - Learned about suspicious landslide election victory
 15. **[[House_of_Knowledge]]** - Met with Gearwhistle in secured room
-16. **Full Debriefing** - Shared everything about [[Axeholm]] and the [[Mountain_Top|mountain]]
+16. **Full Debriefing** - Shared everything about [[Axelholm]] and the [[Mountain_Top|mountain]]
 17. **[[Sebastian]] Investigation** - Gearwhistle agreed to look into possible influence
 18. **Curse Removal Attempt** - Gearwhistle tried to free [[Arthur_De_Moray|Arthur]] from his curse
 19. **Shadow Emergence** - A human-shaped shadow emerged from [[Arthur_De_Moray|Arthur]]

@@ -6,7 +6,7 @@ status: active
 priority: critical
 quest_giver: Tyr
 first_mentioned: Session 13
-last_updated: 29
+last_updated: 31
 tags:
   - quest
   - campaign/icebreakers
@@ -23,7 +23,7 @@ tags:
 **Priority:** WORLD-ENDING THREAT
 **Quest Giver:** [[Tyr]] (God of Justice)
 **First Mentioned:** Session 13
-**Last Updated:** Session 29
+**Last Updated:** Session 31
 
 ## Objective
 Prevent the cult of Tharizdun from freeing the Chained God and destroying the world.
@@ -78,9 +78,19 @@ Tyr appeared to Modred at the Temple of Tyr with an urgent warning:
 - [x] **SECOND PRINCE OF THARIZDUN KILLED** -- Confirmed by Corellon Larethian during Lateu'quor ceremony (Session 28)
 - [x] **Feywild origin of cult confirmed** -- cultists observed emerging from the oak portal tree during the Session 29 fight
 - [x] **Party crossed into the Feywild** in pursuit of Cora and the cult (Session 29)
+- [x] **Cora confirmed as daughter of the Queen of the Unseelie** -- crown princess of the Winter Court (Session 30)
+- [x] **[[Queen of Darkness]] identified** as Cora's mother and ruler of the Unseelie Court (Session 30)
+- [x] **[[House Castellers]] operating openly in the Feywild** -- tents and cages of captive fae around the dry [[The Moonlit Pool|Moonlit Pool]] (Session 30)
+- [x] **New cult asset discovered: "Okramok"** -- being protected by Cora and Clover's parents beneath the dry Moonlit Pool (Session 30)
+- [x] **Queens of the Feywild ([[Queen Meb|Meb]] and [[Queen Tiandra|Tiandra]]) propose closing the Feywild as a containment plan against post-release Tharizdun -- Milo specifically required for the operation** (Session 31)
+- [ ] Decide whether to accept the Queens' sealing plan (see [[Close_The_Feywild]])
 - [ ] Kill three remaining Princes of Tharizdun (2 of 5 slain)
 - [ ] Destroy three remaining chains
 - [ ] Locate the Feywild-side source of the cult incursion
+- [ ] **Identify what "Okramok" is** -- candidate for a Prince, a chain, or a new class of cult asset
+- [ ] **Enter the dry Moonlit Pool** to reach Okramok, or destroy it in place
+- [ ] **Neutralize [[Cora]]** (crown princess of the Unseelie, cult agent)
+- [ ] Determine the Queen of the Unseelie's relationship to Tharizdun's release (alliance? client? user?)
 - [ ] Locate source of "great power" in Waterdeep
 - [ ] Deal with Sebastian's cult alliance in Neverwinter
 - [ ] Investigate Edward Hamel's grave/house in Waterdeep for intel
@@ -364,6 +374,63 @@ At the close of the ceremony, the cult launched a coordinated assault on New Sha
 
 ### Corellon's Gift
 Corellon gifted the party a Moonlight Longbow, given to [[Jaspar_Starshade|Jaspar]]. The bow reveals shapechangers and illusions and has a once-per-day guaranteed-hit shot to 5,000 feet. Corellon directed the party to the oak tree fey crossing as their next step.
+
+## Session 30 - Unseelie Link Revealed, "Okramok" Introduced
+
+### Cora is the Daughter of the Queen of the Unseelie
+[[Mr. Plant]], a Feywild flower-entity keeping a spiral garden with a cottage, delivered the session's load-bearing revelation. When Modred asked if Mr. Plant knew of a woman named Cora, Mr. Plant answered: *"Are you talking about the daughter of the Unseelie?"* [[Cora]] is **the crown princess of the Winter Court** -- the daughter of the Queen of the Unseelie ("the Queen of Darkness"). This recontextualizes her triangular portals, her flash-teleport, her ability to move between planes, and her entire role in the cult. She is not a freelance cultist; she is royalty of the Unseelie Court, and the cult's Feywild operation is being run with at least the Queen's knowledge.
+
+### The Queen of Darkness
+The party was pulled into the Queen of Darkness's domain -- a dark chamber dominated by a massive floating black diamond bleeding black fog. Clover recognized her from Feywild childhood scare-stories: this is the ruler of the Unseelie Court, Cora's mother. She can see and feed on emotion, manifest shadow-puppets of loved ones to bait deals, and anchor travelers in her realm via their anxiety. She offered the party safe passage to their "loved ones" in her care. Clover, nat-20 Insight, read the offer as malevolence and refused. Her parting threat: *"You will never find peace. You will never find your family, even though they are alive and in my care."* The Queen now knows the party exists and has refused her.
+
+### "Okramok"
+At session's end, hidden in the tree line at [[The Moonlit Pool]], Clover lip-read Cora saying to his parents: *"I've been followed in here. We need to protect **Okramok**. You need to jump down into the pool now."* Clover's parents jumped into the dry pool on command and vanished.
+
+**Okramok** is a brand-new proper noun. No description. No pronoun. Candidates based on what the cult is known to collect and protect:
+- A Prince of Tharizdun (the cult has been collecting them; two remain unaccounted for in this land; Corellon said he cannot sense them)
+- One of Tharizdun's remaining three chains, moved into the Feywild for safekeeping
+- A new class of cult asset -- something Feywild-native, possibly tied to the Unseelie Court
+- A person (less likely given the Queen's "in my care" line was used for other family members)
+
+Whatever Okramok is, it is important enough that Cora's response to being followed was to have her handlers (Clover's parents) dive into the pool with it immediately. This is now a primary cult target for the party.
+
+### House Castellers in the Feywild
+The party saw the [[House Castellers]] tent operation running at the dry Moonlit Pool itself -- tents, two perimeter cultists, one cultist beside Cora, and cages of captive fae creatures ("like the beginning of Shrek"). This is a new operational capability the cult was not previously known to have. The cult is harvesting fae captives in the Feywild under a House Castellers banner, at the site where Clover's parents were supposedly killed years ago.
+
+### The Moonlit Pool Was Not Destroyed
+Clover's backstory held that the Moonlit Pool was destroyed by cultists and his parents killed there. Session 30 proves both claims false. The pool is intact, it is dry (water drained), and it functions as a passage **down** to somewhere deeper -- whoever jumps in vanishes without hitting bottom. Okramok is below. The cult was not destroying the pool; they were commandeering it.
+
+### Immediate Priorities (Session 31+)
+1. Resolve the Moonlit Pool ambush on Cora (session 30 cliffhanger)
+2. Enter the dry pool to reach Okramok and Clover's parents
+3. Identify Okramok -- is it a Prince, a chain, or something new?
+4. Determine the political relationship between the Queen of the Unseelie Court and the Tharizdun cult
+5. Everything else -- Waterdeep power source, Sebastian, Edward Hamel, remaining Princes/chains -- remains open but is now downstream of cracking the Moonlit Pool
+
+## Session 31 - The Queens Propose Closing the Feywild
+After the failed ambush on [[Cora]] at the [[The Moonlit Pool|Moonlit Pool]], Cora transported the party to the audience chamber of the **Queens of the Feywild** -- **[[Queen Meb|Meb]]** and **[[Queen Tiandra|Tiandra]]**. The Queens are introduced as having previously been at war and now allied; the cause of the alliance, per their own framing, is the [[Tharizdun Cult|Cult]].
+
+### The Queens' Strategic Plan
+The Queens framed the situation in three connected points:
+
+1. **The Cult is operating inside the Feywild at sustained scale**, not just at the Moonlit Pool. Per their framing: the Cult "has been coming into the Feywild and destroying everything." The party's S30 observations (cultist line at the Sphinx Guardian, cultist compost at Mr. Plant's, the Castellers camp with cages of captive fae at the Moonlit Pool) are a sample of a wider problem.
+2. **The Queens want to close the Feywild off** -- to seal the realm against external access so the Feywild can be safe. Mechanism, timeline, what gets sealed in vs. out, and reversibility are all unspecified in the DM summary.
+3. **A sealed Feywild would be unreachable by Tharizdun and his cult after release.** The Queens are treating Tharizdun's release as a foreseeable enough event to justify isolating their realm from the multiverse as a containment strategy.
+
+### Milo Specifically Required
+The Queens specified that they need **[[Milo_Swiftclock|Milo]]** to close the Feywild. The DM summary does not record the reason or the mechanism. They did not ask the party as a whole; they asked Milo. Why specifically Milo is unconfirmed.
+
+### Shadow Containment Variant (see also [[Contain_Arthurs_Shadow]])
+The Queens also raised a second, distinct strategic option: leave the carrier of the Shadow inside a sealed Feywild permanently so the Shadow can never be released to free Tharizdun. The current carrier is [[Jaspar_Starshade|Jaspar]] (since Sessions 22 / 27). Jaspar was not present and did not consent.
+
+### Status
+No decision was given to the Queens this session. The offer is on the table. The party is sitting on a containment plan that, if executed, neutralizes the largest single Tharizdun attack vector (a sealed dimension Tharizdun cannot reach into) at unknown cost.
+
+### New Open Questions
+- What does "closing the Feywild" cost, mechanically? Who has to do what?
+- Why specifically Milo? (Working inference, not in DM summary: Chronurgy / dimensional-anchor work. Unconfirmed.)
+- Is the seal reversible?
+- What is the political relationship between [[Queen Meb|Meb]], [[Queen Tiandra|Tiandra]], and Cora -- and through Cora, the cult?
 
 ## Session 29 - Feywild Route Confirmed, Party Crosses Over
 

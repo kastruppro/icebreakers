@@ -29,7 +29,7 @@ An adventuring party formed in Phandalin during the crisis of unnatural winter a
 The party came together in [[Phandalin]] when temporal anomalies, unnatural summer snow, and strange creatures drew them to investigate. Each member had their own reasons for being there, but they united against the growing threat of [[Tharizdun]]'s cult.
 
 ## Notable Achievements
-- Cleared [[Axeholm]] of ice plague and stone giant
+- Cleared [[Axelholm]] of ice plague and stone giant
 - Discovered the [[Crown_of_the_Guardians]] in Neverwinter Castle
 - Won glory in the Waterdeep Arena
 - Infiltrated [[House_Castellers]] and uncovered the cult's operations

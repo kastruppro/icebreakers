@@ -12,12 +12,12 @@
 * **Languages:** Common, Sylvan, Druidic
 * **Equipment:** Dream Staff, Tyr's Gauntlets, druidic focus
 * **Age:** Unknown (young adult)
-* **Gender:** Female
+* **Gender:** Male
 * **Size:** Small
 
 ### Personality Traits
-Fiercely protective of family and those she considers under her care.
-Willing to pay any price to save those she loves.
+Fiercely protective of family and those he considers under his care.
+Willing to pay any price to save those he loves.
 #### Ideals
 Balance. Light is not good in itself, only when balanced with dark. (Neutral)
 #### Bonds
@@ -28,24 +28,24 @@ My protectiveness can make me act rashly when family is threatened.
 I sometimes struggle to trust others with those I care about.
 
 ## **Backstory**
-Clover was born in the Feywild, where her family served as protectors of the Moonlit Pool, a sacred druidic site of great power. She trained as a Moon Druid under her parents' guidance, learning to draw upon the primal magic of the pool and master the art of wild shaping.
+Clover was born in the Feywild, where his family served as protectors of the Moonlit Pool, a sacred druidic site of great power. He trained as a Moon Druid under his parents' guidance, learning to draw upon the primal magic of the pool and master the art of wild shaping.
 
-Her peaceful existence shattered when cultists of Tharizdun attacked the Moonlit Pool. In the chaos, her younger sister Thistle was kidnapped, her parents were killed, and the sacred site was destroyed. The cultists stole an artifact from the pool - though Thistle never learned what it was - and scattered the druidic community.
+His peaceful existence shattered when cultists of Tharizdun attacked the Moonlit Pool. In the chaos, his younger sister Thistle was kidnapped, his parents were killed, and the sacred site was destroyed. The cultists stole an artifact from the pool - though Thistle never learned what it was - and scattered the druidic community.
 
-Desperate to find her sister and avenge her family, Clover wandered through a portal from the Feywild and found herself in Neverwinter, on the Material Plane. There, during a battle against a shadow entity possessing Arthur De Moray in the Chapel of Oghma, she encountered the Neverwinter Icebreakers and joined their cause.
+Desperate to find his sister and avenge his family, Clover wandered through a portal from the Feywild and found himself in Neverwinter, on the Material Plane. There, during a battle against a shadow entity possessing Arthur De Moray in the Chapel of Oghma, he encountered the Neverwinter Icebreakers and joined their cause.
 
-Her journey with the party has been driven by the singular goal of rescuing Thistle, a mission that finally succeeded in Session 21 when the party entered Thistle's nightmare using the Dream Staff and defeated the elemental chimera-beast holding her captive.
+His journey with the party has been driven by the singular goal of rescuing Thistle, a mission that finally succeeded in Session 21 when the party entered Thistle's nightmare using the Dream Staff and defeated the elemental chimera-beast holding her captive.
 
 ## **Current Knowledge**
-* Clover is now the **Protector of the Moonlit Pool** - a title inherited from her fallen family
-* She has promised to teach Thistle "the ways" of their druidic tradition
+* Clover is now the **Protector of the Moonlit Pool** - a title inherited from his fallen family
+* He has promised to teach Thistle "the ways" of their druidic tradition
 * The cultists who attacked the Moonlit Pool were seeking "Thassa" and "strong spellcasters that could bind someone"
 * An unknown artifact was stolen from the Moonlit Pool during the attack
 
 ## Familiar / Wild Shapes
 
 ### Notable Wild Shape Forms
-Clover has demonstrated mastery over numerous wild shape forms throughout her adventures:
+Clover has demonstrated mastery over numerous wild shape forms throughout his adventures:
 
 **Combat Forms:**
 - **Giant Constrictor Snake** (gained at Level 6)
@@ -62,7 +62,7 @@ Clover has demonstrated mastery over numerous wild shape forms throughout her ad
 
 ## **Family**
 
-**Parents** (deceased): Druids who protected the Moonlit Pool in the Feywild. Both were killed during the cultist attack on the sacred site. Clover saw them on a boat sailing through the underworld during the party's voyage through the Void - they did not respond when she saw them, confirming they had passed to the afterlife.
+**Parents** (deceased): Druids who protected the Moonlit Pool in the Feywild. Both were killed during the cultist attack on the sacred site. Clover saw them on a boat sailing through the underworld during the party's voyage through the Void - they did not respond when he saw them, confirming they had passed to the afterlife.
 
 **[[Thistle]]** *(younger sister, approximately 16 years old - Harengon)*: A druid trainee who was kidnapped by cultists and placed under Tharizdun's direct spell. She was held at House Castellers, floating in a magical trance and connected to the sleeping Castellers children. After the party used the Dream Staff to enter her nightmare and defeat the beast within, Thistle was finally freed. She is now safe at the Temple of Tyr in Waterdeep, recovering from her ordeal and processing the loss of their parents. Clover has promised to teach her the role of Protector.
 
@@ -90,19 +90,19 @@ A beautiful glass staff that emanates warmth and starlight. Blessed by the godde
 
 **Critical Warning:** If the user fails while inside someone's dream, they are trapped forever with the dreamer. There is no escape.
 
-The staff was essential in freeing Thistle from Tharizdun's spell. When Clover accepted it, she said: *"Whatever the price is, I'm willing to pay it."*
+The staff was essential in freeing Thistle from Tharizdun's spell. When Clover accepted it, he said: *"Whatever the price is, I'm willing to pay it."*
 
 ### [[Tyrs_Gauntlets|Tyr's Gauntlets]]
 *Obtained from Temple of Tharizdun in Session 16*
 
-Divine gauntlets from Tyr's own armory. They magically resized to fit Clover's small harengon hands when she claimed them.
+Divine gauntlets from Tyr's own armory. They magically resized to fit Clover's small harengon hands when he claimed them.
 
 **Properties:**
 - **Chain Breaker:** Can interact with and destroy Tharizdun's chains at cult ruins
 - **Divine Weapon:** A crucial weapon in the fight against the Betrayer God
 - **Self-Adjusting:** Resizes to fit any wearer
 
-**Party-Wide Boon:** When Clover retrieved the gauntlets, her exceptional persuasion convinced Tyr to grant all party members a special blessing:
+**Party-Wide Boon:** When Clover retrieved the gauntlets, his exceptional persuasion convinced Tyr to grant all party members a special blessing:
 > *"As an action, you can sacrifice some or all of your hit points to give to another creature, but you take on all recent injuries and conditions from that creature, including diseases, dismemberment, and death. You instantly die if doing this would bring you to 0 hit points."*
 
 ## **The Prophecy**
@@ -115,33 +115,33 @@ This prophecy was reinforced during Clover's trial in the Void, where a blinding
 
 > *"I can give you power. I can give you immense power to find your family, to restore the moonlit pool, and to free your people."*
 
-Clover refused, speaking words that defined her character: **"Light is not good in itself, only when balanced with dark."**
+Clover refused, speaking words that defined his character: **"Light is not good in itself, only when balanced with dark."**
 
-The entity then showed her the Chained One's true form with 8 chains - a vision of Tharizdun himself.
+The entity then showed him the Chained One's true form with 8 chains - a vision of Tharizdun himself.
 
 ## **Key Moments**
 
 ### Joining the Icebreakers (Session 10)
-Clover appeared during the battle against the shadow entity in the Chapel of Oghma, wild-shaping into a giant spider and joining the fight. She revealed her background as a protector of the Moonlit Pool whose family was gone and sister was missing.
+Clover appeared during the battle against the shadow entity in the Chapel of Oghma, wild-shaping into a giant spider and joining the fight. He revealed his background as a protector of the Moonlit Pool whose family was gone and sister was missing.
 
 ### The Void Trial (Session 11)
-While traveling through the Void to Waterdeep, Clover faced a divine temptation. She landed at a corrupted version of the Moonlit Pool and was offered power to save her family. She refused, and later saw her parents among the dead souls on a boat in the underworld - confirmation that they had died.
+While traveling through the Void to Waterdeep, Clover faced a divine temptation. He landed at a corrupted version of the Moonlit Pool and was offered power to save his family. He refused, and later saw his parents among the dead souls on a boat in the underworld - confirmation that they had died.
 
 ### Receiving Tyr's Gauntlets (Session 16)
-In the Temple of Tharizdun, Clover transformed into a tiny spider and was thrown by Jaspar through the Substance barrier protecting Tyr's Gauntlets. She claimed them, and they shrank to fit her small harengon hands. Her persuasion with Tyr earned the divine boon for the entire party.
+In the Temple of Tharizdun, Clover transformed into a tiny spider and was thrown by Jaspar through the Substance barrier protecting Tyr's Gauntlets. He claimed them, and they shrank to fit his small harengon hands. His persuasion with Tyr earned the divine boon for the entire party.
 
 ### Receiving the Dream Staff (Session 19)
-At the Temple of Desna in Daggerford, the goddess revealed that Thistle was under Tharizdun's direct spell. Clover accepted the Dream Staff and its terrible risk - if she failed in the dream, she would be trapped forever.
+At the Temple of Desna in Daggerford, the goddess revealed that Thistle was under Tharizdun's direct spell. Clover accepted the Dream Staff and its terrible risk - if he failed in the dream, he would be trapped forever.
 
 ### Rescuing Thistle (Session 21)
 Using the Dream Staff, the party entered Thistle's nightmare. Clover's Elemental Weapon spell (cold damage on Modred's sword) proved to be the turning point in defeating the elemental chimera-beast. When the beast died, its scream transformed into Thistle's voice as she materialized and was freed.
 
 ### Reunion and Grief (Session 22)
-At the Temple of Tyr, Clover finally reunited with Thistle and shared the devastating news about their parents' deaths. She accepted her new responsibility as Protector of the Moonlit Pool and promised to teach Thistle their ways.
+At the Temple of Tyr, Clover finally reunited with Thistle and shared the devastating news about their parents' deaths. He accepted his new responsibility as Protector of the Moonlit Pool and promised to teach Thistle their ways.
 
 ## **Personal Side Quests**
-1. **Protect Thistle:** Keep her sister safe now that she's been rescued
+1. **Protect Thistle:** Keep his sister safe now that she's been rescued
 2. **Destroy Tharizdun's Chains:** Use Tyr's Gauntlets to push Tharizdun further back into imprisonment
 3. **Restore the Moonlit Pool Legacy:** As the new Protector, find a way to honor or rebuild what was lost
-4. **Train Thistle:** Teach her sister "the ways" of their druidic tradition
+4. **Train Thistle:** Teach his sister "the ways" of their druidic tradition
 5. **Discover the Truth:** Learn what artifact was stolen from the Moonlit Pool and why the cultists wanted it

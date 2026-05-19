@@ -4,7 +4,7 @@ session: 7
 campaign: neverwinter-icebreakers
 date: 2024-XX-XX
 party: [Milo, Jaspar, Auren]
-locations: [Axeholm, The Void, Mountain Top]
+locations: [Axelholm, The Void, Mountain Top]
 npcs: [Braum, Thistle (Feywild), Liora Swiftclock, Cora, Tharizdun]
 items_acquired: [Healing Hammer (lost), Luxon Fragment (ritual component)]
 status: published
@@ -21,12 +21,12 @@ tags:
 **Party Present:** [[Milo_Swiftclock|Milo Swiftclock]], [[Jaspar_Starshade|Jaspar Starshade]], [[Auren]] (absent: [[Modred_De_Moray|Sir Modred De Moray]])
 
 ## Quick Summary
-> The party entered [[Axeholm]], fought ice skeletons and a stone giant, met the dwarf [[Braum]] who accused [[Milo_Swiftclock|Milo]] of theft, and discovered a triangular portal. Using the Luxon fragment and ritual, they passed through [[The_Void|the Void]] where each was tempted by false divine beings showing visions of their deepest fears and desires. They emerged on a [[Mountain_Top|mountain top]] to witness [[Liora_Swiftclock|Liora]] frozen mid-struggle with [[Cora]], and the hammer's power unleashing the wave of ice that had plagued the land.
+> The party entered [[Axelholm]], fought ice skeletons and a stone giant, met the dwarf [[Braum]] who accused [[Milo_Swiftclock|Milo]] of theft, and discovered a triangular portal. Using the Luxon fragment and ritual, they passed through [[The_Void|the Void]] where each was tempted by false divine beings showing visions of their deepest fears and desires. They emerged on a [[Mountain_Top|mountain top]] to witness [[Liora_Swiftclock|Liora]] frozen mid-struggle with [[Cora]], and the hammer's power unleashing the wave of ice that had plagued the land.
 
 ## Characters Met
 
 ### New NPCs
-- **[[Braum]]** - Dwarf Male - Last unfrozen dwarf of [[Axeholm]]. "How dare you show up after stealing from me!" Initially hostile toward [[Milo_Swiftclock|Milo]], mistaking him for the thief who stole the [[Healing_Hammer|healing hammer]].
+- **[[Braum]]** - Dwarf Male - Last unfrozen dwarf of [[Axelholm]]. "How dare you show up after stealing from me!" Initially hostile toward [[Milo_Swiftclock|Milo]], mistaking him for the thief who stole the [[Healing_Hammer|healing hammer]].
 - **[[Thistle_Feywild|Thistle (Feywild)]]** - Eladrin Male - [[Auren]]'s friend from the [[Feywild]], contacted him during meditation. Warned about an omen: "If a man is released, the forest will burn."
 
 ### Returning NPCs
@@ -35,7 +35,7 @@ tags:
 
 ## Places Visited
 
-### [[Axeholm]]
+### [[Axelholm]]
 **Entrance Hall:**
 - Dark dwarven fortress, stairs leading upward
 - Corridor forward blocked by ice
@@ -96,7 +96,7 @@ tags:
 
 ## Key Events Timeline
 
-1. **Entered [[Axeholm]]** - Dark dwarven fortress with multiple paths
+1. **Entered [[Axelholm]]** - Dark dwarven fortress with multiple paths
 2. **Heard Distress Call** - Voice calling for help echoed through halls
 3. **Found [[Braum]]** - Dwarf fighting stone giant in upper room
 4. **Combat Triggered** - [[Milo_Swiftclock|Milo]]'s attack summoned 4 frost skeletons
@@ -140,7 +140,7 @@ tags:
 
 ## Revelations & Lore
 
-- **[[Liora_Swiftclock|Liora]] is the thief** - [[Milo_Swiftclock|Milo]]'s sister stole the [[Healing_Hammer|healing hammer]] from [[Axeholm]]
+- **[[Liora_Swiftclock|Liora]] is the thief** - [[Milo_Swiftclock|Milo]]'s sister stole the [[Healing_Hammer|healing hammer]] from [[Axelholm]]
 - **The hammer has great power** - Healing abilities from a crystal, plus other strong magical properties
 - **Triangular portals** - Same symbol as when [[Lord_Neverember]] fell; connected to [[The_Void|the Void]]
 - **[[The_Void]] contains illusions** - False divine beings tempt travelers with visions of desires
@@ -157,12 +157,12 @@ tags:
 - [ ] Who is [[Jaspar_Starshade|Jaspar]]'s true divine connection?
 - [ ] What is the "man" that must not be released?
 - [ ] Why was the substance drawn to [[Jaspar_Starshade|Jaspar]]?
-- [ ] What happened to the other dwarfs of [[Axeholm]]?
+- [ ] What happened to the other dwarfs of [[Axelholm]]?
 
 ## Party Status at End
 
 **Location:** [[Mountain_Top|Mountain top]] overlooking [[Neverwinter]] forest
-**Condition:** Rested after long rest in [[Axeholm]]; emotionally shaken from void visions
+**Condition:** Rested after long rest in [[Axelholm]]; emotionally shaken from void visions
 **Next Steps:** Deal with the frozen hammer situation and the dragon
 
 ## Session Metadata

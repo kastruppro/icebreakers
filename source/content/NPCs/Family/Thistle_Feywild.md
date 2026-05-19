@@ -36,7 +36,7 @@ Calm and mystical. Speaks in poetic observations about nature. Carries warnings 
 > "If a man is released, the forest will burn." - Session 7, delivering the omen
 
 ## History with Party
-- Session 7: Contacted Auren during meditation while the party rested in Axeholm. Warned that the ice had come to the forest and delivered an omen from the dwarfs: "If a man is released, the forest will burn." Also mentioned a harengon who might be involved (likely referring to Liora) and advised capturing her if seen.
+- Session 7: Contacted Auren during meditation while the party rested in Axelholm. Warned that the ice had come to the forest and delivered an omen from the dwarfs: "If a man is released, the forest will burn." Also mentioned a harengon who might be involved (likely referring to Liora) and advised capturing her if seen.
 
 ## Secrets/Motivations
 - Connected to prophecy/omens from the Feywild

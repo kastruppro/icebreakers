@@ -53,7 +53,7 @@ A snow-covered mountain peak overlooking the Neverwinter forest. This is where t
 
 ## Connections
 - [[The_Void|The Void]] - Party emerged here from the void
-- [[Axeholm]] - Party could see the ice waves from here that they'd witnessed earlier
+- [[Axelholm]] - Party could see the ice waves from here that they'd witnessed earlier
 - [[Neverwinter]] - Overlooks the forest surrounding Neverwinter
 - [[Healing_Hammer|Healing Hammer]] - Source of the ice plague, embedded here
 - [[Liora_Swiftclock|Liora Swiftclock]] - Frozen here

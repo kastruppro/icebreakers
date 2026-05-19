@@ -49,7 +49,7 @@ Friendly NPCs who have helped the party.
 | --- | --- | --- | --- | --- |
 | Norbus | Dwarf Male | Friend of Toblen; works at digging site | Phandalin/Digging Site | Alive |
 | [[Elira_Moonshadow\|Elira Moonshadow]] | High Elf Female | Divination Wizard; Archivist/Ink-Scribe of Oghma | Neverwinter (House of Knowledge) | Alive |
-| [[Braum\|Braum]] | Dwarf Male | Last unfrozen dwarf of Axeholm | Axeholm | Alive |
+| [[Braum\|Braum]] | Dwarf Male | Last unfrozen dwarf of Axelholm | Axelholm | Alive |
 | [[Thistle_Feywild\|Thistle (Feywild)]] | Eladrin Female | Auren's friend from Feywild | Feywild | Alive (in Feywild) |
 | [[Percy\|Percy]] | Human Male | Noble/Thief; Modred's childhood friend | Waterdeep | Alive |
 | Paladin Fighter | Dward Female | Gladiator opponent | Waterdeep (Field of Triumph) | Alive |
@@ -118,7 +118,7 @@ Minor characters, shopkeepers, and others.
 | Dwarf Armorer | Dwarf Male | Owner of Dependable Defenses | Neverwinter | Alive |
 | Svend | Human Male | Works at Neverwinter cemetery | Neverwinter | Alive |
 | Aron | Human Male | Works at Neverwinter stables | Neverwinter | Alive |
-| White Dragon | Dragon | Ancient White Dragon | Axeholm/Mountains | Alive |
+| White Dragon | Dragon | Ancient White Dragon | Axelholm/Mountains | Alive |
 | [[Sabrina_Nightgale\|Sabrina Nightgale]] | Elf Female | Adventurer from 200 years ago | The Void/Underworld | Deceased (ghost in void) |
 | [[Gigz\|Gigz]] | Gnome Male | Inventor; owns Gigz Gears | Waterdeep (southern district) | Alive |
 | [[Savan\|Savan]] | Human Male | Mage; owns Sevarna's Magic Shop | Waterdeep | Alive |

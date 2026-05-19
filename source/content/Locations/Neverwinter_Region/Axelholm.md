@@ -1,6 +1,6 @@
 ---
 type: location
-name: Axeholm
+name: Axelholm
 campaign: neverwinter-icebreakers
 region: Mountains near Neverwinter
 parent_location:
@@ -13,7 +13,7 @@ tags:
   - campaign/icebreakers
 ---
 
-# Axeholm
+# Axelholm
 
 ## Quick Reference
 **Region:** Mountains between Neverwinter and Phandalin
@@ -57,4 +57,4 @@ An ancient dwarven stronghold built into the mountains. The entrance is flanked 
 - [[Neverwinter]] - Day's journey by road
 - [[Phandalin]] - Nearby settlement
 - [[The_Void|The Void]] - Accessible via ritual at the triangular marking
-- mountains - The freeze waves originated from the mountain peak above Axeholm
+- mountains - The freeze waves originated from the mountain peak above Axelholm
